@@ -1,0 +1,12 @@
+author: Monster Logix Studio
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/mega-pixel-art-sheet
+        http://opengameart.org/content/pixel-bosses-yes
+
+Here is a pixel art sheet featuring tiny animals, trees, bushes, rocks, a few NPCs and some other odds and ends. They're all animated and in use in the game Zip Wizard. Feel free to use them however you like! Hopefully it saves you time or inspires a piece of work you are doing!
+
+Use them however you'd like.
+
+You can view them in the game ZipWizard
+http://www.newgrounds.com/portal/view/664222
+https://play.google.com/store/apps/details?id=com.MonsterLogix.ZipWizard

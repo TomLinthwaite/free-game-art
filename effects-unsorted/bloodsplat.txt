@@ -1,0 +1,14 @@
+Author: PWL
+License: CC-BY-SA
+Source: http://opengameart.org/content/blood-splat-animations
+
+3 different kind of bloodsplat animations drawn in Adobe Flash.
+
+480x480px
+
+Download options are:
+
+1 zip with everything
+Each splat as a PNG-strip (merged and exported with GM:Studio)
+Copyright/Attribution Notice: 
+Use for whatever, credit is nice, but not required :)
