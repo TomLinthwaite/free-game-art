@@ -1,0 +1,257 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the 2D Shooter files, for your ease of use.
+
+////////////////////////////////
+Tilesets
+////////////////////////////////
+
+bridge.png
+32x32
+
+crater1.png
+64x64
+
+debree1.png
+64x64
+
+ground1.png
+64x64 sometimes, the whole image is tile-able, but tiling individual bits can have varied results
+
+ground2.png
+64x64 sometimes, the whole image is tile-able, but tiling individual bits can have varied results
+
+launchbay1.png
+64x16 made to tile on top of rockface1
+
+Lvl0.png
+shows weapon level nil
+
+Lvl1.png
+shows weapon level 1
+
+Lvl2.png
+shows weapon level 2
+
+Lvl3.png
+shows weapon level 3
+
+road1.png
+64x64
+
+road1angle.png
+64x64
+
+road1destroy2.png
+32x32 or 64x64 or a combination of the two
+
+road1destroy.png
+32x32 or 64x64 or a combination of the two
+
+rockface1.png
+256x128
+
+ruinbuild1.png
+32x32
+
+ruinbuild2.png
+32x32
+
+ruinbuildfloor.png
+32x32
+
+ruinbuildgirder.png
+32x32
+
+ruinbuildroof1.png
+32x32 made to tile on top of building ruin, but can be used for other things
+
+ruinbuildroof2.png
+32x32
+
+scorches1.png
+64x64
+
+smallplaceable1.png
+32x32, 16x16 for tiny cars
+
+TA_repairbar.png
+show repair status to weapon
+
+TA_shieldbar_ammobar.png
+show ammo left for weapon
+
+TA_shieldbar_ammolab.png
+ammo label
+
+TA_shieldbar_back.png
+back of ammo/status bar
+
+TA_shieldbar_bar.png
+show shielding left
+
+TA_shieldbar_label.png
+shield label
+
+TA_shieldbar_left.png
+left decor
+
+TA_shieldbar_right.png
+right decor
+
+TA_warning.png
+warn player of death
+
+TA_weapon_chain0.png
+chaingun label
+
+TA_weapon_chain1.png
+chaingun label selected
+
+TA_weapon_shot0.png
+spread shot label
+
+TA_weapon_shot1.png
+spread shot label selected
+
+TA_weapon_swell0.png
+shield well label
+
+TA_weapon_swell1.png
+shield well label selected
+
+Tbomb.png
+it's a bomb
+
+TbombAMMO.png
+ammo icon for bombs
+
+wrench.png
+drawn over weapon icon to show active repair
+
+X.png
+drawn over damaged weapon to show non-useable
+
+////////////////////////////////
+Animated
+////////////////////////////////
+
+Player Ship draw order...
+TypeAp1_ltail > TypeAp1_rtail > TypeAp1_lwing > TypeAp1_rwing > TypeAp1_Fuse
+
+
+bullet_A_strip2.png
+2 frames, 32x8 each
+
+Bullet_impact_A_strip5.png
+5 frames, 26x26
+
+Bullet_impact_B_strip5.png
+5 frames, 26x26
+
+Bullet_impact_C_strip6.png
+6 frames, 26x17
+
+Bullet_impact_D_strip6.png
+6 frames, 27x17
+
+Dfire_missle.png
+
+Electric_A_strip5.png
+5 frames, 33x32
+
+Explosion_A_strip7.png
+7 frames, 32x32
+
+Explosion_B1_strip6.png
+6 frames, 32x32
+
+Explosion_B2_strip6.png
+6 frames, 32x32
+
+Gore_impact_A_strip6.png
+6 frames, 28x30
+
+Gore_impact_B_strip6.png
+6 frames, 28x30
+
+Gore_impact_C_strip5.png
+5 frames, 30x18
+
+Gore_impact_D_strip5.png
+5 frames, 30x18
+
+H_seeker_strip2.png
+2 frames, 20x6 each
+
+Horizon_explosion.png
+
+Mflash_A_strip4.png
+4 frames, 32x24
+
+propulsion_A_strip2.png
+2 frames, 24x24
+
+propulsion_B.png
+
+riverAbot_strip5.png
+5 frames, 64x64
+
+riverAtop_strip5.png
+5 frames, 64x64
+
+Shield_well_B_strip2.png
+2 frames, 64x64
+
+Shield_well_end_strip4.png
+4 frames, 62x61
+
+Shield_well_start_strip4.png
+4 frames, 62x61
+
+Shield_well_T_strip7.png
+7 frames, 64x64
+
+Shockwave_A.png
+
+Smoke_A_strip5.png
+5 frames, 30x29
+
+spike_fist_attack1_strip8.png
+8 frames, 70x74
+
+spike_fist_attack2_strip8.png
+8 frames, 70x74
+
+spike_fist_chunks_strip10.png
+10 frames, 28x28
+
+spike_fist_die_strip8.png
+8 frames, 63x53
+
+spike_fist_move_strip5.png
+5 frames, 61x47
+
+Splat_A_strip4.png
+4 frames, 65x53
+
+TA_shieldbar_drain_strip7.png
+7 frames, 119x22 each
+
+TypeAp1_chunks_strip8.png
+8 frames, 47x35 each
+
+TypeAp1_Fuse_strip11.png
+11 frames, 65x36 each
+
+TypeAp1_ltail_strip11.png
+11 frames, 21x18 each
+
+TypeAp1_lwing_strip11.png
+11 frames, 30x35 each
+
+TypeAp1_rtail_strip11.png
+11 frames, 21x18 each
+
+TypeAp1_rwing_strip11.png
+11 frames, 30x35 each

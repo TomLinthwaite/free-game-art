@@ -1,3 +1,5 @@
 Author: DeadKir
 License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/pixelart-skills-icons
+
+The items13-skull.png is an edit by Nikita Sadkov

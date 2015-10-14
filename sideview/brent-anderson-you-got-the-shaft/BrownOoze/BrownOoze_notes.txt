@@ -1,0 +1,39 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Brown Ooze files, for your ease of use.
+
+s_brwnooze_air_att_strip4.png
+-4 images, 14x13 each, airborn attack wobble
+
+s_brwnooze_air_strip4.png
+-4 images, 15x15 each, airborn wobble
+
+s_brwnooze_chnk1_strip6.png
+-6 images, 14x9 each, dead eyes
+
+s_brwnooze_chnk2_strip4.png
+-4 images, 11x16 each, splat chunks
+
+s_brwnooze_corner_strip7.png
+-7 images, 16x16 each, transition from floor to wall, inside corner
+
+s_brwnooze_die_strip10.png
+-10 images, 45x22 each, death
+
+s_brwnooze_diz_strip4.png
+-4 images, 20x8 each, dizzy
+
+s_brwnooze_idle_strip4.png
+-4 images, 18x11 each, idle
+
+s_brwnooze_move_strip9.png
+-9 images, 19x11 each, move
+
+s_brwnooze_ouch_strip7.png
+-7 images, 25x12 each, pained
+
+s_brwnooze_outcorner_strip7.png
+-7 images, 22x22 each, transition from floor to wall, outside corner
+
+s_brwnooze_pow_att_strip21.png
+-21 images, 38x14 each, attack

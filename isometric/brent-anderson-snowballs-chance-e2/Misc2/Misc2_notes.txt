@@ -1,0 +1,100 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Misc2 files, for your ease of use.
+
+These are mostly stand alone decor, a few listed below are tilesets.
+
+-b_A_caveenter_01.png
+16x32, left cave outer edge
+
+-b_A_caveenter_02.png
+32x32, cave wall
+
+-b_A_caveenter_03.png
+16x32, right cave outer edge
+
+-b_A_caveenter_04.png
+32x32, left/right cave outer edge base
+
+-b_A_caveenter_05.png
+32x16, cave wall base
+
+-b_A_caveenter_06.png
+32x32, cave ceiling
+
+-b_A_cragshell.png
+
+-b_A_cragskull.png
+
+-b_A_fence_01.png
+
+-b_A_fence_02.png
+
+-b_A_fence_03.png
+
+-b_A_sign.png
+
+-b_B_bed.png
+
+-b_B_books.png
+
+-b_B_bshelf.png
+
+-b_B_cavein.png
+
+-b_B_chair.png
+
+-b_B_table.png
+
+-b_brmbl_sprl1_1.png
+
+-b_brmbl_sprl1_2.png
+
+-b_brmbl_sprl2_1.png
+
+-b_brmbl_sprl2_2.png
+
+-b_brmbl_thstl1_1.png
+
+-b_brmbl_thstl1_2.png
+
+-b_F_signA.png
+
+-b_F_signB.png
+
+-b_F_signC.png
+
+-b_G4_remains.png
+
+-b_G6_rockdebree.png
+32x32
+
+-b_G6_ropechunk.png
+32x16, ropes connected to ground that hang over an edge
+
+-b_tree_spec_a1.png
+Tree a1-a4 form a full fallen tree
+
+-b_tree_spec_a2.png
+
+-b_tree_spec_a3.png
+
+-b_tree_spec_a4.png
+
+-s_A_fence_01.png
+Fence 01-03 are several states of the same fence
+
+-s_A_fence_02.png
+
+-s_A_fence_03.png
+
+-s_E1_brmbl.png
+
+-s_G6_bridge_strip5.png
+68x90, 5 images
+
+-s_wormdoor_open_strip7.png
+124x162, 7 images
+
+-s_wormdoor_rttl_strip5.png
+99x115, 5 images

@@ -1,0 +1,119 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Cave set 2 files, for your ease of use.
+
+Tiles are mostly based on 32x32 grid, but certain tiles can be used in smaller variants.
+
+-b_cvback_01.png
+32x32, used as background tile
+
+-b_cvback_01b.png
+32x32, used as background tile
+
+-b_cvdbr.png
+32x32, decorative
+
+-b_cvflr_01.png
+32x32, main floor tile
+
+-b_cvflr_02.png
+32x32, southern floor corners
+
+-b_cvflr_03.png
+32x32 or other, floor tile
+
+-b_cvflr_04.png
+32x32 or other, floor tile
+
+-b_cvflr_b01.png
+32x32, northern floor corner, southern floorwall corner
+
+-b_cvflr_b02.png
+32x32, souther floor and floorwall corner
+
+-b_cvflr_b03.png
+32x32, alternate southern floor corner
+
+-b_cvflr_b04.png
+32x32 or other, floor edges
+
+-b_cvflr_b05.png
+32x32, alternate floor edges
+
+-b_cvflr_b06.png
+32x32, southern floorwall
+
+-b_cvflr_b07.png
+32x32, southern floorwall corner
+
+-b_cvflr_r01.png
+32x32, east ramp 1
+
+-b_cvflr_r02.png
+32x32, east ramp 2
+
+-b_cvflr_r03.png
+32x32, west ramp 1
+
+-b_cvflr_r04.png
+32x32, west ramp 2
+
+-b_cvflr_r05.png
+32x32, south and north ramp
+
+-b_cvwll.png
+32x32, cave wall
+
+-b_cvwll_bttm.png
+32x32, cave wall bottom
+
+-b_cvwll_bttm_diag.png
+32x32, cave wall bottom corner
+
+-b_cvwll_diag.png
+32x32, cave wall corner
+
+-b_cvwll_edge1.png
+16x16, cave wall east west south edge
+
+-b_cvwll_edge2.png
+32x32, cave wall southern corners 
+
+-b_cvwll_edge3.png
+16x32, cave wall edges
+
+-b_cvwll_edge4.png
+16x32, cave wall edges 2
+
+-b_cvwll_edge5.png
+16x32, cave wall edges 3
+
+-b_cvwll_tp.png
+32x32, cave wall top
+
+-b_cvwll_tp_diag.png
+32x32, cave wall top angle
+
+-b_dirt_W1.png
+32x32, cave dirt floor
+
+-b_dirt_W2.png
+32x32, cave dirt floor southern corner
+
+-b_dirt_W3.png
+32x32, cave dirt floor northern corner
+
+-b_hlvr_baseA.png
+horizontal lever base
+
+-b_lghtfxtrA.png
+32x32, ceiling light fixtures
+
+-b_pllrA.png
+stone pillar
+
+-b_pllrB.png
+stone pillar
+
+-b_vlvr_baseA.png
+vertical lever base

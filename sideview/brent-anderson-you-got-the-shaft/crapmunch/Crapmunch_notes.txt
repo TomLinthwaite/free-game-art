@@ -1,0 +1,24 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Crapmunch files, for your ease of use.
+
+s_crapmunch_idle1_strip10.png
+-10 images, 90x81each, inactive idle
+
+s_crapmunch_idle2_strip6.png
+-6 images, 78x58 each, inactive idle
+
+s_crapmunch_idle_strip6.png
+-6 images, 98x76 each, active idle animation
+
+s_crapmunch_intro_strip17.png
+-17 images, 113x74 each, transition from inactive to active
+
+s_crapmunch_shovelpoo_strip10.png
+-10 images, 138x79 each, shoveling poo attack
+
+s_crapmunch_shovelswat_strip11.png
+-11 images, 147x96 each, shovel swat
+
+s_crapmunch_walk_strip8.png
+-8 images, 109x78 each, walking

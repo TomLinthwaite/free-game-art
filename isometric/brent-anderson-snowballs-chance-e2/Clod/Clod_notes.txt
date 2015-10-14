@@ -1,0 +1,82 @@
+Notes on the Clod files, for your ease of use.
+
+Some of these sprites are pieces, combined in certain ways to show different action. Their draw order can be seen in their naming...
+
+s_cld_ft(feet)->s_cld_bdy(body)->s_cld_eye(eyes)
+
+There are a few full body animations.
+
+s_cld_bdy.png
+
+s_cld_bdy_ang_strip8.png
+-8 frames, 36x41 each
+
+s_cld_die_n_strip8.png
+-8 frames, 62x66 each
+
+s_cld_die_s_strip8.png
+-8 frames, 62x66 each
+
+s_cld_drown_strip4.png
+-4 frames, 40x51 each
+
+s_cld_eyeblnk_e_strip3.png
+-3 frames, 6x11 each
+
+s_cld_eyeblnk_s_strip3.png
+-3 frames, 12x6 each
+
+s_cld_eyeblnk_se_strip3.png
+-3 frames, 10x8 each
+
+s_cld_eyeblnk_sw_strip3.png
+-3 frames, 10x8 each
+
+s_cld_eyeblnk_w_strip3.png
+-3 frames, 6x11 each
+
+s_cld_eyedzzy_s_strip4.png
+-4 frames, 8x14 each
+
+s_cld_ft_e_strip6.png
+-6 frames, 36x26 each
+
+s_cld_ft_n_strip6.png
+-6 frames, 36x26 each
+
+s_cld_ft_ne_strip6.png
+-6 frames, 39x31 each
+
+s_cld_ft_nw_strip6.png
+-6 frames, 39x31 each
+
+s_cld_ft_s_strip6.png
+-6 frames, 36x26 each
+
+s_cld_ft_se_strip6.png
+-6 frames, 39x29 each
+
+s_cld_ft_sw_strip6.png
+-6 frames, 396x29 each
+
+s_cld_ft_w_strip6.png
+-6 frames, 36x26 each
+
+s_cld_ftdzzy_s_strip7.png
+-7 frames, 58x38 each
+
+s_cld_ftjmp_e.png
+
+s_cld_ftjmp_n.png
+
+s_cld_ftjmp_ne.png
+
+s_cld_ftjmp_nw.png
+
+s_cld_ftjmp_s.png
+
+s_cld_ftjmp_se.png
+
+s_cld_ftjmp_sw.png
+
+s_cld_ftjmp_w.png

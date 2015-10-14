@@ -1,0 +1,69 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Snowballer files, for your ease of use.
+
+Some of these sprites are pieces, combined in certain ways to show different action. Their draw order can be seen in their naming...
+
+sballerL(legs)->sballerT(torso)->sballerH(head)
+
+... any full body animation is assigned to the sballerL name.
+
+sballerHidle_strip13.png
+-13 frames, 35x28 each
+
+sballerHrunLeft_strip6.png
+-6 frames, 31x30 each
+
+sballerHrunRight_strip6.png
+-6 frames, 31x30 each
+
+sballerLidle_strip6.png
+-6 frames, 31x21 each
+
+sballerLkoLeft_strip9.png
+-9 frames, 82x69 each
+
+sballerLkoRight_strip9.png
+-9 frames, 82x69 each
+
+sballerLlobLeft_strip5.png
+-5 frames, 69x69 each
+
+sballerLlobRight_strip5.png
+-5 frames, 69x69 each
+
+sballerLrunLeft_strip6.png
+-6 frames, 38x30 each
+
+sballerLrunRight_strip6.png
+-6 frames, 38x30 each
+
+sballerLstunLeft_strip4.png
+-4 frames, 58x69 each
+
+sballerLstunRight_strip4.png
+-4 frames, 58x69 each
+
+sballerLthrowLeft_strip11.png
+-11 frames, 75x68 each
+
+sballerLthrowRight_strip11.png
+-11 frames, 75x68 each
+
+sballerTcarry_strip2.png
+-2 frames, 36x51 each
+
+sballerTcarrySmall_strip2.png
+-2 frames, 37x32 each
+
+sballerTidle_strip6.png
+-6 frames, 36x31 each
+
+sballerTidleHold_strip2.png
+-2 frames, 29x28 each
+
+sballerTrunLeft_strip6.png
+-6 frames, 34x33 each
+
+sballerTrunRight_strip6.png
+-6 frames, 34x33 each

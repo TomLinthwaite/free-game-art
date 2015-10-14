@@ -1,0 +1,56 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Boss Worm files, for your ease of use.
+
+If you see something like "biteE" in the name, more specifically the capitol "E", that is directional, as in the character is biting east.
+
+s_bsswrm_barf_strip12.png
+12 frames, 203x173 each, worm coughs up something
+
+s_bsswrm_biteE_strip5.png
+5 frames, 192x163 each
+
+s_bsswrm_biteN_strip5.png
+5 frames, 163x140 each
+
+s_bsswrm_biteS_strip5.png
+5 frames, 182x143 each
+
+s_bsswrm_biteW_strip5.png
+5 frames, 192x163 each
+
+s_bsswrm_drtpop_strip6.png
+6 frames, 82x56 each, this is used to show the worm's movement under ground
+
+s_bsswrm_flopN.png
+for worm bouncing on hard surface
+
+s_bsswrm_flopS.png
+for worm bouncing on hard surface
+
+s_bsswrm_intro_strip16.png
+16 frames, 153x166 each, when the worm first shows itself, I had it eating someone
+
+s_bsswrm_jumpE_strip4.png
+4 frames, 201x120 each
+
+s_bsswrm_jumpN_strip4.png
+4 frames, 143x108 each
+
+s_bsswrm_jumpS_strip4.png
+4 frames, 143x119 each
+
+s_bsswrm_jumpW_strip4.png
+4 frames, 201x120 each
+
+s_bsswrm_mpctNE_strip4.png
+4 frames, 150x157 each, the "mpct" sprites serve several functions, impacting on a hard floor, and taking additional damage while laying on the floor
+
+s_bsswrm_mpctNW_strip4.png
+4 frames, 150x157 each
+
+s_bsswrm_mpctSE_strip4.png
+4 frames, 155x163 each
+
+s_bsswrm_mpctSW_strip4.png
+4 frames, 155x163 each

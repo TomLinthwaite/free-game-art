@@ -1,0 +1,36 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Ashland files, for your ease of use.
+
+b_shaftouter.png
+-16x16 tile, tower of sorts
+
+b_shaftouter2.png
+-16x16 tile, used for inside tower section
+
+b_ashrockback1.png
+-background decor
+
+b_ashrockback2.png
+-background decor
+
+b_ashlandrock_back1.png
+-16x16 tile, back layer of rock
+
+b_ashlandrock1.png
+-16x16 and 8x8, front layer of rock
+
+b_ashland1.png
+-16x16, ashy ground
+
+b_ashland2.png
+-16x16, ashy ground for up against rocks
+
+b_ashcanoback.png
+-background image
+
+b_ashback1.png
+-repeating background
+
+b_ashback2.png
+-repeating background

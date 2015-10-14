@@ -1,0 +1,54 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Blocks and Chopper files, for your ease of use.
+
+s_ashblk2x_strip9.png
+-9 images, 32x16 each
+
+s_ashblk_strip9.png
+-9 images, 16x16 each
+
+s_chopper_blade_strip6.png
+-6 images, 43x30 each
+
+s_chopper_die_strip21.png
+-21 images, 37x27 each
+
+s_chopper_face_strip6.png
+-6 images, 18x20 each
+
+s_chopper_ouch_strip5.png
+-5 images, 18x24 each
+
+s_metalblk_strip3.png
+-3 images, 18x18 each
+
+s_scatblk_dam_strip3.png
+-3 images, 16x16 each, damage overlay for scatblock
+
+s_scatblk_part_strip4.png
+-4 images, 8x8 each, paticles for scatblock
+
+s_scatblk_strip3.png
+-3 images, 18x18 each
+
+s_stoneblk_strip3.png
+-3 images, 18x18 each
+
+s_turdblk_dam_strip3.png
+-3 images, 16x16 each, damage overlay for turdblock
+
+s_turdblk_part_strip4.png
+-4 images, 10x10 each, particles for turdblock
+
+s_turdblk_strip3.png
+-3 images, 18x18 each
+
+s_woodblk_dam_strip3.png
+-3 images, 16x16 each, damage overlay for woodblock
+
+s_woodblk_part_strip4.png
+-4 images, 8x8 each, particles for woodblock
+
+s_woodblk_strip3.png
+-3 images, 18x18 each

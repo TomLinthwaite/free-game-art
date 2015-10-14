@@ -1,0 +1,35 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Buggles files, for your ease of use.
+
+This character consists of 3 major parts, the head, body, and tail.
+
+bugglesBodyMoveLeft_strip4.png
+-4 frames, 42x33 each, use in reverse for northeastern movement
+
+bugglesBodyMoveRight_strip4.png
+-4 frames, 42x33 each, use in reverse for northwestern movement
+
+bugglesHeadMoveLDown_strip9.png
+-9 frames, 37x39 each
+
+bugglesHeadMoveLUp_strip9.png
+-9 frames, 35x33 each
+
+bugglesHeadMoveRDown_strip9.png
+-9 frames, 37x39 each
+
+bugglesHeadMoveRUp_strip9.png
+-9 frames, 35x33 each
+
+bugglesTailDownLeft_strip4.png
+-4 frames, 42x33 each
+
+bugglesTailDownRight_strip4.png
+-4 frames, 42x33 each
+
+bugglesTailUpLeft_strip4.png
+-4 frames, 42x33 each
+
+bugglesTailUpRight_strip4.png
+-4 frames, 42x33 each

@@ -1,0 +1,10 @@
+Notes on the Stone Spring files, for your ease of use.
+
+stoneSpringIdle_strip5.png
+5 frames, 43x24 each
+
+stoneSpringVentJet_strip7.png
+7 frames, 32x75 each
+
+stoneSpringVentSpread_strip7.png
+7 frames, 67x70 each

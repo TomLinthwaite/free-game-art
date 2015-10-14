@@ -1,0 +1,77 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Grannid files, for your ease of use.
+
+This character is in 2 pieces, body and head, or sometimes head+arm and body.  He was designed to talk and show emotion while doing several actions.
+
+-s_grnnd_angry_s_strip4.png
+129x121, 4 images, an angry pose
+
+-s_grnnd_Bfrhd.png
+body still
+
+-s_grnnd_cln.png
+body still, crouched for cleaning
+
+-s_grnnd_cln_chck_strip8.png
+72x144, 8 images, cleaning debree out while crouched
+
+-s_grnnd_cln_pnteast_strip3.png
+68x124, 3 images, points east while crouched
+
+-s_grnnd_cln_pntwest_strip3.png
+89x129, 3 images, points west while crouched
+
+-s_grnnd_cln_scrp_strip4.png
+55x127, 4 images, digging at rubble while crouched
+
+-s_grnnd_Hangrytlk_s_strip5.png
+33x62, 5 images, angry talk south head
+
+-s_grnnd_Hanoytlk_s_strip4.png
+33x62, 4 images, annoyed talk south head
+
+-s_grnnd_Hfrhd_strip5.png
+55x109, 5 images, facepalm
+
+-s_grnnd_Hsrprsd_s.png
+surprised south head
+
+-s_grnnd_Htlk_n_strip4.png
+33x61, 4 images, talk north head
+
+-s_grnnd_Htlk_ne_strip4.png
+32x63, 4 images, talk north-east head
+
+-s_grnnd_Htlk_nw_strip4.png
+32x63, 4 images, talk north-west head
+
+-s_grnnd_Htlk_s_strip4.png
+33x62, 4 images, talk south head
+
+-s_grnnd_Htlk_sd_strip3.png
+33x53, 3 images, talk south down head
+
+-s_grnnd_Htlk_se_strip4.png
+32x63, 4 images, talk south-east head
+
+-s_grnnd_Htlk_sw_strip4.png
+32x63, 4 images, talk south-west head
+
+-s_grnnd_kck_s_strip8.png
+98x121, 8 images, kick at ground
+
+-s_grnnd_pnt_s_strip3.png
+95x121, 3 images, point south
+
+-s_grnnd_rock_strip4.png
+57x39, 4 images, thrown rock debree
+
+-s_grnnd_stnd_s_strip4.png
+93x122, 4 images, body idle
+
+-s_grnnd_thmbrght_s_strip3.png
+98x121, 3 images, point right standing
+
+-s_grnnd_wlk_s_strip8.png
+94x117, 8 images, walking south

@@ -1,0 +1,82 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Cave worm files, for your ease of use.
+
+If you see something like "biteE" in the name, more specifically the capitol "E", that is directional, as in the character is biting east.
+
+s_cvwrm_biteE_strip9.png
+9 frames, 86x61 each
+
+s_cvwrm_biteN_strip9.png
+9 frames, 49x58 each
+
+s_cvwrm_biteNE_strip9.png
+9 frames, 73x57 each
+
+s_cvwrm_biteNW_strip9.png
+9 frames, 73x57 each
+
+s_cvwrm_biteS_strip9.png
+9 frames, 48x85 each
+
+s_cvwrm_biteSE_strip9.png
+9 frames, 82x73 each
+
+s_cvwrm_biteSW_strip9.png
+9 frames, 82x73 each
+
+s_cvwrm_biteW_strip9.png
+9 frames, 86x61 each
+
+//Note about "die" animations, the first two frames where to be held intil impact with the ground, which is frame 3.
+
+s_cvwrm_dieSE_strip3.png
+3 frames, 59x60 each
+
+s_cvwrm_dieSW_strip3.png
+3 frames, 59x60 each
+
+s_cvwrm_drtpops_strip6.png
+6 frames, 35x39 each, used as particle for when worm is traveling underground.
+
+s_cvwrm_flopSE_strip5.png
+5 frames, 63x72 each, for use if worm is on hard floor
+
+s_cvwrm_flopSW_strip5.png
+5 frames, 63x72 each, for use if worm is on hard floor
+
+s_cvwrm_frownSE_strip4.png
+4 frames, 44x44 each, used for when it misses a bite attack
+
+s_cvwrm_frownSW_strip4.png
+4 frames, 44x44 each, used for when it misses a bite attack
+
+s_cvwrm_jumpE_strip5.png
+5 frames, 70x61 each
+
+s_cvwrm_jumpN_strip5.png
+5 frames, 40x65 each
+
+s_cvwrm_jumpNE_strip5.png
+5 frames, 51x63 each
+
+s_cvwrm_jumpNW_strip5.png
+5 frames, 51x63 each
+
+s_cvwrm_jumpS_strip5.png
+5 frames, 43x61 each
+
+s_cvwrm_jumpSE_strip5.png
+5 frames, 46x62 each
+
+s_cvwrm_jumpSW_strip5.png
+5 frames, 46x62 each
+
+s_cvwrm_jumpW_strip5.png
+5 frames, 70x61 each
+
+s_cvwrm_ouchSE_strip6.png
+6 frames, 63x58 each
+
+s_cvwrm_ouchSW_strip6.png
+6 frames, 63x58 each

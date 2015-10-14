@@ -1,0 +1,122 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes on the Starving Guy files, for your ease of use.
+
+Some of these sprites are pieces, combined in certain ways to show different action. Their draw order can be seen in their naming...
+
+_b_ = body
+_h_ = head
+_a_ = arm
+
+There are a few full body animations.
+
+s_out_a_opndrS_strip23.png
+48x71, 23 images, arm unlocking large door
+
+s_out_b_angry_strip5.png
+39x38, 5 images, angry reaction
+
+s_out_b_chckl_strip3.png
+40x39, 3 images, chuckle
+
+s_out_b_getup_strip4.png
+30x41, 4 images, standing up end
+
+s_out_b_keysnagS_strip13.png
+76x56, 13 images, swiping a key
+
+s_out_b_lkatme_strip4.png
+39x37, 4 images, refering to self
+
+s_out_b_opndrS_strip5.png
+30x39, 5 images, opening large door
+
+s_out_b_pntlvrE.png
+point up east
+
+s_out_b_pntlvrN.png
+point up north
+
+s_out_b_pntlvrNE.png
+point up northeast
+
+s_out_b_pntlvrNW.png
+point up northwest
+
+s_out_b_pntlvrS.png
+point up south
+
+s_out_b_pntlvrSE.png
+point up southeast
+
+s_out_b_pntlvrSW.png
+point up southwest
+
+s_out_b_pntlvrW.png
+point up west
+
+s_out_b_pntsth_strip4.png
+41x38, 4 images, sitting point south
+
+s_out_b_shky_strip3.png
+40x37, 3 images, shakey
+
+s_out_b_sit_strip4.png
+39x38, 4 images, sit idle
+
+s_out_b_stagE_strip6.png
+28x41, 6 images, walk east
+
+s_out_b_stagN_strip6.png
+30x37, 6 images, walk north
+
+s_out_b_stagNE_strip6.png
+34x37, 6 images, walk northeast
+
+s_out_b_stagNW_strip6.png
+34x37, 6 images, walk northwest
+
+s_out_b_stagS_strip6.png
+35x41, 6 images, walk south
+
+s_out_b_stagSE_strip6.png
+30x40, 6 images, walk southeast
+
+s_out_b_stagSW_strip6.png
+30x40, 6 images, walk southwest
+
+s_out_b_stagW_strip6.png
+28x41, 6 images, walk west
+
+s_out_b_staybck_strip5.png
+39x42, 5 images, scared reaction
+
+s_out_dryheave_strip7.png
+33x43, 7 images, dry heave
+
+s_out_h_angry_strip25.png
+27x29, 25 images, angry talking
+
+s_out_h_happy_strip25.png
+28x28, 25 images, happy talking
+
+s_out_h_meh_strip40.png
+29x29, 40 images, meh talking
+
+s_out_h_mehslm_strip40.png
+28x31, 40 images, meh talking slimed
+
+s_out_h_sad_strip25.png
+28x28, 25 images, sad talking
+
+s_out_h_surp_strip25.png
+29x28, 25 images, surprised talking
+
+s_out_h_surpslm_strip25.png
+28x31, 25 images, surprised talking slimed
+
+s_out_popup_strip2.png
+51x49, 2 images, popped into the air
+
+s_out_spatout_strip2.png
+50x38, 2 images, spat out talking

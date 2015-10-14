@@ -1,0 +1,108 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Monsta files, for your ease of use.
+
+s_health_back.png
+-back graphic for monsta healthbar
+
+s_health_bar.png
+-front graphic for monsta healthbar
+
+s_plyr_att1_strip7.png
+-7 images, 23x17 each, punch attack
+
+s_plyr_att2_strip7.png
+-7 images, 21x17 each, claw swipe attack
+
+s_plyr_att3_strip7.png
+-7 images, 22x17 each, punch attack
+
+s_plyr_att4_strip7.png
+-7 images, 21x17 each, claw swipe attack
+
+s_plyr_att5_strip7.png
+-7 images, 22x18 each, kick attack
+
+s_plyr_att6_strip7.png
+-7 images, 24x18 each, headbutt attack
+
+s_plyr_att7_strip7.png
+-7 images, 21x17 each, bite attack
+
+s_plyr_counteratt_strip9.png
+-9 images, 26x15 each, stomp attack
+
+s_plyr_dizzy_strip10.png
+-10 images, 26x17 each, dizzy
+
+s_plyr_down_strip5.png
+-5 images, 21x17 each, down on back
+
+s_plyr_downrecover_strip5.png
+-5 images, 20x18 each, backflip recover
+
+s_plyr_fallback1_strip2.png
+-2 images, 31x19 each, impact on back
+
+s_plyr_fallback2_strip2.png
+-2 images, 31x19 each, bounce on back
+
+s_plyr_fallback3_strip2.png
+-2 images, 31x19 each, fall on back
+
+s_plyr_getup_strip11.png
+-11 images, 28x21 each, jump to feet
+
+s_plyr_guard_strip7.png
+-7 images, 17x15 each, guarding
+
+s_plyr_guardbreak_strip4.png
+-4 images, 17x15 each, stumble backward
+
+s_plyr_idle1_strip8.png
+-8 images, 16x17 each, chewing idle
+
+s_plyr_idle2_strip9.png
+-9 images, 17x18 each, rawr idle
+
+s_plyr_idle3_strip6.png
+-6 images, 16x17 each, blinking idle
+
+s_plyr_idle4_strip6.png
+-6 images, 18x17 each, wobble idle
+
+s_plyr_jump_strip7.png
+-7 images, 20x22 each, jumping
+
+s_plyr_pain1_strip7.png
+-7 images, 24x19 each, reacting to hit
+
+s_plyr_pain2_strip7.png
+-7 images, 22x23 each, reacting to hit
+
+s_plyr_pair_up1_strip4.png
+-4 images, 24x16 each, knocked into the air
+
+s_plyr_pair_up2_strip6.png
+-6 images, 18x17 each, airborn
+
+s_plyr_powDown_strip20.png
+-20 images, 30x25 each, faceplant attack
+
+s_plyr_powLR_strip25.png
+-25 images, 34x18 each, big punch attack
+
+s_plyr_powUp_strip15.png
+-15 images, 32x29 each, uppercut attack
+
+s_plyr_run_strip8.png
+-8 images, 21x18 each, running
+
+s_plyr_stun_up_strip10.png
+-10 images, 25x17 each, conked on the head
+
+s_pow_back_strip9.png
+-9 images, 65x14 each, back graphic for monsta powerbar
+
+s_pow_bar_strip10.png
+-10 images, 47x13 each, front graphic for monsta powerbar

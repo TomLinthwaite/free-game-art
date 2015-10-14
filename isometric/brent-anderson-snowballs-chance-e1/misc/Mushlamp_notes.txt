@@ -1,0 +1,9 @@
+Notes on the Mushlamp files, for your ease of use.
+
+The method behind these sprites was that the larger mushlamp would light up the smaller adjacent shrooms once opened. 
+
+mushlamp_open_strip5.png
+-5 frames, 44x59 each, play backwards for a closing animation
+
+mushlump_on_strip4.png
+-4 frames, 32x32 each, play backwards for a "shutting off" animation

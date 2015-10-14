@@ -1,0 +1,63 @@
+Create by Brent Anderson, www.dumbmanex.com
+
+Notes on the Cavemonster files, for your ease of use.
+
+cavemonster_north_strip.png
+2 frames, 163x195 each
+
+cavemonster_south_strip.png
+3 frames, 170x200 each
+
+cavemonster_east_strip.png
+3 frames, 161x201 each
+
+cavemonster_west_strip.png
+3 frames, 161x201 each
+
+cavemonster_attackNorth_strip.png
+6 frames, 235x206 each
+
+cavemonster_attackSouth_strip.png
+6 frames, 236x239 each
+
+cavemonster_attackEast_strip.png
+6 frames, 221x208 each
+
+cavemonster_attackWest_strip.png
+6 frames, 221x208 each
+
+cavemonster_eyesSouth_strip.png
+3 frames, 164x58 each
+
+cavemonster_eyesEast_strip.png
+3 frames, 56x58 each
+
+cavemonster_eyesWest_strip.png
+3 frames, 56x58 each
+
+cavemonster_turnLeft_strip.png
+8 frames, 236x200 each
+
+cavemonster_turnRight_strip.png
+8 frames, 236x200 each
+
+cavemonster_wakeEyes_strip.png
+4 frames, 139x61 each
+
+cavemonster_wakeUp_strip.png
+15 frames, 246x255 each
+
+cavemonster_wakeUpHold_strip.png
+1 frames, 193x173 each
+
+cavemonster_huh_strip.png
+5 frames, 214x224 each
+
+cavemonster_surprise_strip.png
+4 frames, 264x239 each
+
+cavemonster_surpriseHold_strip.png
+2 frames, 218x243 each
+
+cavemonster_surpriseTransition_strip.png
+5 frames, 218x244 each

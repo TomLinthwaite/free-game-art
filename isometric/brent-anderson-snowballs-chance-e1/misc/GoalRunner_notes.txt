@@ -1,0 +1,22 @@
+Notes on the Goal Runner files, for your ease of use.
+
+m_goal_cower_strip4.png
+-4 frames, 30x52 each
+
+m_goal_lookleft_strip8.png
+-8 frames, 35x43 each
+
+m_goal_lookright_strip8.png
+-8 frames, 35x43 each
+
+m_goal_rundown_strip8.png
+-8 frames, 20x50 each
+
+m_goal_runleft_strip8.png
+-8 frames, 42x49 each
+
+m_goal_runright_strip8.png
+-8 frames, 42x49 each
+
+m_goal_runup_strip8.png
+-8 frames, 20x50 each

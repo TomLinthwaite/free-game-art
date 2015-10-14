@@ -1,0 +1,78 @@
+Created by Brent Anderson, www.dumbmanex.com
+
+Notes about the Monster Sewer files, for your ease of use.
+
+b_floorA.png
+-16x16 tile, generic floor
+
+b_sewer1.png
+-16x16 tile, floor and wall
+
+b_sewer2.png
+-16x16 tile, floor and wall
+
+b_sewerback1.png
+-16x16 tile, background wall
+
+b_sewerback2.png
+-16x16 tile, background wall
+
+b_sewerback3.png
+-16x16 tile, background wall
+
+b_sewerback4.png
+-16x16 tile, background crap piles
+
+b_sewerblockgen1.png
+-16x16 tile, animated background grate
+
+b_sewerblockgen2.png
+-16x16 tile, animated background grate
+
+b_sewerblockgen3.png
+-16x16 tile, animated background grate
+
+b_sewerblockgen4.png
+-16x16 tile, animated background grate
+
+b_sewerblockgen5.png
+-16x16 tile, animated background grate
+
+b_sewerdoor1.png
+-16x16 tile, background decor
+
+b_sewergate1_h1.png
+-16x16 tile, animated background gate
+
+b_sewergate1_h2.png
+-16x16 tile, animated background gate
+
+b_sewergate1_h3.png
+-16x16 tile, animated background gate
+
+b_sewergrate1.png
+-32x32 tile, background grate decor
+
+b_sewerwater1_1.png
+-16x16 tile, animated sewer water
+
+b_sewerwater1_2.png
+-16x16 tile, animated sewer water
+
+b_sewerwater1_3.png
+-16x16 tile, animated sewer water
+
+b_sewerwater1_4.png
+-16x16 tile, animated sewer water
+
+b_sewerwaterfall1_1.png
+-16x16 tile, animated sewer water
+
+b_sewerwaterfall1_2.png
+-16x16 tile, animated sewer water
+
+b_sewerwaterfall1_3.png
+-16x16 tile, animated sewer water
+
+b_sewerwaterfall1_4.png
+-16x16 tile, animated sewer water
