@@ -1,0 +1,7 @@
+author: Svetlana Kushnariova 'Cabbit' (lana-chan@yandex.ru)
+license: CC-BY, OGA-BY
+source: http://opengameart.org/content/24x32-characters-with-faces-big-pack
+        http://opengameart.org/content/24x32-heroine-lyuba-sprites-faces-pictures
+
+Copyright/Attribution Notice: 
+Attribution requirement: credit me as Svetlana Kushnariova and give my email address, lana-chan@yandex.ru

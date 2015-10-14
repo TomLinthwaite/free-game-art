@@ -1,6 +1,6 @@
 Authors: Luis Zuno 'ansimuz' (http://ansimuz.com/site/)
-License: CC0 (Public Domain)
-Origin: http://opengameart.org/content/animated-explosions
+License: Public Domain
+Origin: http://opengameart.org/content/space-ship-shooter-pixel-art-assets
 
 Artwork created by Luis Zuno (@ansimuz)
 
