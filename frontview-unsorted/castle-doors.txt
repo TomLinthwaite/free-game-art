@@ -1,0 +1,10 @@
+Author: Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
+License: CC-BY
+Origin: http://opengameart.org/content/animated-castle-doors
+        http://opengameart.org/content/wooden-fortress-and-animated-doors
+
+
+Wooden fortress with matching animated doors. Door size is 64x64 pixel. These tiles work fine with 32x32 tilesets. Do not use animated doors in GIF since it is just for showing the animation. Use the PNG version instead.
+
+Attribution Instructions: 
+Wooden fortress and animated castle doors by Tuomo Untinen
