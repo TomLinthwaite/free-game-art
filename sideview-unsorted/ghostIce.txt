@@ -1,0 +1,13 @@
+author: LazyDev
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/ghost-animated
+
+My first art that doesn't look like a random spot but looks like an actual thing.
+
+Maybe there is place for it in your RPG or roguelike.
+
+Contains 3 animations: death, attack and "walking".
+
+P.S. I'd like to make a small sci-fi game. Maybe someone have ideas that could be implemented within two or three weeks?
+
+P.P.S. Please tell me about mistakes in the description. I rarely write something in English.

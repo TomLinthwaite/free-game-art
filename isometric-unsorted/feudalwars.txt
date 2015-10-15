@@ -1,0 +1,9 @@
+Author: feudalwars
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/isometric-25d-medieval-blacksmith
+        http://opengameart.org/content/isometric-25d-medieval-archery-range
+
+This isometric midieval blacksmith was designed for the browser-based RTS Feudal Wars (feudalwars.net). The artwork for Feudal Wars has since evolved into a different style and these earlier assets will not be used. Instead, they will be published in the public domain for anyone to use for free!  
+
+This isometric midieval archery range was designed for the browser-based RTS Feudal Wars (feudalwars.net). The artwork for Feudal Wars has since evolved into a different style and these earlier assets will not be used. Instead, they will be published in the public domain for anyone to use for free! 
+
