@@ -1,6 +1,6 @@
-author: LazyDev
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/ghost-animated
+Author: LazyDev
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/ghost-animated
 
 My first art that doesn't look like a random spot but looks like an actual thing.
 

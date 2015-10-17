@@ -1,0 +1,3 @@
+author: russpuppy (http://russpuppy.com)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/rpg-art-pack

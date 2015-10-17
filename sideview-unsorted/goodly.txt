@@ -1,0 +1,3 @@
+Author: Zack Alvarado
+License: CC-BY
+Origin: http://opengameart.org/content/platformer-tilesets

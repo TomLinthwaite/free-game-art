@@ -1,0 +1,4 @@
+Author: pudman (http://mesardesigns.com)
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/2d-castle-platformer-starter-assets
+        http://opengameart.org/content/2d-castle-platformer-assets-2

@@ -1,11 +1,11 @@
 author: Samuel Ronce (http://webcreative5.net/)
-license: MIT
-source: http://webcreative5.net/
-        http://rpgcreator.net/
-        http://opengameart.org/content/japanese-edo-village-tileset
+license: CC-BY
+source: http://yms.main.jp/page2/tile-retrotown01.html
+        http://yms.main.jp/page1/rule.html
 
+The materials in this site are royalty-free but not copyright free. 
+All the copyrights belong to dot art world. 
+When you distribute widely your software, you should include the name of this site in your credit title. 
 
-A tileset for a japanese edo village.
-
-Copyright/Attribution Notice:
-Copyright (C) 2012 by WebCreative5 - Samuel Ronce Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Site name　Pixel Art World or ドット絵世界
+URL　　　http://yms.main.jp

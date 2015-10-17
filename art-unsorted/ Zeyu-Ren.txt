@@ -1,0 +1,3 @@
+Author: Zeyu Ren
+License CC-BY
+Origin: http://opengameart.org/content/backgrounds-for-2d-platformers
