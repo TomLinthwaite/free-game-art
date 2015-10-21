@@ -1,0 +1,6 @@
+author: Nash
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/sipahi-full-game-character-boneskeleton-animation-ready
+
+Copyright/Attribution Notice: 
+just take it
