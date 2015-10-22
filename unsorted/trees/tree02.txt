@@ -1,6 +1,6 @@
-author: domsson
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/two-pixelish-tree-sprites
+Author: domsson
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/two-pixelish-tree-sprites
 
 See this forum post for how those trees came about:
 

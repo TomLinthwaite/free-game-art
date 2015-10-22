@@ -1,0 +1,19 @@
+Author: Dan Cramp 'dancramp' (http://dancramp.com)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/tiny-platform-quest-sprites
+
+This is a set of sprites I made for my first HTML5 game. These sprites are available out there anyway, so I thought I'd release them here for anyone else interested!
+
+Sprites are essentially 16x16 doubled to be 32x32.
+
+Retroish 2d platformer type sprites including:
+  * Outdoors
+  * Stonework
+  * Dungeons
+  * Caves
+  * Hazards and traps
+  * Player character (knight), npc's (princess, fairy, evil wizard) and enemies - all animated
+  * Backgrounds
+
+Sorry, they are not particularly well organised or anything and any feedback would be gratefully received! This is my first submission, so sure there's room for improvement! An example of them in use can be seen in the game I made (kind of a first project, not a complete game, more a demo) - Tiny Platform Quest: http://dancramp.com/site/apps/tinyplatformquest/index.html there's also a video of the game play here: https://www.youtube.com/watch?v=DehdHBd6HRM Thanks, hope you like it! If you use it, lety me know - I'd love to see what you do with it!
+

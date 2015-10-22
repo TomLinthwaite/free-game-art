@@ -1,0 +1,5 @@
+author: Wesnoth Team
+license: GPL2
+origin: wesnoth.org
+
+edited from dark_prophet_magic3

@@ -1,10 +1,12 @@
 Author: Chris 'feudalwars' (feudalwars.net)
 License: CC0 (Public Domain)
-Origin: http://opengameart.org/content/isometric-25d-medieval-blacksmith
+Origin: http://opengameart.org/content/isometric-25d-medieval-set
+        http://opengameart.org/content/isometric-25d-medieval-blacksmith
         http://opengameart.org/content/isometric-25d-medieval-archery-range
         http://opengameart.org/content/isometric-25d-medieval-stable
         http://opengameart.org/content/isometric-25d-western-european-castle
         http://opengameart.org/content/isometric-25d-medieval-barracks
+        http://opengameart.org/content/isometric-25d-western-european-medieval-houses
 
 This isometric midieval blacksmith was designed for the browser-based RTS Feudal Wars (feudalwars.net). The artwork for Feudal Wars has since evolved into a different style and these earlier assets will not be used. Instead, they will be published in the public domain for anyone to use for free!  
 
