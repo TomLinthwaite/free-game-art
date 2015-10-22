@@ -1,4 +1,4 @@
-author: Buch (Michele Bucelli)
+author: Buch (Michele Bucelli), rubberduck
 license: CC0 (Public Domain)
 source: http://opengameart.org/content/dawnblocker-ortho
         http://opengameart.org/content/extension-for-dawnblocker-ortho
