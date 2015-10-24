@@ -1,0 +1,9 @@
+author: Jerom, Eiyeron
+license: CC-BY 3.0
+origin: http://opengameart.org/content/colored-16x16-fantasy-tileset
+
+
+I tried to give some colors and some epicness to tileset from Jerom (http://opengameart.org/content/16x16-fantasy-tileset), because I liked it. I used DawnBringer 32 color palette. SOme tiles can easily be recolored to your pleasure. I gave myself the 4 color per tile/sprite rule.
+
+Attribution Instructions: 
+Principally attribute this to Jerom. I just added some colors. Put Eiyeron or @Eiyeron.
