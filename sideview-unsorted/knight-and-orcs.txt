@@ -1,0 +1,4 @@
+author: Killy Vera 'killyoverdrive'
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/knight-sprite
+        http://opengameart.org/content/orcs-attack

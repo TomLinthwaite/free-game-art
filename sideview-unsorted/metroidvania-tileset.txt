@@ -1,0 +1,8 @@
+author: Chad Wolfe 'The Chayed - KIIRA' (http://kiiragames.weebly.com)
+license: CC-BY, CC-BY-SA, GPL2, GPL3, OGA-BY
+source: http://opengameart.org/content/metroidvania-tileset-v2
+
+A while ago I uploaded a Metroidvania tileset. Think of this as kind of a remastered version, with much more detail and better colors. Enjoy!
+
+Copyright/Attribution Notice: 
+KIIRA
