@@ -1,0 +1,12 @@
+Author: DawnBringer, DragonDePlatino (http://dragondeplatino.daportfolio.com/)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181
+
+Dawnlike all started in the fall of 2013 as an idea. A crazy, ambitious idea called DawnHack. I had recently played NetHack, but was let down with the graphics. It was then that I decided I would make a tileset worthy of this incredible game! And so I began. I drew a giant ant. Then a bee, and then a soldier ant. I worked at a furious pace, churning out tiles at superhuman speeds. And lo and behold...after the first week I had blazed my way through the first 120 tiles, a total 11% of the 1057 tiles of NetHack. But little did I know, I had just taken my first brave bites out of the great whale I would one day consume.
+
+And finally, after 3 months of on-and-off work, I ate that whale. Tail and all. Several devs including ais523 (NetHack4) and Patric Mueller (UnNetHack) found the tileset and contacted me for some expansions. I helped them out, and the Android versions of NetHack4 and UnNetHack now include DawnHack.
+
+But I still wasn't satisfied. I lurked the web and discovered famous tilesets like Oryx's Ultimate Roguelike, Cardinal Quest, and Dungeon Crawl Stone Soup. I discovered that in the rogue-like community, there exists a high demand for high-quality, open source tilesets. Something to make rogue-likes more accessible...something to add a little pizazz...something to help newcomers discover they love rogue-likes! And so I bring you a colossal expansion of DawnHack. My time, my sweat, my magnus opus...Dawnlike.
+
+Attribution Instructions: 
+If you use this tileset you must accredit DawnBringer. That mad color-bending genius came up with the palette this entire pack lives on. Without his palette, I would probably never would have even finished DawnHack.
