@@ -1,4 +1,0 @@
-author: artisticdude (http://www.sumwars.org/module/forum/member.php?action=profile&uid=15)
-license: CC-BY 3.0
-origin: http://opengameart.org/content/fire-evil-spell
-        http://www.sumwars.org/module/forum/showthread.php?tid=21&pid=450#pid450

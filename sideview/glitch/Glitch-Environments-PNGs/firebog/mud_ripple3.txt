@@ -1,0 +1,444 @@
+{"frames": {
+
+"mud_ripple3_31.png":
+{
+	"frame": {"x":0,"y":0,"w":6,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":9,"w":6,"h":2},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_32.png":
+{
+	"frame": {"x":6,"y":0,"w":8,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":8,"w":8,"h":4},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_33.png":
+{
+	"frame": {"x":14,"y":0,"w":10,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":8,"w":10,"h":4},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_34.png":
+{
+	"frame": {"x":24,"y":0,"w":12,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":8,"w":12,"h":4},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_35.png":
+{
+	"frame": {"x":36,"y":0,"w":12,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":8,"w":12,"h":4},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_36.png":
+{
+	"frame": {"x":48,"y":0,"w":14,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":7,"w":14,"h":6},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_37.png":
+{
+	"frame": {"x":62,"y":0,"w":16,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":7,"w":16,"h":6},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_38.png":
+{
+	"frame": {"x":78,"y":0,"w":18,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":7,"w":18,"h":6},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_39.png":
+{
+	"frame": {"x":96,"y":0,"w":20,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":7,"w":20,"h":6},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_40.png":
+{
+	"frame": {"x":116,"y":0,"w":22,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":6,"w":22,"h":8},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_41.png":
+{
+	"frame": {"x":138,"y":0,"w":22,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":6,"w":22,"h":8},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_42.png":
+{
+	"frame": {"x":160,"y":0,"w":24,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":24,"h":8},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_43.png":
+{
+	"frame": {"x":184,"y":0,"w":26,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":5,"w":26,"h":10},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_44.png":
+{
+	"frame": {"x":210,"y":0,"w":28,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":5,"w":28,"h":10},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_45.png":
+{
+	"frame": {"x":0,"y":10,"w":30,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":30,"h":10},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_46.png":
+{
+	"frame": {"x":30,"y":10,"w":30,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":30,"h":10},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_47.png":
+{
+	"frame": {"x":60,"y":10,"w":32,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":4,"w":32,"h":12},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_48.png":
+{
+	"frame": {"x":92,"y":10,"w":34,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":34,"h":12},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_49.png":
+{
+	"frame": {"x":126,"y":10,"w":36,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":4,"w":36,"h":12},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_50.png":
+{
+	"frame": {"x":162,"y":10,"w":38,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":4,"w":38,"h":12},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_51.png":
+{
+	"frame": {"x":200,"y":10,"w":38,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":4,"w":38,"h":12},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_52.png":
+{
+	"frame": {"x":0,"y":22,"w":40,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":3,"w":40,"h":14},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_53.png":
+{
+	"frame": {"x":40,"y":22,"w":42,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":42,"h":14},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_54.png":
+{
+	"frame": {"x":82,"y":22,"w":44,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":3,"w":44,"h":14},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_55.png":
+{
+	"frame": {"x":126,"y":22,"w":46,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":3,"w":46,"h":14},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_56.png":
+{
+	"frame": {"x":172,"y":22,"w":46,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":46,"h":16},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_57.png":
+{
+	"frame": {"x":0,"y":38,"w":48,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":48,"h":16},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_58.png":
+{
+	"frame": {"x":48,"y":38,"w":50,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":50,"h":16},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_59.png":
+{
+	"frame": {"x":98,"y":38,"w":52,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":52,"h":16},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_60.png":
+{
+	"frame": {"x":150,"y":38,"w":52,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":52,"h":16},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_61.png":
+{
+	"frame": {"x":202,"y":38,"w":54,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":54,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_62.png":
+{
+	"frame": {"x":0,"y":56,"w":54,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":54,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_63.png":
+{
+	"frame": {"x":54,"y":56,"w":56,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":56,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_64.png":
+{
+	"frame": {"x":110,"y":56,"w":56,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":56,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_65.png":
+{
+	"frame": {"x":166,"y":56,"w":58,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":58,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_66.png":
+{
+	"frame": {"x":0,"y":74,"w":58,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":58,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_67.png":
+{
+	"frame": {"x":58,"y":74,"w":58,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":58,"h":18},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_68.png":
+{
+	"frame": {"x":116,"y":74,"w":60,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":60,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_69.png":
+{
+	"frame": {"x":176,"y":74,"w":60,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":60,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_70.png":
+{
+	"frame": {"x":0,"y":94,"w":60,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":60,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_71.png":
+{
+	"frame": {"x":60,"y":94,"w":62,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_72.png":
+{
+	"frame": {"x":122,"y":94,"w":62,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":62,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_73.png":
+{
+	"frame": {"x":184,"y":94,"w":62,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":62,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_74.png":
+{
+	"frame": {"x":0,"y":114,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_75.png":
+{
+	"frame": {"x":64,"y":114,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_76.png":
+{
+	"frame": {"x":128,"y":114,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_77.png":
+{
+	"frame": {"x":192,"y":114,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_78.png":
+{
+	"frame": {"x":0,"y":134,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_79.png":
+{
+	"frame": {"x":64,"y":134,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_80.png":
+{
+	"frame": {"x":128,"y":134,"w":66,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_81.png":
+{
+	"frame": {"x":0,"y":154,"w":66,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_82.png":
+{
+	"frame": {"x":66,"y":154,"w":66,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_83.png":
+{
+	"frame": {"x":132,"y":154,"w":66,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":20},
+	"sourceSize": {"w":66,"h":20}
+},
+"mud_ripple3_84.png":
+{
+	"frame": {"x":0,"y":174,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":66,"h":20}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "mud_ripple3.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9af1a0cf8f0bd0488bb13dedf224c0a:0c13165eb0a8ee1e6433497068400989:6f7b278c6fd17edeed9c1677c454e708$"
+}
+}

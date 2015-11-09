@@ -1,3 +1,0 @@
-author: Vladislav Krotov (Vinrax)
-license: CC-BY
-origin: http://opengameart.org/content/paper-pages-sounds

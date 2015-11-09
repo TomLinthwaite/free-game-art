@@ -1,0 +1,4812 @@
+{"frames": {
+
+"miniparty_piggy_00.png":
+{
+	"frame": {"x":0,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_01.png":
+{
+	"frame": {"x":12,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_02.png":
+{
+	"frame": {"x":24,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_03.png":
+{
+	"frame": {"x":34,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_04.png":
+{
+	"frame": {"x":44,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_05.png":
+{
+	"frame": {"x":56,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_06.png":
+{
+	"frame": {"x":68,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_07.png":
+{
+	"frame": {"x":80,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_08.png":
+{
+	"frame": {"x":92,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_09.png":
+{
+	"frame": {"x":102,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_10.png":
+{
+	"frame": {"x":114,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_100.png":
+{
+	"frame": {"x":126,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_101.png":
+{
+	"frame": {"x":136,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_102.png":
+{
+	"frame": {"x":146,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_103.png":
+{
+	"frame": {"x":156,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_104.png":
+{
+	"frame": {"x":166,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_105.png":
+{
+	"frame": {"x":176,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_106.png":
+{
+	"frame": {"x":186,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_107.png":
+{
+	"frame": {"x":196,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_108.png":
+{
+	"frame": {"x":206,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_109.png":
+{
+	"frame": {"x":216,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_11.png":
+{
+	"frame": {"x":226,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_110.png":
+{
+	"frame": {"x":236,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_111.png":
+{
+	"frame": {"x":246,"y":0,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_112.png":
+{
+	"frame": {"x":0,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_113.png":
+{
+	"frame": {"x":10,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_114.png":
+{
+	"frame": {"x":20,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_115.png":
+{
+	"frame": {"x":30,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_116.png":
+{
+	"frame": {"x":40,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_117.png":
+{
+	"frame": {"x":50,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_118.png":
+{
+	"frame": {"x":60,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_119.png":
+{
+	"frame": {"x":70,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_12.png":
+{
+	"frame": {"x":80,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_120.png":
+{
+	"frame": {"x":90,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_121.png":
+{
+	"frame": {"x":100,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_122.png":
+{
+	"frame": {"x":110,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_123.png":
+{
+	"frame": {"x":120,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_124.png":
+{
+	"frame": {"x":130,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_125.png":
+{
+	"frame": {"x":140,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_126.png":
+{
+	"frame": {"x":150,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_127.png":
+{
+	"frame": {"x":160,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_128.png":
+{
+	"frame": {"x":170,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_129.png":
+{
+	"frame": {"x":180,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_13.png":
+{
+	"frame": {"x":190,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_130.png":
+{
+	"frame": {"x":200,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_131.png":
+{
+	"frame": {"x":210,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_132.png":
+{
+	"frame": {"x":220,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_133.png":
+{
+	"frame": {"x":230,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_134.png":
+{
+	"frame": {"x":240,"y":8,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_135.png":
+{
+	"frame": {"x":0,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_136.png":
+{
+	"frame": {"x":10,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_137.png":
+{
+	"frame": {"x":22,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_138.png":
+{
+	"frame": {"x":34,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_139.png":
+{
+	"frame": {"x":46,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_14.png":
+{
+	"frame": {"x":58,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_140.png":
+{
+	"frame": {"x":70,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_141.png":
+{
+	"frame": {"x":80,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_142.png":
+{
+	"frame": {"x":90,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_143.png":
+{
+	"frame": {"x":100,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_144.png":
+{
+	"frame": {"x":110,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_145.png":
+{
+	"frame": {"x":120,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_146.png":
+{
+	"frame": {"x":130,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_147.png":
+{
+	"frame": {"x":140,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_148.png":
+{
+	"frame": {"x":150,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_149.png":
+{
+	"frame": {"x":160,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_15.png":
+{
+	"frame": {"x":170,"y":16,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_150.png":
+{
+	"frame": {"x":182,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_151.png":
+{
+	"frame": {"x":192,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_152.png":
+{
+	"frame": {"x":202,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_153.png":
+{
+	"frame": {"x":212,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_154.png":
+{
+	"frame": {"x":222,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_155.png":
+{
+	"frame": {"x":232,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_156.png":
+{
+	"frame": {"x":242,"y":16,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_157.png":
+{
+	"frame": {"x":0,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_158.png":
+{
+	"frame": {"x":10,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_159.png":
+{
+	"frame": {"x":20,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_16.png":
+{
+	"frame": {"x":30,"y":24,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_160.png":
+{
+	"frame": {"x":42,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_161.png":
+{
+	"frame": {"x":52,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_162.png":
+{
+	"frame": {"x":62,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_163.png":
+{
+	"frame": {"x":72,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_164.png":
+{
+	"frame": {"x":82,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_165.png":
+{
+	"frame": {"x":92,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_166.png":
+{
+	"frame": {"x":102,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_167.png":
+{
+	"frame": {"x":112,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_168.png":
+{
+	"frame": {"x":122,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_169.png":
+{
+	"frame": {"x":132,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_17.png":
+{
+	"frame": {"x":142,"y":24,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_170.png":
+{
+	"frame": {"x":154,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_171.png":
+{
+	"frame": {"x":164,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_172.png":
+{
+	"frame": {"x":174,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_173.png":
+{
+	"frame": {"x":184,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_174.png":
+{
+	"frame": {"x":194,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_175.png":
+{
+	"frame": {"x":204,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_176.png":
+{
+	"frame": {"x":214,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_177.png":
+{
+	"frame": {"x":224,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_178.png":
+{
+	"frame": {"x":234,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_179.png":
+{
+	"frame": {"x":244,"y":24,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_18.png":
+{
+	"frame": {"x":0,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_180.png":
+{
+	"frame": {"x":10,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_181.png":
+{
+	"frame": {"x":20,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_182.png":
+{
+	"frame": {"x":30,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_183.png":
+{
+	"frame": {"x":40,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_184.png":
+{
+	"frame": {"x":50,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_185.png":
+{
+	"frame": {"x":60,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_186.png":
+{
+	"frame": {"x":70,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_187.png":
+{
+	"frame": {"x":80,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_188.png":
+{
+	"frame": {"x":90,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_189.png":
+{
+	"frame": {"x":100,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_19.png":
+{
+	"frame": {"x":110,"y":32,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_190.png":
+{
+	"frame": {"x":122,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_191.png":
+{
+	"frame": {"x":132,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_192.png":
+{
+	"frame": {"x":142,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_193.png":
+{
+	"frame": {"x":152,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_194.png":
+{
+	"frame": {"x":162,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_195.png":
+{
+	"frame": {"x":172,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_196.png":
+{
+	"frame": {"x":182,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_197.png":
+{
+	"frame": {"x":192,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_198.png":
+{
+	"frame": {"x":202,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_199.png":
+{
+	"frame": {"x":212,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_20.png":
+{
+	"frame": {"x":222,"y":32,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_200.png":
+{
+	"frame": {"x":234,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_201.png":
+{
+	"frame": {"x":244,"y":32,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_202.png":
+{
+	"frame": {"x":0,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_203.png":
+{
+	"frame": {"x":10,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_204.png":
+{
+	"frame": {"x":20,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_205.png":
+{
+	"frame": {"x":30,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_206.png":
+{
+	"frame": {"x":40,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_207.png":
+{
+	"frame": {"x":50,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_208.png":
+{
+	"frame": {"x":60,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_209.png":
+{
+	"frame": {"x":70,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_21.png":
+{
+	"frame": {"x":80,"y":40,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_210.png":
+{
+	"frame": {"x":92,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_211.png":
+{
+	"frame": {"x":102,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_212.png":
+{
+	"frame": {"x":112,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_213.png":
+{
+	"frame": {"x":122,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_214.png":
+{
+	"frame": {"x":132,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_215.png":
+{
+	"frame": {"x":142,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_216.png":
+{
+	"frame": {"x":152,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_217.png":
+{
+	"frame": {"x":162,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_218.png":
+{
+	"frame": {"x":172,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_219.png":
+{
+	"frame": {"x":182,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_22.png":
+{
+	"frame": {"x":192,"y":40,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_220.png":
+{
+	"frame": {"x":204,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_221.png":
+{
+	"frame": {"x":214,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_222.png":
+{
+	"frame": {"x":224,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_223.png":
+{
+	"frame": {"x":234,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_224.png":
+{
+	"frame": {"x":244,"y":40,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_225.png":
+{
+	"frame": {"x":0,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_226.png":
+{
+	"frame": {"x":10,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_227.png":
+{
+	"frame": {"x":20,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_228.png":
+{
+	"frame": {"x":30,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_229.png":
+{
+	"frame": {"x":40,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_23.png":
+{
+	"frame": {"x":50,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_230.png":
+{
+	"frame": {"x":60,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_231.png":
+{
+	"frame": {"x":70,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_232.png":
+{
+	"frame": {"x":80,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_233.png":
+{
+	"frame": {"x":90,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_234.png":
+{
+	"frame": {"x":100,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_235.png":
+{
+	"frame": {"x":110,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_236.png":
+{
+	"frame": {"x":120,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_237.png":
+{
+	"frame": {"x":130,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_238.png":
+{
+	"frame": {"x":140,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_239.png":
+{
+	"frame": {"x":150,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_24.png":
+{
+	"frame": {"x":160,"y":48,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_240.png":
+{
+	"frame": {"x":172,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_241.png":
+{
+	"frame": {"x":182,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_242.png":
+{
+	"frame": {"x":192,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_243.png":
+{
+	"frame": {"x":202,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_244.png":
+{
+	"frame": {"x":212,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_245.png":
+{
+	"frame": {"x":222,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_246.png":
+{
+	"frame": {"x":232,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_247.png":
+{
+	"frame": {"x":242,"y":48,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_248.png":
+{
+	"frame": {"x":0,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_249.png":
+{
+	"frame": {"x":10,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_25.png":
+{
+	"frame": {"x":20,"y":56,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_250.png":
+{
+	"frame": {"x":32,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_251.png":
+{
+	"frame": {"x":42,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_252.png":
+{
+	"frame": {"x":52,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_253.png":
+{
+	"frame": {"x":62,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_254.png":
+{
+	"frame": {"x":72,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_255.png":
+{
+	"frame": {"x":82,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_256.png":
+{
+	"frame": {"x":92,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_257.png":
+{
+	"frame": {"x":102,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_258.png":
+{
+	"frame": {"x":112,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_259.png":
+{
+	"frame": {"x":122,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_26.png":
+{
+	"frame": {"x":132,"y":56,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_260.png":
+{
+	"frame": {"x":144,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_261.png":
+{
+	"frame": {"x":154,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_262.png":
+{
+	"frame": {"x":164,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_263.png":
+{
+	"frame": {"x":174,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_264.png":
+{
+	"frame": {"x":184,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_265.png":
+{
+	"frame": {"x":194,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_266.png":
+{
+	"frame": {"x":204,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_267.png":
+{
+	"frame": {"x":214,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_268.png":
+{
+	"frame": {"x":224,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_269.png":
+{
+	"frame": {"x":234,"y":56,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_27.png":
+{
+	"frame": {"x":244,"y":56,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_270.png":
+{
+	"frame": {"x":0,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_271.png":
+{
+	"frame": {"x":10,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_272.png":
+{
+	"frame": {"x":20,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_273.png":
+{
+	"frame": {"x":30,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_274.png":
+{
+	"frame": {"x":40,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_275.png":
+{
+	"frame": {"x":50,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_276.png":
+{
+	"frame": {"x":60,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_277.png":
+{
+	"frame": {"x":70,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_278.png":
+{
+	"frame": {"x":80,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_279.png":
+{
+	"frame": {"x":90,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_28.png":
+{
+	"frame": {"x":100,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_280.png":
+{
+	"frame": {"x":110,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_281.png":
+{
+	"frame": {"x":120,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_282.png":
+{
+	"frame": {"x":130,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_283.png":
+{
+	"frame": {"x":140,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_284.png":
+{
+	"frame": {"x":150,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_285.png":
+{
+	"frame": {"x":160,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_286.png":
+{
+	"frame": {"x":170,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_287.png":
+{
+	"frame": {"x":180,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_288.png":
+{
+	"frame": {"x":190,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_289.png":
+{
+	"frame": {"x":200,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_29.png":
+{
+	"frame": {"x":210,"y":64,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_290.png":
+{
+	"frame": {"x":222,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_291.png":
+{
+	"frame": {"x":232,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_292.png":
+{
+	"frame": {"x":242,"y":64,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_293.png":
+{
+	"frame": {"x":0,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_294.png":
+{
+	"frame": {"x":10,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_295.png":
+{
+	"frame": {"x":20,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_296.png":
+{
+	"frame": {"x":30,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_297.png":
+{
+	"frame": {"x":40,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_298.png":
+{
+	"frame": {"x":50,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_299.png":
+{
+	"frame": {"x":60,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_30.png":
+{
+	"frame": {"x":70,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_300.png":
+{
+	"frame": {"x":82,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_301.png":
+{
+	"frame": {"x":92,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_302.png":
+{
+	"frame": {"x":104,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_303.png":
+{
+	"frame": {"x":116,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_304.png":
+{
+	"frame": {"x":128,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_305.png":
+{
+	"frame": {"x":138,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_306.png":
+{
+	"frame": {"x":150,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_307.png":
+{
+	"frame": {"x":162,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_308.png":
+{
+	"frame": {"x":174,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_309.png":
+{
+	"frame": {"x":186,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_31.png":
+{
+	"frame": {"x":196,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_310.png":
+{
+	"frame": {"x":208,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_311.png":
+{
+	"frame": {"x":220,"y":72,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_312.png":
+{
+	"frame": {"x":232,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_313.png":
+{
+	"frame": {"x":242,"y":72,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_314.png":
+{
+	"frame": {"x":0,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_315.png":
+{
+	"frame": {"x":12,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_316.png":
+{
+	"frame": {"x":24,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_317.png":
+{
+	"frame": {"x":36,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_318.png":
+{
+	"frame": {"x":48,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_319.png":
+{
+	"frame": {"x":58,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_32.png":
+{
+	"frame": {"x":70,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_320.png":
+{
+	"frame": {"x":82,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_321.png":
+{
+	"frame": {"x":94,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_322.png":
+{
+	"frame": {"x":106,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_323.png":
+{
+	"frame": {"x":116,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_324.png":
+{
+	"frame": {"x":126,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_325.png":
+{
+	"frame": {"x":138,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_326.png":
+{
+	"frame": {"x":150,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_327.png":
+{
+	"frame": {"x":162,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_328.png":
+{
+	"frame": {"x":172,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_329.png":
+{
+	"frame": {"x":184,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_33.png":
+{
+	"frame": {"x":196,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_330.png":
+{
+	"frame": {"x":206,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_331.png":
+{
+	"frame": {"x":218,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_332.png":
+{
+	"frame": {"x":230,"y":80,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_333.png":
+{
+	"frame": {"x":240,"y":80,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_334.png":
+{
+	"frame": {"x":0,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_335.png":
+{
+	"frame": {"x":12,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_336.png":
+{
+	"frame": {"x":22,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_337.png":
+{
+	"frame": {"x":32,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_338.png":
+{
+	"frame": {"x":44,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_339.png":
+{
+	"frame": {"x":56,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_34.png":
+{
+	"frame": {"x":68,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_340.png":
+{
+	"frame": {"x":80,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_341.png":
+{
+	"frame": {"x":92,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_342.png":
+{
+	"frame": {"x":102,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_343.png":
+{
+	"frame": {"x":114,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_344.png":
+{
+	"frame": {"x":126,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_345.png":
+{
+	"frame": {"x":138,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_346.png":
+{
+	"frame": {"x":148,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_347.png":
+{
+	"frame": {"x":160,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_348.png":
+{
+	"frame": {"x":172,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_349.png":
+{
+	"frame": {"x":184,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_35.png":
+{
+	"frame": {"x":194,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_350.png":
+{
+	"frame": {"x":206,"y":88,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_351.png":
+{
+	"frame": {"x":216,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_352.png":
+{
+	"frame": {"x":228,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_353.png":
+{
+	"frame": {"x":240,"y":88,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_354.png":
+{
+	"frame": {"x":0,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_355.png":
+{
+	"frame": {"x":10,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_356.png":
+{
+	"frame": {"x":22,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_357.png":
+{
+	"frame": {"x":34,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_358.png":
+{
+	"frame": {"x":46,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_359.png":
+{
+	"frame": {"x":58,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_36.png":
+{
+	"frame": {"x":68,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_360.png":
+{
+	"frame": {"x":80,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_361.png":
+{
+	"frame": {"x":92,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_362.png":
+{
+	"frame": {"x":104,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_363.png":
+{
+	"frame": {"x":116,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_364.png":
+{
+	"frame": {"x":126,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_365.png":
+{
+	"frame": {"x":136,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_366.png":
+{
+	"frame": {"x":148,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_367.png":
+{
+	"frame": {"x":160,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_368.png":
+{
+	"frame": {"x":172,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_369.png":
+{
+	"frame": {"x":182,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_37.png":
+{
+	"frame": {"x":194,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_370.png":
+{
+	"frame": {"x":206,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_371.png":
+{
+	"frame": {"x":218,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_372.png":
+{
+	"frame": {"x":230,"y":96,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_373.png":
+{
+	"frame": {"x":242,"y":96,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_374.png":
+{
+	"frame": {"x":0,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_375.png":
+{
+	"frame": {"x":12,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_376.png":
+{
+	"frame": {"x":24,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_377.png":
+{
+	"frame": {"x":36,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_378.png":
+{
+	"frame": {"x":46,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_379.png":
+{
+	"frame": {"x":58,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_38.png":
+{
+	"frame": {"x":70,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_380.png":
+{
+	"frame": {"x":80,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_381.png":
+{
+	"frame": {"x":92,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_382.png":
+{
+	"frame": {"x":104,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_383.png":
+{
+	"frame": {"x":114,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_384.png":
+{
+	"frame": {"x":126,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_385.png":
+{
+	"frame": {"x":138,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_386.png":
+{
+	"frame": {"x":148,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_387.png":
+{
+	"frame": {"x":158,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_388.png":
+{
+	"frame": {"x":170,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_389.png":
+{
+	"frame": {"x":182,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_39.png":
+{
+	"frame": {"x":194,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_390.png":
+{
+	"frame": {"x":206,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_391.png":
+{
+	"frame": {"x":218,"y":104,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_392.png":
+{
+	"frame": {"x":228,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_393.png":
+{
+	"frame": {"x":240,"y":104,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_394.png":
+{
+	"frame": {"x":0,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_395.png":
+{
+	"frame": {"x":12,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_396.png":
+{
+	"frame": {"x":22,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_397.png":
+{
+	"frame": {"x":34,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_398.png":
+{
+	"frame": {"x":46,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_399.png":
+{
+	"frame": {"x":58,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_40.png":
+{
+	"frame": {"x":68,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_400.png":
+{
+	"frame": {"x":80,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_401.png":
+{
+	"frame": {"x":90,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_402.png":
+{
+	"frame": {"x":100,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_403.png":
+{
+	"frame": {"x":110,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_404.png":
+{
+	"frame": {"x":120,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_405.png":
+{
+	"frame": {"x":130,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_406.png":
+{
+	"frame": {"x":140,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_407.png":
+{
+	"frame": {"x":150,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_408.png":
+{
+	"frame": {"x":160,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_409.png":
+{
+	"frame": {"x":170,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_41.png":
+{
+	"frame": {"x":180,"y":112,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_410.png":
+{
+	"frame": {"x":192,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_411.png":
+{
+	"frame": {"x":202,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_412.png":
+{
+	"frame": {"x":212,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_413.png":
+{
+	"frame": {"x":222,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_414.png":
+{
+	"frame": {"x":232,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_415.png":
+{
+	"frame": {"x":242,"y":112,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_416.png":
+{
+	"frame": {"x":0,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_417.png":
+{
+	"frame": {"x":10,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_418.png":
+{
+	"frame": {"x":20,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_419.png":
+{
+	"frame": {"x":30,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_42.png":
+{
+	"frame": {"x":40,"y":120,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_420.png":
+{
+	"frame": {"x":52,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_421.png":
+{
+	"frame": {"x":62,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_422.png":
+{
+	"frame": {"x":72,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_423.png":
+{
+	"frame": {"x":82,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_424.png":
+{
+	"frame": {"x":92,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_425.png":
+{
+	"frame": {"x":102,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_426.png":
+{
+	"frame": {"x":112,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_427.png":
+{
+	"frame": {"x":122,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_428.png":
+{
+	"frame": {"x":132,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_429.png":
+{
+	"frame": {"x":142,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_43.png":
+{
+	"frame": {"x":152,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_430.png":
+{
+	"frame": {"x":162,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_431.png":
+{
+	"frame": {"x":172,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_432.png":
+{
+	"frame": {"x":182,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_433.png":
+{
+	"frame": {"x":192,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_434.png":
+{
+	"frame": {"x":202,"y":120,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_435.png":
+{
+	"frame": {"x":212,"y":120,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_436.png":
+{
+	"frame": {"x":224,"y":120,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_437.png":
+{
+	"frame": {"x":236,"y":120,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_438.png":
+{
+	"frame": {"x":0,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_439.png":
+{
+	"frame": {"x":10,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_44.png":
+{
+	"frame": {"x":20,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_440.png":
+{
+	"frame": {"x":30,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_441.png":
+{
+	"frame": {"x":40,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_442.png":
+{
+	"frame": {"x":50,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_443.png":
+{
+	"frame": {"x":60,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_444.png":
+{
+	"frame": {"x":70,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_445.png":
+{
+	"frame": {"x":80,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_446.png":
+{
+	"frame": {"x":90,"y":128,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_447.png":
+{
+	"frame": {"x":102,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_448.png":
+{
+	"frame": {"x":112,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_449.png":
+{
+	"frame": {"x":122,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_45.png":
+{
+	"frame": {"x":132,"y":128,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_450.png":
+{
+	"frame": {"x":144,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_451.png":
+{
+	"frame": {"x":154,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_452.png":
+{
+	"frame": {"x":164,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_453.png":
+{
+	"frame": {"x":174,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_454.png":
+{
+	"frame": {"x":184,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_455.png":
+{
+	"frame": {"x":194,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_456.png":
+{
+	"frame": {"x":204,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_457.png":
+{
+	"frame": {"x":214,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_458.png":
+{
+	"frame": {"x":224,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_459.png":
+{
+	"frame": {"x":234,"y":128,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_46.png":
+{
+	"frame": {"x":244,"y":128,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_460.png":
+{
+	"frame": {"x":0,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_461.png":
+{
+	"frame": {"x":10,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_462.png":
+{
+	"frame": {"x":20,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_463.png":
+{
+	"frame": {"x":30,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_464.png":
+{
+	"frame": {"x":40,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_465.png":
+{
+	"frame": {"x":50,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_466.png":
+{
+	"frame": {"x":60,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_467.png":
+{
+	"frame": {"x":70,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_468.png":
+{
+	"frame": {"x":80,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_469.png":
+{
+	"frame": {"x":90,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_47.png":
+{
+	"frame": {"x":100,"y":136,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_470.png":
+{
+	"frame": {"x":112,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_471.png":
+{
+	"frame": {"x":122,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_472.png":
+{
+	"frame": {"x":132,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_473.png":
+{
+	"frame": {"x":142,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_474.png":
+{
+	"frame": {"x":152,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_475.png":
+{
+	"frame": {"x":162,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_476.png":
+{
+	"frame": {"x":172,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_477.png":
+{
+	"frame": {"x":182,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_478.png":
+{
+	"frame": {"x":192,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_479.png":
+{
+	"frame": {"x":202,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_48.png":
+{
+	"frame": {"x":212,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_480.png":
+{
+	"frame": {"x":222,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_481.png":
+{
+	"frame": {"x":232,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_482.png":
+{
+	"frame": {"x":242,"y":136,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_483.png":
+{
+	"frame": {"x":0,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_484.png":
+{
+	"frame": {"x":10,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_485.png":
+{
+	"frame": {"x":20,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_486.png":
+{
+	"frame": {"x":30,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_487.png":
+{
+	"frame": {"x":40,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_488.png":
+{
+	"frame": {"x":50,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_489.png":
+{
+	"frame": {"x":60,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_49.png":
+{
+	"frame": {"x":70,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_490.png":
+{
+	"frame": {"x":80,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_491.png":
+{
+	"frame": {"x":90,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_492.png":
+{
+	"frame": {"x":100,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_493.png":
+{
+	"frame": {"x":110,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_494.png":
+{
+	"frame": {"x":120,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_495.png":
+{
+	"frame": {"x":130,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_496.png":
+{
+	"frame": {"x":140,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_497.png":
+{
+	"frame": {"x":150,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_498.png":
+{
+	"frame": {"x":160,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_499.png":
+{
+	"frame": {"x":170,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_50.png":
+{
+	"frame": {"x":180,"y":144,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_500.png":
+{
+	"frame": {"x":192,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_501.png":
+{
+	"frame": {"x":202,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_502.png":
+{
+	"frame": {"x":212,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_503.png":
+{
+	"frame": {"x":222,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_504.png":
+{
+	"frame": {"x":232,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_505.png":
+{
+	"frame": {"x":242,"y":144,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_506.png":
+{
+	"frame": {"x":0,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_507.png":
+{
+	"frame": {"x":10,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_508.png":
+{
+	"frame": {"x":20,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_509.png":
+{
+	"frame": {"x":30,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_51.png":
+{
+	"frame": {"x":40,"y":152,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_510.png":
+{
+	"frame": {"x":52,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_511.png":
+{
+	"frame": {"x":62,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_512.png":
+{
+	"frame": {"x":72,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_513.png":
+{
+	"frame": {"x":82,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_514.png":
+{
+	"frame": {"x":92,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_515.png":
+{
+	"frame": {"x":102,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_516.png":
+{
+	"frame": {"x":112,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_517.png":
+{
+	"frame": {"x":122,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_518.png":
+{
+	"frame": {"x":132,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_519.png":
+{
+	"frame": {"x":142,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_52.png":
+{
+	"frame": {"x":152,"y":152,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_520.png":
+{
+	"frame": {"x":164,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_521.png":
+{
+	"frame": {"x":174,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_522.png":
+{
+	"frame": {"x":184,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_523.png":
+{
+	"frame": {"x":194,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_524.png":
+{
+	"frame": {"x":204,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_525.png":
+{
+	"frame": {"x":214,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_526.png":
+{
+	"frame": {"x":224,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_527.png":
+{
+	"frame": {"x":234,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_528.png":
+{
+	"frame": {"x":244,"y":152,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_529.png":
+{
+	"frame": {"x":0,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_53.png":
+{
+	"frame": {"x":10,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_530.png":
+{
+	"frame": {"x":20,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_531.png":
+{
+	"frame": {"x":30,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_532.png":
+{
+	"frame": {"x":40,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_533.png":
+{
+	"frame": {"x":50,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_534.png":
+{
+	"frame": {"x":60,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_535.png":
+{
+	"frame": {"x":70,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_536.png":
+{
+	"frame": {"x":80,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_537.png":
+{
+	"frame": {"x":90,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_538.png":
+{
+	"frame": {"x":100,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_539.png":
+{
+	"frame": {"x":110,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_54.png":
+{
+	"frame": {"x":120,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_540.png":
+{
+	"frame": {"x":130,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_541.png":
+{
+	"frame": {"x":140,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_542.png":
+{
+	"frame": {"x":150,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_543.png":
+{
+	"frame": {"x":160,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_544.png":
+{
+	"frame": {"x":170,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_545.png":
+{
+	"frame": {"x":180,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_546.png":
+{
+	"frame": {"x":190,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_547.png":
+{
+	"frame": {"x":200,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_548.png":
+{
+	"frame": {"x":210,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_549.png":
+{
+	"frame": {"x":220,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_55.png":
+{
+	"frame": {"x":230,"y":160,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_550.png":
+{
+	"frame": {"x":242,"y":160,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_551.png":
+{
+	"frame": {"x":0,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_552.png":
+{
+	"frame": {"x":10,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_553.png":
+{
+	"frame": {"x":20,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_554.png":
+{
+	"frame": {"x":30,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_555.png":
+{
+	"frame": {"x":40,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_556.png":
+{
+	"frame": {"x":50,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_557.png":
+{
+	"frame": {"x":60,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_558.png":
+{
+	"frame": {"x":70,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_559.png":
+{
+	"frame": {"x":80,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_56.png":
+{
+	"frame": {"x":90,"y":168,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_560.png":
+{
+	"frame": {"x":102,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_561.png":
+{
+	"frame": {"x":112,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_562.png":
+{
+	"frame": {"x":122,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_563.png":
+{
+	"frame": {"x":132,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_564.png":
+{
+	"frame": {"x":142,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_565.png":
+{
+	"frame": {"x":152,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_566.png":
+{
+	"frame": {"x":162,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_567.png":
+{
+	"frame": {"x":172,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_568.png":
+{
+	"frame": {"x":182,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_569.png":
+{
+	"frame": {"x":192,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_57.png":
+{
+	"frame": {"x":202,"y":168,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_570.png":
+{
+	"frame": {"x":214,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_571.png":
+{
+	"frame": {"x":224,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_572.png":
+{
+	"frame": {"x":234,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_573.png":
+{
+	"frame": {"x":244,"y":168,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_574.png":
+{
+	"frame": {"x":0,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_575.png":
+{
+	"frame": {"x":10,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_576.png":
+{
+	"frame": {"x":20,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_577.png":
+{
+	"frame": {"x":30,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_578.png":
+{
+	"frame": {"x":40,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_579.png":
+{
+	"frame": {"x":50,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_58.png":
+{
+	"frame": {"x":60,"y":176,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_580.png":
+{
+	"frame": {"x":72,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_581.png":
+{
+	"frame": {"x":82,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_582.png":
+{
+	"frame": {"x":92,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_583.png":
+{
+	"frame": {"x":102,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_584.png":
+{
+	"frame": {"x":112,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_585.png":
+{
+	"frame": {"x":122,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_586.png":
+{
+	"frame": {"x":132,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_587.png":
+{
+	"frame": {"x":142,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_588.png":
+{
+	"frame": {"x":152,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_589.png":
+{
+	"frame": {"x":162,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_59.png":
+{
+	"frame": {"x":172,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_590.png":
+{
+	"frame": {"x":182,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_591.png":
+{
+	"frame": {"x":192,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_592.png":
+{
+	"frame": {"x":202,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_593.png":
+{
+	"frame": {"x":212,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_594.png":
+{
+	"frame": {"x":222,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_595.png":
+{
+	"frame": {"x":232,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_596.png":
+{
+	"frame": {"x":242,"y":176,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_597.png":
+{
+	"frame": {"x":0,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_598.png":
+{
+	"frame": {"x":10,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_599.png":
+{
+	"frame": {"x":20,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_60.png":
+{
+	"frame": {"x":30,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_61.png":
+{
+	"frame": {"x":42,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_62.png":
+{
+	"frame": {"x":54,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_63.png":
+{
+	"frame": {"x":66,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_64.png":
+{
+	"frame": {"x":78,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_65.png":
+{
+	"frame": {"x":88,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_66.png":
+{
+	"frame": {"x":100,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_67.png":
+{
+	"frame": {"x":112,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_68.png":
+{
+	"frame": {"x":124,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_69.png":
+{
+	"frame": {"x":136,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_70.png":
+{
+	"frame": {"x":146,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_71.png":
+{
+	"frame": {"x":158,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_72.png":
+{
+	"frame": {"x":170,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_73.png":
+{
+	"frame": {"x":182,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_74.png":
+{
+	"frame": {"x":194,"y":184,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_75.png":
+{
+	"frame": {"x":204,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_76.png":
+{
+	"frame": {"x":216,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_77.png":
+{
+	"frame": {"x":228,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_78.png":
+{
+	"frame": {"x":240,"y":184,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_79.png":
+{
+	"frame": {"x":0,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_80.png":
+{
+	"frame": {"x":10,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_81.png":
+{
+	"frame": {"x":22,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_82.png":
+{
+	"frame": {"x":34,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_83.png":
+{
+	"frame": {"x":46,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_84.png":
+{
+	"frame": {"x":58,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_85.png":
+{
+	"frame": {"x":68,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_86.png":
+{
+	"frame": {"x":80,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_87.png":
+{
+	"frame": {"x":92,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_88.png":
+{
+	"frame": {"x":104,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_89.png":
+{
+	"frame": {"x":116,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_90.png":
+{
+	"frame": {"x":126,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_91.png":
+{
+	"frame": {"x":138,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_92.png":
+{
+	"frame": {"x":150,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_93.png":
+{
+	"frame": {"x":162,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_94.png":
+{
+	"frame": {"x":174,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_95.png":
+{
+	"frame": {"x":184,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_96.png":
+{
+	"frame": {"x":194,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_97.png":
+{
+	"frame": {"x":206,"y":192,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_98.png":
+{
+	"frame": {"x":218,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+},
+"miniparty_piggy_99.png":
+{
+	"frame": {"x":228,"y":192,"w":10,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":10,"h":8},
+	"sourceSize": {"w":44,"h":8}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "miniparty_piggy.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8fbafaed0da7d970ce06009d673ed712:3f3598abf5a396398d31a456e5d49248:2d6519be2ca39ed528bb2273ba9d03bd$"
+}
+}

@@ -1,0 +1,188 @@
+{"frames": {
+
+"juju_grandma_campfire_01a_al1_00.png":
+{
+	"frame": {"x":0,"y":0,"w":306,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":78,"w":306,"h":226},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_01.png":
+{
+	"frame": {"x":306,"y":0,"w":306,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":78,"w":306,"h":226},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_02.png":
+{
+	"frame": {"x":612,"y":0,"w":308,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":56,"w":308,"h":248},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_03.png":
+{
+	"frame": {"x":920,"y":0,"w":310,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":55,"w":310,"h":250},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_04.png":
+{
+	"frame": {"x":1230,"y":0,"w":312,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":29,"w":312,"h":276},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_05.png":
+{
+	"frame": {"x":1542,"y":0,"w":312,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":312,"h":276},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_06.png":
+{
+	"frame": {"x":0,"y":276,"w":312,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":312,"h":288},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_07.png":
+{
+	"frame": {"x":312,"y":276,"w":312,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":312,"h":288},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_08.png":
+{
+	"frame": {"x":624,"y":276,"w":312,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":312,"h":300},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_09.png":
+{
+	"frame": {"x":936,"y":276,"w":312,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":312,"h":300},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_10.png":
+{
+	"frame": {"x":1248,"y":276,"w":312,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":312,"h":284},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_11.png":
+{
+	"frame": {"x":1560,"y":276,"w":312,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":312,"h":284},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_12.png":
+{
+	"frame": {"x":0,"y":576,"w":312,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":312,"h":292},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_13.png":
+{
+	"frame": {"x":312,"y":576,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":312,"h":290},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_14.png":
+{
+	"frame": {"x":624,"y":576,"w":312,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":312,"h":300},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_15.png":
+{
+	"frame": {"x":936,"y":576,"w":312,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":312,"h":300},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_16.png":
+{
+	"frame": {"x":1248,"y":576,"w":312,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":312,"h":288},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_17.png":
+{
+	"frame": {"x":1560,"y":576,"w":312,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":312,"h":288},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_18.png":
+{
+	"frame": {"x":0,"y":876,"w":312,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":312,"h":292},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_19.png":
+{
+	"frame": {"x":312,"y":876,"w":312,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":312,"h":292},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_20.png":
+{
+	"frame": {"x":624,"y":876,"w":308,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":308,"h":298},
+	"sourceSize": {"w":312,"h":312}
+},
+"juju_grandma_campfire_01a_al1_21.png":
+{
+	"frame": {"x":932,"y":876,"w":308,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":308,"h":298},
+	"sourceSize": {"w":312,"h":312}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "juju_grandma_campfire_01a_al1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a43d42d7a50b98a184b8880038019de5:a022176a919ead60c2641963b8799850:056a4431eb3d6f07ef52803469014233$"
+}
+}

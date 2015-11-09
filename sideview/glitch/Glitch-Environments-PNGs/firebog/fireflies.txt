@@ -1,0 +1,772 @@
+{"frames": {
+
+"fireflies_00.png":
+{
+	"frame": {"x":0,"y":0,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_01.png":
+{
+	"frame": {"x":300,"y":0,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_02.png":
+{
+	"frame": {"x":600,"y":0,"w":300,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_03.png":
+{
+	"frame": {"x":900,"y":0,"w":300,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_04.png":
+{
+	"frame": {"x":1200,"y":0,"w":300,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_05.png":
+{
+	"frame": {"x":1500,"y":0,"w":300,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_06.png":
+{
+	"frame": {"x":0,"y":95,"w":300,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_07.png":
+{
+	"frame": {"x":300,"y":95,"w":300,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_08.png":
+{
+	"frame": {"x":600,"y":95,"w":300,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_09.png":
+{
+	"frame": {"x":900,"y":95,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_10.png":
+{
+	"frame": {"x":1200,"y":95,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_11.png":
+{
+	"frame": {"x":1500,"y":95,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_12.png":
+{
+	"frame": {"x":0,"y":190,"w":300,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_13.png":
+{
+	"frame": {"x":300,"y":190,"w":300,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_14.png":
+{
+	"frame": {"x":600,"y":190,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_15.png":
+{
+	"frame": {"x":900,"y":190,"w":300,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_16.png":
+{
+	"frame": {"x":1200,"y":190,"w":298,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_17.png":
+{
+	"frame": {"x":1498,"y":190,"w":298,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_18.png":
+{
+	"frame": {"x":0,"y":287,"w":298,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_19.png":
+{
+	"frame": {"x":298,"y":287,"w":296,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":296,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_20.png":
+{
+	"frame": {"x":594,"y":287,"w":294,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":294,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_21.png":
+{
+	"frame": {"x":888,"y":287,"w":292,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":292,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_22.png":
+{
+	"frame": {"x":1180,"y":287,"w":288,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":288,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_23.png":
+{
+	"frame": {"x":1468,"y":287,"w":286,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":286,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_24.png":
+{
+	"frame": {"x":1754,"y":287,"w":282,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":282,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_25.png":
+{
+	"frame": {"x":0,"y":384,"w":280,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":280,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_26.png":
+{
+	"frame": {"x":280,"y":384,"w":276,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":276,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_27.png":
+{
+	"frame": {"x":556,"y":384,"w":272,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":272,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_28.png":
+{
+	"frame": {"x":828,"y":384,"w":270,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":270,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_29.png":
+{
+	"frame": {"x":1098,"y":384,"w":266,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":266,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_30.png":
+{
+	"frame": {"x":1364,"y":384,"w":264,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":264,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_31.png":
+{
+	"frame": {"x":1628,"y":384,"w":260,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":260,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_32.png":
+{
+	"frame": {"x":0,"y":481,"w":256,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":256,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_33.png":
+{
+	"frame": {"x":256,"y":481,"w":252,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":252,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_34.png":
+{
+	"frame": {"x":508,"y":481,"w":250,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":0,"w":250,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_35.png":
+{
+	"frame": {"x":758,"y":481,"w":246,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":0,"w":246,"h":97},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_36.png":
+{
+	"frame": {"x":1004,"y":481,"w":242,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":0,"w":242,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_37.png":
+{
+	"frame": {"x":1246,"y":481,"w":240,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":240,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_38.png":
+{
+	"frame": {"x":1486,"y":481,"w":236,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":236,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_39.png":
+{
+	"frame": {"x":1722,"y":481,"w":236,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":236,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_40.png":
+{
+	"frame": {"x":0,"y":578,"w":234,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":234,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_41.png":
+{
+	"frame": {"x":234,"y":578,"w":232,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":232,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_42.png":
+{
+	"frame": {"x":466,"y":578,"w":232,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":1,"w":232,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_43.png":
+{
+	"frame": {"x":698,"y":578,"w":230,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":0,"w":230,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_44.png":
+{
+	"frame": {"x":928,"y":578,"w":232,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":1,"w":232,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_45.png":
+{
+	"frame": {"x":1160,"y":578,"w":232,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":3,"w":232,"h":83},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_46.png":
+{
+	"frame": {"x":1392,"y":578,"w":234,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":4,"w":234,"h":81},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_47.png":
+{
+	"frame": {"x":1626,"y":578,"w":234,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":5,"w":234,"h":79},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_48.png":
+{
+	"frame": {"x":0,"y":671,"w":236,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":6,"w":236,"h":77},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_49.png":
+{
+	"frame": {"x":236,"y":671,"w":236,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":8,"w":236,"h":75},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_50.png":
+{
+	"frame": {"x":472,"y":671,"w":236,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":8,"w":236,"h":77},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_51.png":
+{
+	"frame": {"x":708,"y":671,"w":238,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":11,"w":238,"h":75},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_52.png":
+{
+	"frame": {"x":946,"y":671,"w":238,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":238,"h":77},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_53.png":
+{
+	"frame": {"x":1184,"y":671,"w":238,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":10,"w":238,"h":79},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_54.png":
+{
+	"frame": {"x":1422,"y":671,"w":238,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":8,"w":238,"h":83},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_55.png":
+{
+	"frame": {"x":1660,"y":671,"w":238,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":7,"w":238,"h":85},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_56.png":
+{
+	"frame": {"x":0,"y":756,"w":238,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":6,"w":238,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_57.png":
+{
+	"frame": {"x":238,"y":756,"w":238,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":5,"w":238,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_58.png":
+{
+	"frame": {"x":476,"y":756,"w":240,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":4,"w":240,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_59.png":
+{
+	"frame": {"x":716,"y":756,"w":238,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":3,"w":238,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_60.png":
+{
+	"frame": {"x":954,"y":756,"w":238,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":4,"w":238,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_61.png":
+{
+	"frame": {"x":1192,"y":756,"w":236,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":4,"w":236,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_62.png":
+{
+	"frame": {"x":1428,"y":756,"w":238,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":4,"w":238,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_63.png":
+{
+	"frame": {"x":1666,"y":756,"w":240,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":2,"w":240,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_64.png":
+{
+	"frame": {"x":0,"y":851,"w":242,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":2,"w":242,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_65.png":
+{
+	"frame": {"x":242,"y":851,"w":242,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":2,"w":242,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_66.png":
+{
+	"frame": {"x":484,"y":851,"w":244,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":2,"w":244,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_67.png":
+{
+	"frame": {"x":728,"y":851,"w":246,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":2,"w":246,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_68.png":
+{
+	"frame": {"x":974,"y":851,"w":248,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":2,"w":248,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_69.png":
+{
+	"frame": {"x":1222,"y":851,"w":250,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":2,"w":250,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_70.png":
+{
+	"frame": {"x":1472,"y":851,"w":252,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":2,"w":252,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_71.png":
+{
+	"frame": {"x":1724,"y":851,"w":254,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":2,"w":254,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_72.png":
+{
+	"frame": {"x":0,"y":946,"w":256,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":2,"w":256,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_73.png":
+{
+	"frame": {"x":256,"y":946,"w":258,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":2,"w":258,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_74.png":
+{
+	"frame": {"x":514,"y":946,"w":260,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":2,"w":260,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_75.png":
+{
+	"frame": {"x":774,"y":946,"w":264,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":2,"w":264,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_76.png":
+{
+	"frame": {"x":1038,"y":946,"w":266,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":4,"w":266,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_77.png":
+{
+	"frame": {"x":1304,"y":946,"w":268,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":4,"w":268,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_78.png":
+{
+	"frame": {"x":1572,"y":946,"w":270,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":4,"w":270,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_79.png":
+{
+	"frame": {"x":0,"y":1041,"w":272,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":6,"w":272,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_80.png":
+{
+	"frame": {"x":272,"y":1041,"w":274,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":6,"w":274,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_81.png":
+{
+	"frame": {"x":546,"y":1041,"w":276,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":8,"w":276,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_82.png":
+{
+	"frame": {"x":822,"y":1041,"w":278,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":10,"w":278,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_83.png":
+{
+	"frame": {"x":1100,"y":1041,"w":280,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":10,"w":280,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_84.png":
+{
+	"frame": {"x":1380,"y":1041,"w":282,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":12,"w":282,"h":85},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_85.png":
+{
+	"frame": {"x":1662,"y":1041,"w":284,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":10,"w":284,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_86.png":
+{
+	"frame": {"x":0,"y":1132,"w":286,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":10,"w":286,"h":87},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_87.png":
+{
+	"frame": {"x":286,"y":1132,"w":288,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":8,"w":288,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_88.png":
+{
+	"frame": {"x":574,"y":1132,"w":290,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":290,"h":89},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_89.png":
+{
+	"frame": {"x":864,"y":1132,"w":292,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":6,"w":292,"h":91},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_90.png":
+{
+	"frame": {"x":1156,"y":1132,"w":296,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":296,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_91.png":
+{
+	"frame": {"x":1452,"y":1132,"w":298,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":298,"h":93},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_92.png":
+{
+	"frame": {"x":1750,"y":1132,"w":298,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":298,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_93.png":
+{
+	"frame": {"x":0,"y":1227,"w":298,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":298,"h":95},
+	"sourceSize": {"w":302,"h":97}
+},
+"fireflies_94.png":
+{
+	"frame": {"x":298,"y":1227,"w":300,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":97},
+	"sourceSize": {"w":302,"h":97}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "fireflies.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bdb24d643c614846899e0cf203ad5742:e153ed2038b1320d9b36bac38c4faae8:bbd4fdef1999aa103282f9479d11afb2$"
+}
+}

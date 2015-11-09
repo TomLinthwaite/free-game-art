@@ -1,0 +1,244 @@
+{"frames": {
+
+"zutto_door_asset_wooden_door_lock_00.png":
+{
+	"frame": {"x":0,"y":0,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_01.png":
+{
+	"frame": {"x":183,"y":0,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_02.png":
+{
+	"frame": {"x":366,"y":0,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_03.png":
+{
+	"frame": {"x":549,"y":0,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_04.png":
+{
+	"frame": {"x":732,"y":0,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_05.png":
+{
+	"frame": {"x":0,"y":166,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_06.png":
+{
+	"frame": {"x":183,"y":166,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_07.png":
+{
+	"frame": {"x":366,"y":166,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_08.png":
+{
+	"frame": {"x":549,"y":166,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_09.png":
+{
+	"frame": {"x":732,"y":166,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_10.png":
+{
+	"frame": {"x":0,"y":332,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_11.png":
+{
+	"frame": {"x":183,"y":332,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_12.png":
+{
+	"frame": {"x":366,"y":332,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_13.png":
+{
+	"frame": {"x":549,"y":332,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_14.png":
+{
+	"frame": {"x":732,"y":332,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_15.png":
+{
+	"frame": {"x":0,"y":498,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_16.png":
+{
+	"frame": {"x":183,"y":498,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_17.png":
+{
+	"frame": {"x":366,"y":498,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_18.png":
+{
+	"frame": {"x":549,"y":498,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_19.png":
+{
+	"frame": {"x":732,"y":498,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_20.png":
+{
+	"frame": {"x":0,"y":664,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_21.png":
+{
+	"frame": {"x":183,"y":664,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_22.png":
+{
+	"frame": {"x":366,"y":664,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_23.png":
+{
+	"frame": {"x":549,"y":664,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_24.png":
+{
+	"frame": {"x":732,"y":664,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_25.png":
+{
+	"frame": {"x":0,"y":830,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_26.png":
+{
+	"frame": {"x":183,"y":830,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_27.png":
+{
+	"frame": {"x":366,"y":830,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+},
+"zutto_door_asset_wooden_door_lock_28.png":
+{
+	"frame": {"x":549,"y":830,"w":183,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":183,"h":166},
+	"sourceSize": {"w":197,"h":166}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "zutto_door_asset_wooden_door_lock.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:327af23e26c5035d21149024a6289b7c:403349625f3fc712ecb6d182a80446e3:d8b92cdb53e1ef3b8ef205e8173eed0e$"
+}
+}

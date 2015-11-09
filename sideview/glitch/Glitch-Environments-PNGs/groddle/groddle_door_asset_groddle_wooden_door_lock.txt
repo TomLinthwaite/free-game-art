@@ -1,0 +1,244 @@
+{"frames": {
+
+"groddle_door_asset_groddle_wooden_door_lock_00.png":
+{
+	"frame": {"x":0,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_01.png":
+{
+	"frame": {"x":160,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_02.png":
+{
+	"frame": {"x":320,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_03.png":
+{
+	"frame": {"x":480,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_04.png":
+{
+	"frame": {"x":640,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_05.png":
+{
+	"frame": {"x":800,"y":0,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_06.png":
+{
+	"frame": {"x":0,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_07.png":
+{
+	"frame": {"x":160,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_08.png":
+{
+	"frame": {"x":320,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_09.png":
+{
+	"frame": {"x":480,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_10.png":
+{
+	"frame": {"x":640,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_11.png":
+{
+	"frame": {"x":800,"y":171,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_12.png":
+{
+	"frame": {"x":0,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_13.png":
+{
+	"frame": {"x":160,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_14.png":
+{
+	"frame": {"x":320,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_15.png":
+{
+	"frame": {"x":480,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_16.png":
+{
+	"frame": {"x":640,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_17.png":
+{
+	"frame": {"x":800,"y":342,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_18.png":
+{
+	"frame": {"x":0,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_19.png":
+{
+	"frame": {"x":160,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_20.png":
+{
+	"frame": {"x":320,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_21.png":
+{
+	"frame": {"x":480,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_22.png":
+{
+	"frame": {"x":640,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_23.png":
+{
+	"frame": {"x":800,"y":513,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_24.png":
+{
+	"frame": {"x":0,"y":684,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_25.png":
+{
+	"frame": {"x":160,"y":684,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_26.png":
+{
+	"frame": {"x":320,"y":684,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_27.png":
+{
+	"frame": {"x":480,"y":684,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+},
+"groddle_door_asset_groddle_wooden_door_lock_28.png":
+{
+	"frame": {"x":640,"y":684,"w":160,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":160,"h":171},
+	"sourceSize": {"w":180,"h":171}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "groddle_door_asset_groddle_wooden_door_lock.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bdfba659f440c28631f5ad5aff0153c:a7bdfe9944098ba44b6b734008ed0349:9d590d4ec8b8079f6e2397629bc00ae5$"
+}
+}

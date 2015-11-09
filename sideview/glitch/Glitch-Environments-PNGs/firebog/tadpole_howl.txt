@@ -1,0 +1,564 @@
+{"frames": {
+
+"tadpole_howl_00.png":
+{
+	"frame": {"x":0,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_01.png":
+{
+	"frame": {"x":143,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_02.png":
+{
+	"frame": {"x":286,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_03.png":
+{
+	"frame": {"x":429,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_04.png":
+{
+	"frame": {"x":572,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_05.png":
+{
+	"frame": {"x":715,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_06.png":
+{
+	"frame": {"x":858,"y":0,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_07.png":
+{
+	"frame": {"x":0,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_08.png":
+{
+	"frame": {"x":143,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_09.png":
+{
+	"frame": {"x":286,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_10.png":
+{
+	"frame": {"x":429,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_11.png":
+{
+	"frame": {"x":572,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_12.png":
+{
+	"frame": {"x":715,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_13.png":
+{
+	"frame": {"x":858,"y":117,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_14.png":
+{
+	"frame": {"x":0,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_15.png":
+{
+	"frame": {"x":143,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_16.png":
+{
+	"frame": {"x":286,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_17.png":
+{
+	"frame": {"x":429,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_18.png":
+{
+	"frame": {"x":572,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_19.png":
+{
+	"frame": {"x":715,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_20.png":
+{
+	"frame": {"x":858,"y":234,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_21.png":
+{
+	"frame": {"x":0,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_22.png":
+{
+	"frame": {"x":143,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_23.png":
+{
+	"frame": {"x":286,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_24.png":
+{
+	"frame": {"x":429,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_25.png":
+{
+	"frame": {"x":572,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_26.png":
+{
+	"frame": {"x":715,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_27.png":
+{
+	"frame": {"x":858,"y":351,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_28.png":
+{
+	"frame": {"x":0,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_29.png":
+{
+	"frame": {"x":143,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_30.png":
+{
+	"frame": {"x":286,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_31.png":
+{
+	"frame": {"x":429,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_32.png":
+{
+	"frame": {"x":572,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_33.png":
+{
+	"frame": {"x":715,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_34.png":
+{
+	"frame": {"x":858,"y":468,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_35.png":
+{
+	"frame": {"x":0,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_36.png":
+{
+	"frame": {"x":143,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_37.png":
+{
+	"frame": {"x":286,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_38.png":
+{
+	"frame": {"x":429,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_39.png":
+{
+	"frame": {"x":572,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_40.png":
+{
+	"frame": {"x":715,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_41.png":
+{
+	"frame": {"x":858,"y":585,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_42.png":
+{
+	"frame": {"x":0,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_43.png":
+{
+	"frame": {"x":143,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_44.png":
+{
+	"frame": {"x":286,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_45.png":
+{
+	"frame": {"x":429,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_46.png":
+{
+	"frame": {"x":572,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_47.png":
+{
+	"frame": {"x":715,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_48.png":
+{
+	"frame": {"x":858,"y":702,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_49.png":
+{
+	"frame": {"x":0,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_50.png":
+{
+	"frame": {"x":143,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_51.png":
+{
+	"frame": {"x":286,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_52.png":
+{
+	"frame": {"x":429,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_53.png":
+{
+	"frame": {"x":572,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_54.png":
+{
+	"frame": {"x":715,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_55.png":
+{
+	"frame": {"x":858,"y":819,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_56.png":
+{
+	"frame": {"x":0,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_57.png":
+{
+	"frame": {"x":143,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_58.png":
+{
+	"frame": {"x":286,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_59.png":
+{
+	"frame": {"x":429,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_60.png":
+{
+	"frame": {"x":572,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_61.png":
+{
+	"frame": {"x":715,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_62.png":
+{
+	"frame": {"x":858,"y":936,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_63.png":
+{
+	"frame": {"x":0,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_64.png":
+{
+	"frame": {"x":143,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_65.png":
+{
+	"frame": {"x":286,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_66.png":
+{
+	"frame": {"x":429,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_67.png":
+{
+	"frame": {"x":572,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+},
+"tadpole_howl_68.png":
+{
+	"frame": {"x":715,"y":1053,"w":143,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":117},
+	"sourceSize": {"w":143,"h":117}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "tadpole_howl.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2698e040a8b8fde4882345c06a1498ae:895baca78c57be88474134e313b51509:5b7b4da43199b9217ebdc07169cd6395$"
+}
+}
