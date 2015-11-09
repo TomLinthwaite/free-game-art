@@ -1,0 +1,8 @@
+author: virtualtoy.me
+license: CC-BY-SA
+source: http://opengameart.org/content/candy-king-eats-the-world-sprites
+
+Art for the game "Candy King Eats The World" created for CandyJam: http://virtualtoy.itch.io/candy-king-eats-the-world. Full source is available at https://github.com/virtualtoy/candyking
+
+Attribution Instructions: 
+Link to web-site "virtualtoy.me"
