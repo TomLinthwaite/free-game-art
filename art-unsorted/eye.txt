@@ -1,3 +1,0 @@
-author: vil0gy
-license: OGA-BY 3.0
-source: http://opengameart.org/content/blue-eye

@@ -1,8 +1,0 @@
-author: Sergei Churbanov (CatBlack), William.Thompsonj
-license: CC-BY-SA
-source: http://opengameart.org/content/kujasa-the-beginning
-
-This work is entirely owned by me but please credit the original author. He did a great job, works fast, and is careful to follow details. More info to follow once game development has progressed further. Alternate version with improved lighting added for variety.
-
-Copyright/Attribution Notice: 
-Attribute Sergei Churbanov, aka CatBlack, as the graphic artist, and me as contributor.

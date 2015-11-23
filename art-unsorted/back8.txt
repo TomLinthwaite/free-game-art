@@ -1,7 +1,0 @@
-Author: Philipp Lenssen
-License: CC-BY
-Origin: http://blogoscoped.com/archive/2006-08-08-n51.html
-
-Many years ago, I drew around 700 fantasy-themed avatar images for a games competition. The game (“Last Guardian”) didn’t win, and I didn’t use haven’t used the sprites since then, so I’m now offering the whole package [ZIP] under a Creative Commons license Creative Commons attribution 3.0 for you to use.
-
-Update (2013-09): I’m changing the license for these sprites to an even more open one which includes commercial use: Creative Commons attribution 3.0.

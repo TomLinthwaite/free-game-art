@@ -1,0 +1,10 @@
+author: Blarget
+license: CC-BY
+source: http://opengameart.org/content/pseudo-nes-tileset
+
+This tileset uses a pallette very close to NES but a few modifications to resemble alot of 1993 nes titles. (the ones with modified cartridges to have more tile cache).
+
+The proportions are that of super metroid (hence the 1x4 doors).
+
+Attribution Instructions: 
+Just say my name either in the game or in a .txt or reference me on a webpage.

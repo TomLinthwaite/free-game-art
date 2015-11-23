@@ -1,3 +1,0 @@
-author: Justin Nichol
-license: CC-BY-SA, GPL2, GPL3
-source: http://opengameart.org/content/death-in-the-snow

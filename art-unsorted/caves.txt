@@ -1,8 +1,0 @@
-author: Blarumyrran
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/cave-picturesicons
-
-Cave with a crystal, huge blue cave, small brown cave, lava cave. They look ok when scaled 2x smaller too.
-
-Attribution Instructions: 
-Attribution is not required; if you want, then attribute it to blarumyrran@gmail.com .

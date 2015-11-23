@@ -1,6 +1,6 @@
-author: Lanea "Sharm" Zimmerman, Stephen "Redshrike" Challener, Carl "Surt" Olsson, and Jetrel
-license: CC-BY 3.0
-source: http://opengameart.org/content/16x16-town-remix
+Author: Lanea "Sharm" Zimmerman, Stephen "Redshrike" Challener, Carl "Surt" Olsson, and Jetrel
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/16x16-town-remix
 
 
 I took Surt's Town Tiles and combined them with Redshrike's RPG Indoor Tileset Expansion 1, added a bit of my own stuff and edited it all together.  I added the beginnings of a castle tileset as well, but it will only work with some creative thinking and lots of layers ATM.  I've only included the tiles that I edited, so to map something that looks like the previews you'll need to download the other sets as well.

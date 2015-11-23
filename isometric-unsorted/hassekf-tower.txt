@@ -1,0 +1,9 @@
+Author: hassekf (http://ask4asset.com)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/tower-sprite-tower-defense-asset-for-2d-games
+
+A single Tower Sprite for Tower Defense Games. 
+It will be part of a huge pack of assets we are going to launch at ask4asset.com
+
+Copyright/Attribution Notice: 
+Just let me know wherever you use it. I will love to see your project. If you are able to give credit, that's ok, but don't worry about if you don't want.

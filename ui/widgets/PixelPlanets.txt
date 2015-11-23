@@ -1,0 +1,14 @@
+Author: Vesa Vanhatupa 'Master484'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/pixel-planets
+
+Here are some pixel style planets from my recently abandoned space strategy game. They're nothing special, just simple planets of various types. :)
+
+Size is 32*32 and color amount is low, so it should be quite easy to do edits ands palette swaps to them.
+
+Attribution Instructions
+
+These graphics are in the Public Domain.
+Attribution is not needed.
+
+But if you wish to give me credit, then you can mention "Master484" as the original author, and maybe also put a link to my website: http://m484games.ucoz.com/

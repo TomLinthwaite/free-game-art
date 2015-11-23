@@ -1,0 +1,10 @@
+author: Blarget
+license: CC-BY
+source: http://opengameart.org/content/bgj-asset-dump
+
+The bacon game jam was extreemely fun. It is now time to give back to the community the fruits of my labor. Here is all of the 2d art I did for the Bacon Game Jam 06.
+
+You can play the Bacon Game Jam game here: http://bacongamejam.org/jams/bacongamejam-06/111/
+
+Attribution Instructions: 
+Use the tag Blarget somewhere on a text file or readme or credits. What ever suits your needs
