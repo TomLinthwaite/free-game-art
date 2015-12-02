@@ -1,0 +1,6 @@
+author: Garrett Wessner 'Gwes' (http://opengameart.org/users/gwes)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/16x16-dungeon-tiles
+        http://opengameart.org/content/16x16-dungeon-tiles-nes-remake
+
+Some more very old work.  They were made to be loaded in Python Kye, but should be generically useful, though a few things I might've done differently nowadays.

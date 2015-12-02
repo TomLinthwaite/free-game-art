@@ -1,0 +1,6 @@
+author: Ray Frenden (http://frenden.com/)
+license: CC-BY
+source: http://frenden.com/post/28991195858/releasing-nes-style-game-tiles-under-cc
+        http://opengameart.org/content/frendens-nes-style-game-tiles
+
+I’m releasing my NES hardware restriction conforming (NES palette, 4 colors max per 16x16 tile), top-down tile map tests for use under creative commons. Attribution. Commercial is fine. Derivatives are okay.
