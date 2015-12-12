@@ -1,0 +1,8 @@
+author: Vander Silvio da Silva Jr 'Vander96'
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/animated-lives
+
+Full pulsating heart, half heart, regenerating heart, invulnerable heart
+
+Copyright/Attribution Notice: 
+Please inform me if you gonna used so I can know your project. Name on credits too.
