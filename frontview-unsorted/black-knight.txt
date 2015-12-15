@@ -1,5 +1,0 @@
-Author: Crossfire Team, Nikita Sadkov
-License: GPL2
-Origin: http://crossfire.real-time.com/
-
-Edited from crossfire sprite.

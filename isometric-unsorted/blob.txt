@@ -1,7 +1,0 @@
-Author: Tap (Josh Maines)
-License: CC-BY-SA
-source: http://opengameart.org/content/multi-part-sprites-and-other-objects
-
-Edited by me (Nikita Sadkov) to make it look more isometric and liquid. Also recolored it a little, adding blue shades.
-
-Note: While the original sprite is public domain, this edit is CC-BY-SA
