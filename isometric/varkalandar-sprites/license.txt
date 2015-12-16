@@ -9,6 +9,7 @@ origin: http://opengameart.org/content/misc-sci-fi-tiles-isometric-64-and-128-pi
         http://opengameart.org/content/3-types-of-diesel-locomotives
         http://opengameart.org/content/tigress-high-speed-train
         http://opengameart.org/content/some-cactuses
+        http://opengameart.org/content/strange-maybe-carnivorous-plant-thing
 
 A small set of sci-fi related tiles from old projects of mine.
 
