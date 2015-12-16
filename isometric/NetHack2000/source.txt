@@ -1,0 +1,5 @@
+origin:
+http://sourceforge.jp/projects/nethack-users/releases/p7507
+http://nethack-users.sourceforge.jp/hackaholic/index.php?NetHack2000%2B5
+
+
