@@ -1,0 +1,7 @@
+author: Kevin 'k-skills'
+license: CC-BY
+origin: http://opengameart.org/content/necromancer-0
+
+a necromancer i made for my topdown-dungeon crawler.
+
+walking animations +  cast/summon animation.

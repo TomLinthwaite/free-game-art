@@ -1,0 +1,3 @@
+author: Charles Gabriel
+license: CC-BY
+source: http://opengameart.org/content/lo-res-rpg-font-symbols

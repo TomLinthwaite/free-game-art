@@ -1,4 +1,4 @@
-author: Varkalandar (Hansjörg Malthaner)
+author: Hansjörg Malthaner 'Varkalandar'
 license: CC-BY-SA 3.0, GPL2
 origin: http://opengameart.org/content/misc-sci-fi-tiles-isometric-64-and-128-pixel-raster
         http://opengameart.org/content/simple-lineart-undersea-creature-tile-set

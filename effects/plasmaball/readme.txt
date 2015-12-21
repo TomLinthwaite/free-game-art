@@ -1,3 +1,5 @@
+author: Geni, Thane Brimhall 'pennomi'
+license: CC-BY-SA
 origin: http://opengameart.org/content/plasmaball
 
 The files contained here are the files which I originally built the plasmaball image from.

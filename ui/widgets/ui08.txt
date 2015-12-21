@@ -1,0 +1,5 @@
+Author: Lamoot
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/rpg-gui-construction-kit-v10
+
+This is a RPG GUI contstruction kit. You can use it to create all sorts of widgets, text boxes, buttons, drop-dow lists and other GUI widgets. I didn't want to offer pre-made widgets since the needs of many games cannot be suited by a single solution. Instead, each project can use the GUI kit to put together widgets in a very lego-like fashion to suit specific needs. I hope you will enjoy it and have good use of it. Source GIMP file included.
