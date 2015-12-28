@@ -1,0 +1,5 @@
+author: J-Robot
+license: CC-BY
+origin: http://opengameart.org/content/pixel-explosion-12-frames
+
+A pixel art exposion using 12 frames, size 96x96.
