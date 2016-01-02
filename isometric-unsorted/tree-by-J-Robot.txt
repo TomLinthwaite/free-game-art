@@ -1,0 +1,7 @@
+author: Joshua Robertson 'J-Robot'
+license: CC-BY
+origin: http://opengameart.org/content/dead-tree-1
+
+Simple dead tree environment art.
+4 Colours
+64x64 size image.
