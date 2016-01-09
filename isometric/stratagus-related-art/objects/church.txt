@@ -1,0 +1,4 @@
+Authors: Nikita Sadkov
+License: GPL2
+
+loosely based of Dink Smallwood church (also GPL2).

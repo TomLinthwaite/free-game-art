@@ -1,0 +1,8 @@
+author: Buch (Michele Bucelli)
+license: CC-BY
+source: http://opengameart.org/content/outdoor-tiles-again
+
+Commissioned by a guy who asked me to release it, so here it is. Contains tiles from this, with some slight color edits. Tiles are 16x16, and they work best when upscaled 2X. Enjoy!
+
+Copyright/Attribution Notice: 
+Credit me as Michele "Buch" Bucelli and link back to my OGA profile page
