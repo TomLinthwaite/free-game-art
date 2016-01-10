@@ -1,0 +1,3 @@
+author: LordNeo
+license: CC0 (Public Domain)
+origin: http://opengameart.org/users/lordneo
