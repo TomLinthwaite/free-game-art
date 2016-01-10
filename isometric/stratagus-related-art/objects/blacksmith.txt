@@ -1,0 +1,5 @@
+Authors: Aleona's Tale Team, Nikita Sadkov
+License: GPL2
+Origin: http://stratagus.com/games/aleonas-tales/
+
+fixed building
