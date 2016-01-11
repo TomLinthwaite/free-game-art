@@ -1,0 +1,6 @@
+author: Michele Bucelli 'Buch' (http://opengameart.org/users/buch)
+license: CC-BY 3.0, GPL3
+origin: http://opengameart.org/content/rpg-status-icons-16x16-and-8x8
+
+Attribution Instructions: 
+Credit me as Buch and link back to my OGA profile page
