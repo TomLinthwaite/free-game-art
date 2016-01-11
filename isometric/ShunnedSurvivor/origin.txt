@@ -1,0 +1,2 @@
+license: CC0 (Public Domain)
+origin: https://pyweek.org/e/np5g/
