@@ -1,0 +1,2 @@
+license: GPL3
+origin: https://globulation2.org
