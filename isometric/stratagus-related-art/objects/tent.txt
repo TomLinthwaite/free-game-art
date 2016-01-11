@@ -1,0 +1,5 @@
+author: Nikita Sadkov, MrBeast
+license: CC-BY 3.0
+source: http://opengameart.org/content/desert-tileset-0
+
+a resized version of tent by MrBeast.
