@@ -1,0 +1,3 @@
+author: Paulina Riva 'PauR'
+license: CC-BY
+origin: http://opengameart.org/users/paur
