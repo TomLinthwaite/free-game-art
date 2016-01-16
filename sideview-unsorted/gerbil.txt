@@ -1,0 +1,9 @@
+author: Cody Bokota 'AnvilHouse'
+License: CC-BY
+source: http://opengameart.org/content/gerbil-sprite
+
+
+A gerbil sprite I started working on for someone then they canceled the project. Also have the .gif animations setup for full movement preview
+
+Attribution Instructions: 
+Credit must be clearly displayed. In the credits reel of a game or in an advertising graphic in-game is acceptable. If used in a forum signature or as an avatar, please place Attribution in either your profile or in your signature.

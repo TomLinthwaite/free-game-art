@@ -1,0 +1,3 @@
+author: Cody Bokota 'AnvilHouse'
+License: Public Domain (CC0)
+source: http://opengameart.org/content/pixel-dragon
