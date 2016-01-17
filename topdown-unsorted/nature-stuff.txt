@@ -1,0 +1,10 @@
+author: datameta
+license: CC-BY
+origin: http://opengameart.org/content/nature-stuff-0
+
+A couple of tiles with different kinds of nature stuff. Trees, flowers etc. If you don't like the order in which parts are arranged, feel free to modify it to your heart's content (there are more sprites in the actual tileset I just didn't want preview to be a mess).
+
+All tiles were drawn for 32x32 grid.
+
+Be sure to tell me if you want to see more from me.
+
