@@ -1,6 +1,7 @@
 author: Luis Zuno 'ansimuz' (https://www.patreon.com/ansimuz)
 license: CC-BY 3.0
 source: http://opengameart.org/content/living-tissue-platform-tileset
+        http://opengameart.org/content/living-tissue-background
 
 A creepy living Tissue Themed at 16x16 px tileset. Perfect for Metroidvania games. Tileset and loopable background included.
 
