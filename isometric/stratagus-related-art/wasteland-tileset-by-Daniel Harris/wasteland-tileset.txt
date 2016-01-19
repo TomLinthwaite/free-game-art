@@ -1,5 +1,5 @@
 authors: Daniel Harris "Hyptosis" (http://www.lorestrome.com/pixel_archive/main.htm)
-license: cc0 (Public Domain)
+license: CC-BY
 origin: http://hyptosis.newgrounds.com/news/post/793230
         http://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis
 
