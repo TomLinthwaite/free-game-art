@@ -1,0 +1,80 @@
+<tileset>
+	<background id="cobbles" size="1">9</background>
+
+	<background id="concrete" size="2">31,32,41,42</background>
+	<background id="grass" size="2">35,36,45,46</background>
+
+	<background id="brown-soil" width="2" height="1">11,12</background>
+	<background id="black-soil" width="2" height="1">15,16</background>
+
+	<background id="grey-soil" width="2" height="1">61,62</background>
+	<background id="sand" width="2" height="1">65,66</background>
+	
+	<background id="metal" size="1">128</background>
+
+	<box in="brown-soil" width="1,2,1" height="1,2,1">
+		00,01,02,03,
+		10,11,12,13,
+		20,12,11,23,
+		30,21,22,33
+	</box>
+	<box in="black-soil" width="1,2,1" height="1,2,1">
+		04,05,06,07,
+		14,15,16,17,
+		24,16,15,27,
+		34,25,26,37
+	</box>
+	<box in="grey-soil" width="1,2,1" height="1,2,1">
+		40,51,52,43,
+		50,62,61,53,
+		60,61,62,63,
+		70,71,72,73
+	</box>
+	<box in="sand" width="1,2,1" height="1,2,1">
+		44,55,56,47,
+		54,66,65,57,
+		64,65,66,67,
+		74,75,76,77
+	</box>
+	<box in="water" width="1,1,1" height="1,1,1">
+		115,116,117,
+		125,126,127,
+		135,136,137
+	</box>
+
+	<box in="rocks" width="1,2,1" height="1,2,1">
+		170,171,172,173,
+		180,181,182,183,
+		190,191,192,193,
+		200,201,202,203
+	</box>
+
+
+	<box out="brown-soil" width="1,0,1" height="1,0,1">
+		150,151,
+                160,161
+	</box>
+	<box out="black-soil" width="1,0,1" height="1,0,1">
+		152,153,
+                162,163
+	</box>
+	<box out="grey-soil" width="1,0,1" height="1,0,1">
+		154,155,
+                164,165
+	</box>
+	<box out="sand" width="1,0,1" height="1,0,1">
+		156,157,
+                166,167
+	</box>
+	<box out="water" width="1,0,1" height="1,0,1">
+		158,159,
+                168,169
+	</box>
+
+	<box out="rocks" width="1,0,1" height="1,0,1">
+		185,184,
+                175,174
+	</box>
+
+
+</tileset>

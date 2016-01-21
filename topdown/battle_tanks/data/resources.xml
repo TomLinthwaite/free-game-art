@@ -1,0 +1,1016 @@
+<?xml version="1.0"?>
+<resources tile_width="64" tile_height="64" version="0.5">
+	
+	<animation-model id="tank-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="start" speed="10">0,1,2</pose>
+		<pose id="move">0,1,2</pose>
+		<pose id="fire" speed="10" sound="@cannon" gain="0.6">3,4</pose>
+	</animation-model>
+
+	<animation-model id="dead-vehicle-animation" speed="7">
+		<pose id="fade-in" sound="@vehicle-explosion">0,1,2,3,4</pose>
+		<pose id="burn">5,6,7,6</pose>
+		<pose id="fade-out">8,9</pose>
+		<pose id="dead">10</pose>
+	</animation-model>
+
+	<animation-model id="shilka-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">0</pose>
+	</animation-model>
+	
+	<animation-model id="shilka-turret-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">0,1,2</pose>
+		<pose id="fire-left" speed="10" sound="@cannon" gain="0.5">3</pose>
+		<pose id="fire-right" speed="10" sound="@cannon" gain="0.5">4</pose>
+	</animation-model>
+
+	<animation-model id="launcher-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">0,1,0</pose>
+	</animation-model>
+
+	<animation-model id="mortar-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">1,2,3,4</pose>
+	</animation-model>
+
+	<animation-model id="car-animation" speed="10">
+		<pose id="hold" sound="engine-car.ogg" gain="0.3">0</pose>
+		<pose id="main">0</pose> <!-- hack to make destructable-object work with this model -->
+		<pose id="move" sound="engine-car.ogg" gain="0.3">0,1</pose>
+	</animation-model>
+
+	<animation-model id="choo-choo-train-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move" sound="train.ogg">0,1,2,3,4,3,2,1</pose>
+	</animation-model>
+
+	<animation-model id="train-smoke-animation" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+	</animation-model>
+
+	<animation-model id="dead-choo-choo-train-animation" speed="7">
+		<pose id="fade-in" sound="nuke-explosion.ogg">0,1,2,3,4</pose>
+		<pose id="burn">5</pose>
+		<pose id="fade-out">5</pose>
+		<pose id="dead">5</pose>
+	</animation-model>
+
+	<animation-model id="choo-choo-wagon-animation" speed="10">
+		<pose id="main">0</pose>
+		<pose id="hold">0</pose>
+		<pose id="move">0</pose>
+	</animation-model>
+
+	<animation-model id="dead-choo-choo-wagon-animation" speed="7">
+		<pose id="fade-in" sound="@building-explosion" >0,1,2</pose>
+		<pose id="burn" sound="fire.ogg">3,4,5,6</pose>
+		<pose id="fade-out" sound="fire-fadeout.ogg">7,8</pose>
+		<pose id="dead">9</pose>
+	</animation-model>
+
+	<animation-model id="man-animation" speed="7">
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="man-steps.ogg">1,2,3,2,4,5,6,5</pose>
+		<pose id="run" sound="man-steps.ogg">7,8,9,10</pose>
+		<pose id="thinking">11,0,12,0</pose>
+	</animation-model>
+
+	<animation-model id="man-animation" speed="7">
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="man-steps.ogg">1,2,3,2,4,5,6,5</pose>
+		<pose id="run" sound="man-steps.ogg">7,8,9,10</pose>
+		<pose id="thinking">11,0,12,0</pose>
+	</animation-model>
+
+	<animation-model id="kamikaze-animation" speed="7">
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="man-steps.ogg">1,2,3,2,4,5,6,5</pose>
+		<pose id="run" sound="kamikaze-scream.ogg">7,8,9,10</pose>
+		<pose id="thinking">11,0,12,0</pose>
+	</animation-model>
+
+	<animation-model id="dead-man-animation" speed="5">
+		<pose id="fade-in">0,1,2,3</pose>
+		<pose id="burn" speed="100">3</pose> <!-- small hack to avoid warnings from corpse object. -->
+		<pose id="fade-out">4,5</pose>
+		<pose id="dead">6</pose>
+	</animation-model>
+
+	<animation-model id="dead-zombie-animation" speed="5">
+		<pose id="fade-in">0,1</pose>
+		<pose id="burn">2,3,4,5</pose>
+		<pose id="fade-out">4,5</pose>
+		<pose id="dead">6</pose>
+	</animation-model>
+
+	<animation-model id="dead-slime-animation" speed="5">
+		<pose id="fade-in">0,1,2</pose>
+		<pose id="burn">3,4,5,6</pose>
+		<pose id="fade-out">6</pose>
+		<pose id="dead">6</pose>
+	</animation-model>
+
+	<animation-model id="ziehharmonikaspieler-animation" speed="7">
+		<pose id="hold">0</pose>
+		<pose id="walk">1,2,3,2,4,5,6,5</pose>
+		<pose id="run">1,3,5,2,3</pose>
+		<pose id="thinking">0,1,2,1</pose>
+	</animation-model>
+
+	<animation-model id="dead-man-animation-static" speed="5">
+		<pose id="dead">2</pose>
+	</animation-model>
+
+	<animation-model id="trooper-animation" speed="7">
+		<pose id="disembark" sound="disembark.ogg">0</pose>
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="man-steps.ogg">1,2,3,2,4,5,6,5</pose>
+		<pose id="run" sound="man-steps.ogg">7,8,9,10</pose>
+		<pose id="fire">11,12,13</pose>
+		<pose id="throw" speed="10">14,15</pose>
+	</animation-model>
+
+	<animation-model id="machinegunner-animation" speed="7">
+		<pose id="disembark" sound="disembark.ogg">0</pose>
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="man-steps.ogg">1,2,3,2,4,5,6,5</pose>
+		<pose id="run" sound="man-steps.ogg">7,8,9,10</pose>
+		<pose id="fire" sound="machinegunner-bullet.ogg">11,12,13</pose>
+		<pose id="throw" speed="10">14,15</pose>
+	</animation-model>
+	
+	<animation-model id="machinegunner-helmet" speed="7">
+		<pose id="disembark">0</pose>
+		<pose id="hold">0</pose>
+		<pose id="walk">0</pose>
+		<pose id="run">1</pose>
+		<pose id="fire">0</pose>
+	</animation-model>
+
+	<animation-model id="thrower-helmet" speed="7">
+		<pose id="disembark">0</pose>
+		<pose id="hold">0</pose>
+		<pose id="walk">0</pose>
+		<pose id="run">1</pose>
+		<pose id="fire">1</pose>
+	</animation-model>
+
+	<animation-model id="pond-animation" speed="10">
+		<pose id="main">0,1,2,3,4,5,6,7,8,9</pose>
+	</animation-model>
+
+	<animation-model id="teleport-animation" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="hold">3</pose>
+	</animation-model>
+
+	<animation-model id="item-animation-1" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="take" speed="8" sound="taking-item-1.ogg">5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="item-animation-2" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="take" speed="8" sound="taking-item-2.ogg">5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="item-animation-3" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="take" speed="8" sound="taking-item-3.ogg">5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="item-animation-4" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="take" speed="8" sound="taking-item-4.ogg">5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="item-animation-5" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+		<pose id="take" speed="8" sound="taking-item-5.ogg">5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="smoke-animation" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+	</animation-model>
+
+	<animation-model id="missiles-on-launcher-animation" speed="10">
+		<pose id="missile-1">0,1,1</pose>
+		<pose id="missile-2">2,3,3</pose>
+		<pose id="missile-3">4,5,6</pose>
+		<pose id="missile-1-hold">0</pose>
+		<pose id="missile-2-hold">2</pose>
+		<pose id="missile-3-hold">4</pose>
+	</animation-model>
+
+	<animation-model id="missiles-on-tank-animation" speed="10">
+		<pose id="missile-1">0,1,2</pose>
+		<pose id="missile-1-hold">0</pose>
+	</animation-model>
+
+	<animation-model id="missiles-on-boat-animation" speed="1">
+		<pose id="missile-1">0</pose>
+		<pose id="missile-2">1</pose>
+		<pose id="missile-3">2</pose>
+		<pose id="missile-1-hold">0</pose>
+		<pose id="missile-2-hold">1</pose>
+		<pose id="missile-3-hold">2</pose>
+	</animation-model>
+
+	<animation-model id="dispersion-bullet-animation" speed="1">
+		<!-- do not use any sounds here. it's dangerous -->
+		<pose id="shot">0</pose>
+		<pose id="move">0</pose>
+	</animation-model>
+
+	<animation-model id="bullet-animation" speed="1">
+		<pose id="shot">0</pose>
+		<pose id="move">0</pose>
+	</animation-model>
+
+	<animation-model id="machinegunner-bullet-animation" speed="1">
+		<pose id="shot">0</pose>
+		<pose id="move">0</pose>
+	</animation-model>
+
+	<animation-model id="mortar-bullet-animation" speed="10">
+		<pose id="shot" sound="@cannon">0</pose>
+		<pose id="move">0,1,2,3,4,5</pose>
+	</animation-model>
+	
+	<animation-model id="grenade-animation" speed="10">
+		<pose id="shot">0</pose>
+		<pose id="move">0,1,2,3,4,5</pose>
+	</animation-model>
+
+	<animation-model id="explosion-animation" speed="7">
+		<pose id="boom">0,1,2</pose>
+	</animation-model>
+
+	<animation-model id="building-explosion-animation" speed="7">
+		<pose id="boom">0,1,2,3,4,5</pose>
+	</animation-model>
+
+	<animation-model id="nuke-explosion-animation" speed="5">
+		<pose id="boom" sound="nuke-explosion.ogg">5,4,3,2,1,0</pose>
+	</animation-model>
+
+	<animation-model id="cannon-explosion-animation" speed="14">
+		<pose id="boom" sound="@vehicle-explosion">5,4,3,2,1,0</pose>
+	</animation-model>
+	
+	<animation-model id="missile-explosion-animation" speed="7">
+		<pose id="boom" sound="@vehicle-explosion">0,1,2,3</pose>
+	</animation-model>
+
+	<animation-model id="kamikaze-explosion-animation" speed="7">
+		<pose id="boom" sound="@vehicle-explosion">4,3,2,1,0</pose>
+	</animation-model>
+
+	<animation-model id="single-tile" speed="1">
+		<pose id="main">0</pose>
+	</animation-model>
+	
+	<animation-model id="traffic-lights-animation" speed="0.3">
+		<pose id="red">1</pose>
+		<pose id="flashing-red" speed="1.5">1,0,1,0,1,0</pose>
+		<pose id="yellow" speed="1">2</pose>
+		<pose id="green">3</pose>
+		<pose id="flashing-green" speed="1.5">3,0,3,0,3,0</pose>
+		<pose id="fade-out" speed="10" sound="@building-explosion">4,5</pose>
+		<pose id="broken" z="-18">5</pose>
+	</animation-model>
+	
+	<animation-model id="missile-launch-animation" speed="10">
+		<pose id="launch">0,1,2,3,4,5</pose>
+	</animation-model>
+
+	<animation-model id="missile-fire-animation" speed="10">
+		<pose id="main">0,1,2,3,4</pose>
+	</animation-model>
+
+	<animation-model id="destructable-object-animation" speed="1">
+		<pose id="main">0</pose>
+		<pose id="fade-out" z="-18" speed="10" sound="@building-explosion">0</pose>
+		<pose id="broken" z="-18">1</pose>
+	</animation-model>
+
+	<animation-model id="destructable-object-animation-no-z" speed="1">
+		<pose id="main">0</pose>
+		<pose id="fade-out" speed="10" sound="@building-explosion">0</pose>
+		<pose id="broken">1</pose>
+	</animation-model>
+
+	<animation-model id="spawning-animation" speed="10">
+		<pose id="main">0,1,2,3,4,5,6,7,8</pose>
+	</animation-model>
+	
+	<animation-model id="smoke-cloud-animation" speed="5">
+		<pose id="start">0,1</pose>
+		<pose id="main">2,3,4,5,6,7,8,9,10,11</pose>
+	</animation-model>
+
+	<animation-model id="regular-mine-animation" speed="6">
+		<pose id="pause" speed="2">0</pose>
+		<pose id="3" sound="mine-tick.ogg">1,2,3</pose>
+		<pose id="2">4,5,6</pose>
+		<pose id="1">7,8,9</pose>
+		<pose id="armed">10</pose>
+	</animation-model>
+	
+	<animation-model id="nuke-mine-animation" speed="3">
+		<pose id="pause">0</pose>
+		<pose id="3" sound="mine-tick.ogg">1</pose>
+		<pose id="2">2</pose>
+		<pose id="1">3</pose>
+		<pose id="armed">3</pose>
+	</animation-model>
+
+	<animation-model id="fire-animation" speed="7">
+ 		<pose id="fade-in" sound="fire.ogg">0,1,2,3,4</pose>
+		<pose id="burn">5,6,7,6</pose>
+		<pose id="fade-out" sound="fire-fadeout.ogg">8,9</pose>
+	</animation-model>
+
+	<animation-model id="dirt-animation" speed="15">
+		<pose id="fade-in" sound="dirt-bullet-explosion.ogg">0,1,2,3</pose>
+		<pose id="main">3</pose>
+	</animation-model>
+
+	<animation-model id="helicopter-animation" speed="20">
+		<pose id="hold">0</pose>
+		<pose id="move" sound="helicopter.ogg">0,1,2</pose>
+	</animation-model>
+	
+	<animation-model id="dead-helicopter-animation" speed="4">
+		<pose id="fade-in">0,1,2</pose>
+		<pose id="burn" speed="100">3</pose> <!-- small hack to avoid warnings from corpse object. -->
+		<pose id="fade-out">3,4</pose>
+		<pose id="dead">4</pose>
+	</animation-model>
+
+
+	<animation-model id="bomb-animation" speed="2">
+		<pose id="main">0,1,2,3,4</pose>
+	</animation-model>
+
+	<animation-model id="paratrooper-animation" speed="2">
+		<pose id="main">0,1,2,3,4,5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="watchtower-animation" speed="2">
+		<pose id="main">0</pose>
+		<pose id="top">1</pose>
+		<pose id="fade-out" speed="10" sound="@building-explosion">2</pose>
+		<pose id="broken" z="-3">2</pose>
+	</animation-model>
+
+	<animation-model id="trooper-tent-animation" speed="2">
+		<pose id="main">0</pose>
+		<pose id="spawn">0</pose>
+		<pose id="broken" z="-18">1</pose>
+	</animation-model>
+
+	<animation-model id="trooper-hut-animation" speed="2">
+		<pose id="main">0</pose>
+		<pose id="spawn">1</pose>
+		<pose id="fade-out" speed="10" sound="@building-explosion">2</pose>
+		<pose id="broken">2</pose>
+	</animation-model>
+
+	<animation-model id="yellow-submarine-animation" speed="5">
+		<pose id="hold">0</pose>
+		<pose id="fade-in">0,1,2,3,4</pose>
+		<pose id="main" speed="1">4,5,4,6</pose>
+		<pose id="fade-out">4,3,2,1,0</pose>
+	</animation-model>
+
+	<animation-model id="spaceport-baykonur-animation" speed="2">
+		<pose id="main">0</pose>
+		<pose id="damaged-1">1</pose>
+		<pose id="broken">2</pose>
+	</animation-model>
+
+	<animation-model id="boat-animation" speed="5">
+		<pose id="main">1,0,2,0</pose>
+		<pose id="reload">1,0,2,0</pose>
+	</animation-model>
+
+	<animation-model id="dead-boat-animation" speed="1">
+		<pose id="fade-in" speed="2">0,1</pose>
+		<pose id="burn">2</pose>
+		<pose id="fade-out" speed="1">2</pose>
+		<pose id="dead">2</pose>
+	</animation-model>
+		
+	<animation-model id="cannon-animation" speed="5">
+		<pose id="hold">0</pose>
+		<pose id="fire" sound="@cannon">1,2,3</pose>
+		<pose id="real-fire">3</pose>
+		<pose id="after-fire">4</pose>
+	</animation-model>
+
+	<animation-model id="zombie-animation" speed="5">
+		<pose id="hold">0</pose>
+		<pose id="walk" sound="zombie.ogg">0,1,2,1,0,3,4,3</pose>
+		<pose id="punch" sound="zombie-strike.ogg">5,0,6</pose>
+	</animation-model>
+
+	<animation-model id="cow-animation" speed="4">
+		<pose id="hold" sound="cow.ogg">4,5,6,5,4,6</pose>
+		<pose id="walk">0,1,2,3,2,1</pose>
+	</animation-model>
+	
+	<animation-model id="sandworm-head-animation" speed="6"> 
+		<pose id="snatch" sound="worm-eat.ogg">0,1,2,3,4,5,6,7</pose>
+	</animation-model>
+
+	<animation-model id="sandworm-body-animation" speed="4"> 
+		<pose id="main" sound="worm-move.ogg">0,1,2</pose>
+	</animation-model>
+
+	<animation-model id="buggy-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">0,1,2</pose>
+	</animation-model>
+
+	<animation-model id="buggy-gun-animation" speed="10">
+		<pose id="hold">0</pose>
+		<pose id="move">0,1,2</pose>
+		<pose id="fire-left" sound="machinegunner-bullet.ogg">3,1</pose>
+		<pose id="fire-right" sound="machinegunner-bullet.ogg">4,1</pose>
+	</animation-model>
+	
+	<animation-model id="target-animation" speed="7">
+		<pose id="main">0,1,2,3,2,1</pose>
+	</animation-model>
+
+	<animation-model id="target-arrows-animation" speed="7">
+		<pose id="main">0,1,2,3</pose>
+	</animation-model>
+	
+	<animation-model id="slime-animation" speed="2">
+		<pose id="hold">0</pose>
+		<pose id="move">0,1,2</pose>
+		<pose id="fire" speed="10" sound="slime-fire.ogg">1,2,1</pose>
+	</animation-model>
+	
+	<animation-model id="ctf-base-animation" speed="1">
+		<pose id="main">0,1</pose>
+	</animation-model>
+	
+	<!-- 
+		sound tag allows you to load samples that don't reside in any animation model.
+	-->
+	<sound file="respawn.ogg" />
+	<sound file="teleport.ogg" />
+	<sound file="nuke-missile.ogg" />
+	<sound file="boomerang-missile.ogg" />
+	<sound file="boomerang-hit.ogg" />
+	<sound file="guided-missile.ogg" class="missile" />
+	<sound file="dumb-missile.ogg" class="missile" />
+	<sound file="smoke-missile.ogg" class="missile" />
+	<sound file="stun-missile.ogg" class="missile" />
+
+	<sound file="dispersion-bullet.ogg" />
+	
+	<sound file="building-explosion1.ogg" class="building-explosion" />
+	<sound file="building-explosion2.ogg" class="building-explosion" />
+	<sound file="building-explosion3.ogg" class="building-explosion" />
+
+	<sound file="deadman1.ogg" class="human-death" />
+	<sound file="deadman2.ogg" class="human-death" />
+	<sound file="deadman3.ogg" class="human-death" />
+
+	<sound file="zombie-dead.ogg" />
+	<sound file="slime-dead.ogg" />
+
+	<sound file="cannon1.ogg" class="cannon" />
+	<sound file="cannon2.ogg" class="cannon" />
+	<sound file="cannon3.ogg" class="cannon" />
+	<sound file="cannon4.ogg" class="cannon" />
+
+	<sound file="vehicle-explosion.ogg" class="vehicle-explosion" />
+	<sound file="vehicle-explosion2.ogg" class="vehicle-explosion" />
+
+	<sound file="vehicle-sound.ogg" class="vehicle-sound" />
+	
+	<sound file="klaxon.ogg" class="klaxon" />
+	<sound file="klaxon-funny.ogg" class="klaxon" />
+
+	<sound file="laugh01.ogg" class="laugh" />
+	<sound file="laugh02.ogg" class="laugh" />
+
+	<sound file="submarine.ogg" />
+	
+	<sound file="engine-start.ogg" />
+
+	<!-- menu sounds -->
+	<sound file="menu/select.ogg" />
+	<sound file="menu/return.ogg" />
+	<sound file="menu/change.ogg" />
+	<sound file="menu/move.ogg" />
+
+	<!-- animation tiles -->
+
+	<animation id="damage-digits" tile="../font/digits.png" model="single-tile" tile_width="10" tile_height="16" persistent="yes" />
+
+	<animation id="green-tank" tile="tank01.png" model="tank-animation"/>
+	<animation id="red-tank" tile="tank02.png" model="tank-animation"/>
+	<animation id="yellow-tank" tile="tank03.png" model="tank-animation"/>
+	<animation id="blue-tank" tile="tank04.png" model="tank-animation"/>
+	<animation id="dead-green-tank" tile="tank01_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-red-tank" tile="tank02_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-yellow-tank" tile="tank03_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-blue-tank" tile="tank04_crash.png" model="dead-vehicle-animation"/>
+	<animation id="tank-smoke" tile="tank_smoke.png" model="smoke-animation" />
+	<animation id="guided-missiles-on-tank" tile="tank_missile01.png" model="missiles-on-tank-animation" />
+	<animation id="smoke-missiles-on-tank" tile="tank_missile02.png" model="missiles-on-tank-animation" />
+	<animation id="dumb-missiles-on-tank" tile="tank_missile03.png" model="missiles-on-tank-animation" />
+	<animation id="nuke-missiles-on-tank" tile="tank_missile04.png" model="missiles-on-tank-animation" />
+	<animation id="regular-mines-on-tank" tile="tank_mine.png" model="missiles-on-tank-animation" />
+	<animation id="boomerang-missiles-on-tank" tile="tank_missile05.png" model="missiles-on-tank-animation" />
+	<animation id="stun-missiles-on-tank" tile="tank_missile06.png" model="missiles-on-tank-animation" />
+
+	<animation id="green-shilka" tile="shilka_green.png" model="shilka-animation"/>
+	<animation id="red-shilka" tile="shilka_red.png" model="shilka-animation"/>
+	<animation id="yellow-shilka" tile="shilka_yellow.png" model="shilka-animation"/>
+	<animation id="blue-shilka" tile="shilka_blue.png" model="shilka-animation"/>
+	<animation id="green-shilka-turret" tile="shilka_turret_green.png" model="shilka-turret-animation"/>
+	<animation id="red-shilka-turret" tile="shilka_turret_red.png" model="shilka-turret-animation"/>
+	<animation id="yellow-shilka-turret" tile="shilka_turret_yellow.png" model="shilka-turret-animation"/>
+	<animation id="blue-shilka-turret" tile="shilka_turret_blue.png" model="shilka-turret-animation"/>
+	<animation id="dead-green-shilka" tile="shilka01_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-red-shilka" tile="shilka02_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-yellow-shilka" tile="shilka03_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-blue-shilka" tile="shilka04_crash.png" model="dead-vehicle-animation"/>
+
+	<animation id="shilka-bullet-right" tile="shilka_bullet_1_16.png" model="bullet-animation"/>
+	<animation id="shilka-bullet-left" tile="shilka_bullet_2_16.png" model="bullet-animation"/>
+	<animation id="shilka-dirt-bullet-left" tile="shilka_dirt_bullet2.png" model="bullet-animation"/>
+	<animation id="shilka-dirt-bullet-right" tile="shilka_dirt_bullet1.png" model="bullet-animation"/>
+
+	<animation id="green-launcher" tile="launcher01.png" model="launcher-animation"/>
+	<animation id="red-launcher" tile="launcher02.png" model="launcher-animation"/>
+	<animation id="yellow-launcher" tile="launcher03.png" model="launcher-animation"/>
+	<animation id="blue-launcher" tile="launcher04.png" model="launcher-animation"/>
+	<animation id="dead-green-launcher" tile="launcher01_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-red-launcher" tile="launcher02_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-yellow-launcher" tile="launcher03_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-blue-launcher" tile="launcher04_crash.png" model="dead-vehicle-animation"/>
+	<animation id="launcher-smoke" tile="launcher_smoke.png" model="smoke-animation" />
+
+	<animation id="guided-missiles-on-launcher" tile="launcher_missile01.png" model="missiles-on-launcher-animation" />
+	<animation id="smoke-missiles-on-launcher" tile="launcher_missile02.png" model="missiles-on-launcher-animation" />
+	<animation id="dumb-missiles-on-launcher" tile="launcher_missile03.png" model="missiles-on-launcher-animation" />
+	<animation id="nuke-missiles-on-launcher" tile="launcher_missile04.png" model="missiles-on-launcher-animation" />
+	<animation id="boomerang-missiles-on-launcher" tile="launcher_missile05.png" model="missiles-on-launcher-animation" />
+	<animation id="stun-missiles-on-launcher" tile="launcher_missile06.png" model="missiles-on-launcher-animation" />
+	<animation id="regular-mines-on-launcher" tile="launcher_mine.png" model="missiles-on-launcher-animation" />
+	<animation id="bomberman-mines-on-launcher" tile="launcher_mine.png" model="missiles-on-launcher-animation" />
+	<animation id="machinegunner-on-launcher" tile="launcher_machinegunner.png" model="single-tile" />
+	<animation id="thrower-on-launcher" tile="launcher_thrower.png" model="single-tile" />
+
+	<animation id="green-mortar" tile="mortar.png" model="mortar-animation"/>
+	<animation id="red-mortar" tile="mortar.png" model="mortar-animation"/>
+	<animation id="yellow-mortar" tile="mortar.png" model="mortar-animation"/>
+	<animation id="blue-mortar" tile="mortar.png" model="mortar-animation"/>
+	<animation id="dead-mortar" tile="mortar_crash.png" model="dead-vehicle-animation"/>
+
+	<!-- a little note on outlines and animations : 
+		it is safe to define more than one animation with the same tile. it wont be loaded more than once. 
+		now outline name constructed from registered name of the class. i.e. tank, static-tank. 
+		it could be easily changed.
+	-->
+
+	<animation id="green-tank-outline" tile="tank_outline.png" model="single-tile" />
+	<animation id="red-tank-outline" tile="tank_outline.png" model="single-tile" />
+	<animation id="blue-tank-outline" tile="tank_outline.png" model="single-tile" />
+	<animation id="yellow-tank-outline" tile="tank_outline.png" model="single-tile" />
+
+	<animation id="green-shilka-outline" tile="shilka_outline.png" model="single-tile" />
+	<animation id="red-shilka-outline" tile="shilka_outline.png" model="single-tile" />
+	<animation id="blue-shilka-outline" tile="shilka_outline.png" model="single-tile" />
+	<animation id="yellow-shilka-outline" tile="shilka_outline.png" model="single-tile" />
+
+	<animation id="green-launcher-outline" tile="launcher_outline.png" model="single-tile" />
+	<animation id="red-launcher-outline" tile="launcher_outline.png" model="single-tile" />
+	<animation id="blue-launcher-outline" tile="launcher_outline.png" model="single-tile" />
+	<animation id="yellow-launcher-outline" tile="launcher_outline.png" model="single-tile" />
+
+	<animation id="mortar-outline" tile="mortar_outline.png" model="single-tile" />
+	<animation id="machinegunner-outline" tile="machinegunner_outline.png" model="single-tile" />
+	<animation id="civilian-outline" tile="civilian_outline.png" model="single-tile" />
+	<animation id="nukeman-outline" tile="nukeman_outline.png" model="single-tile" />
+
+	<animation id="red-car" tile="car01.png" model="car-animation"/>
+	<animation id="blue-car" tile="car02.png" model="car-animation"/>
+	<animation id="yellow-car" tile="car03.png" model="car-animation"/>
+	<animation id="white-car" tile="car04.png" model="car-animation"/>
+	<animation id="dead-red-car" tile="car01_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-blue-car" tile="car02_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-yellow-car" tile="car03_crash.png" model="dead-vehicle-animation"/>
+	<animation id="dead-white-car" tile="car04_crash.png" model="dead-vehicle-animation"/>
+	
+	<animation id="choo-choo-train" tile="train.png" model="choo-choo-train-animation" size="128" />
+	<animation id="dead-choo-choo-train" tile="train_crash.png" model="dead-choo-choo-train-animation" size="128" />
+	<animation id="train-smoke" tile="train_smoke.png" model="train-smoke-animation" size="256" />
+
+	<animation id="choo-choo-wagon" tile="wagon.png" model="choo-choo-wagon-animation" size="128" />
+	<animation id="dead-choo-choo-wagon" tile="wagon_crash.png" model="dead-choo-choo-wagon-animation" size="128" />
+
+	<animation id="guided-missile" tile="missile01.png" model="single-tile" />
+	<animation id="smoke-missile" tile="missile02.png" model="single-tile" />
+	<animation id="dumb-missile" tile="missile03.png" model="single-tile" />
+	<animation id="nuke-missile" tile="missile04.png" model="single-tile" />
+	<animation id="boomerang-missile" tile="missile05.png" model="single-tile" />
+	<animation id="stun-missile" tile="missile06.png" model="single-tile" />
+	<animation id="missile-fire" tile="missile_fire.png" model="missile-fire-animation" />
+	<!-- <animation id="missile-launch" tile="missile_launch.png" model="missile-launch-animation" size="128" /> -->
+	<animation id="regular-mine" tile="mine.png" model="regular-mine-animation" size="32" />
+	<animation id="nuke-mine" tile="nuke_mine.png" model="nuke-mine-animation" size="32" />
+	<animation id="bomberman-mine" tile="mine.png" model="regular-mine-animation" size="32" />
+	<animation id="bomb" tile="aviabomb.png" model="bomb-animation" />
+
+	<animation id="orange-bus" tile="bus01.png" model="car-animation"/>
+	<animation id="dead-orange-bus" tile="bus01_crash.png" model="dead-vehicle-animation"/>
+
+	<animation id="civilian-1" tile="man01.png" model="man-animation"/>
+	<animation id="dead-civilian-1" tile="man01_dead01.png" model="dead-man-animation"/>
+	<animation id="dead-civilian-static-1" tile="man01_dead01.png" model="dead-man-animation-static"/>
+	<animation id="civilian-2" tile="man02.png" model="man-animation"/>
+	<animation id="dead-civilian-2" tile="man02_dead01.png" model="dead-man-animation"/>
+	<animation id="dead-civilian-static-2" tile="man02_dead01.png" model="dead-man-animation-static"/>
+	<animation id="civilian-3" tile="man03.png" model="man-animation"/>
+	<animation id="dead-civilian-3" tile="man03_dead01.png" model="dead-man-animation"/>
+	<animation id="dead-civilian-static-3" tile="man03_dead01.png" model="dead-man-animation-static"/>
+
+	<animation id="ziehharmonikaspieler" tile="ziehharmonikaspieler.png" model="ziehharmonikaspieler-animation"/>
+	<animation id="dead-ziehharmonikaspieler" tile="ziehharmonikaspieler_dead.png" model="dead-man-animation"/>
+	<animation id="dead-ziehharmonikaspieler-static" tile="ziehharmonikaspieler_dead.png" model="dead-man-animation-static"/>
+
+	<animation id="fire" tile="fire.png" model="fire-animation" />
+	<animation id="smoke-cloud" tile="smoke_cloud.png" model="smoke-cloud-animation" size="192"/>
+	<animation id="dirt" tile="dirt.png" model="dirt-animation" size="128" />
+
+	<!-- pickable items -->
+	<animation id="heal" tile="heal.png" model="item-animation-3"/>
+	<animation id="megaheal" tile="megaheal.png" model="item-animation-5"/>
+	
+	<animation id="guided-missiles-item" tile="missile01_item.png" model="item-animation-2" />
+	<animation id="smoke-missiles-item" tile="missile02_item.png" model="item-animation-2" />
+	<animation id="dumb-missiles-item" tile="missile03_item.png" model="item-animation-2" />
+	<animation id="nuke-missiles-item" tile="missile04_item.png" model="item-animation-2" />
+	<animation id="boomerang-missiles-item" tile="missile05_item.png" model="item-animation-2" />
+	<animation id="stun-missiles-item" tile="missile06_item.png" model="item-animation-2" />
+	<animation id="mines-item" tile="mine_item.png" model="item-animation-2" />
+	<animation id="dirt-bullets-item" tile="dirt_item.png" model="item-animation-1" />
+	<animation id="dispersion-bullets-item" tile="dispersion_item.png" model="item-animation-1" />
+	<animation id="ricochet-bullets-item" tile="ricochet_item.png" model="item-animation-1" />
+	<animation id="machinegunner-item" tile="machinegunner_item.png" model="item-animation-4" />
+	<animation id="thrower-item" tile="thrower_item.png" model="item-animation-4" />
+	<animation id="skotobaza" tile="skotobaza.png" model="single-tile" tile_width="128" tile_height="64" />
+	
+	<!-- end of items -->
+
+	<animation id="pond" tile="pond.png" model="pond-animation" size="256" />
+	
+	<animation id="bullet" tile="bullet.png" model="bullet-animation"/>
+	<animation id="tank-bullet" tile="bullet.png" model="bullet-animation"/>
+	<animation id="dispersion-bullet" tile="bullet16.png" model="dispersion-bullet-animation"/>
+	<animation id="ricochet-bullet" tile="bullet16.png" model="bullet-animation"/>
+	<animation id="vehicle-machinegunner-bullet" tile="machinegunner_bullet.png" model="machinegunner-bullet-animation"/>
+	<animation id="machinegunner-bullet" tile="machinegunner_bullet2.png" model="machinegunner-bullet-animation"/>
+	<animation id="dirt-bullet" tile="dirt_bullet.png" model="bullet-animation"/>
+	<animation id="cannon-bullet" tile="cannon_bullet.png" model="bullet-animation"/>
+	<animation id="mortar-bullet" tile="mortar_bullet.png" model="mortar-bullet-animation"/>
+	<animation id="grenade" tile="grenade.png" model="grenade-animation"/>
+	
+	<animation id="explosion" tile="explosion.png" model="explosion-animation" />
+	<animation id="missile-explosion" tile="missile_blast.png" model="missile-explosion-animation" />
+	<animation id="building-explosion" tile="building_explosion_128.png" model="building-explosion-animation" size="128" />
+	<animation id="nuke-explosion" tile="nuke_explosion.png" model="nuke-explosion-animation" size="448" />
+	<animation id="cannon-explosion" tile="cannon_explosion.png" model="cannon-explosion-animation" size="128" />
+	<animation id="mortar-explosion" tile="cannon_explosion.png" model="cannon-explosion-animation" size="128" />
+	<animation id="grenade-explosion" tile="cannon_explosion.png" model="cannon-explosion-animation" size="128" />
+	<animation id="kamikaze-explosion" tile="kamikaze_explosion.png" model="kamikaze-explosion-animation" size="128" />
+	<animation id="traffic-lights" tile="traffic_lights.png" model="traffic-lights-animation" />
+
+	<animation id="gate" tile="gate01.png" model="destructable-object-animation" tile_width="128" tile_height="64" />
+	<animation id="bus-stop-left" model="destructable-object-animation" tile="bus_stop_left.png" tile_width="64" tile_height="128" />
+	<animation id="bus-stop-right" model="destructable-object-animation" tile="bus_stop_right.png" tile_width="64" tile_height="128" />
+	<animation id="bus-stop-top" model="destructable-object-animation" tile="bus_stop_top.png" tile_width="128" tile_height="64" />
+	<animation id="stall-left" model="destructable-object-animation-no-z" tile="stall_left.png" />
+	<animation id="stall-right" model="destructable-object-animation-no-z" tile="stall_right.png" />
+	<animation id="tent-top" model="destructable-object-animation" tile="tent_top.png" />
+	<animation id="tent-left" model="destructable-object-animation" tile="tent_left.png" />
+	<animation id="tent-right" model="destructable-object-animation" tile="tent_right.png" />
+	<animation id="umbrella" model="destructable-object-animation-no-z" tile="umbrella.png" />
+	<animation id="van" model="destructable-object-animation-no-z" tile="van.png" />
+	<animation id="biotoilet" model="destructable-object-animation" tile="biotoilet.png" />
+	<animation id="lodge" model="destructable-object-animation-no-z" tile="lodge.png" />
+	<animation id="stack" model="destructable-object-animation" tile="stack.png" />
+	<animation id="oil-barrels" model="destructable-object-animation" tile="oil-barrels.png" />
+
+	<animation id="helicopter" model="helicopter-animation" tile="helicopter.png" size="128" />
+	<animation id="chinook" model="helicopter-animation" tile="chinook.png" size="256" />
+	<animation id="dead-helicopter" model="dead-helicopter-animation" tile="helicopter_crash.png" size="128" />
+	<animation id="dead-chinook" model="dead-helicopter-animation" tile="chinook_crash.png" size="256" />
+	<animation id="helicopter-bullet-right" tile="helicopter_bullet1.png" model="bullet-animation"/>
+	<animation id="helicopter-bullet-left" tile="helicopter_bullet2.png" model="bullet-animation"/>
+
+	<animation id="watchtower" model="watchtower-animation" tile="watchtower.png" size="128" />
+	<animation id="trooper-tent" model="trooper-tent-animation" tile="trooper_tent.png" size="128" />
+	<animation id="trooper-hut" model="trooper-hut-animation" tile="trooper_hut.png" tile_width="128" tile_height="192" />
+	<animation id="cannon" model="cannon-animation" tile="cannon.png" size="64" />
+	<animation id="dead-cannon" model="dead-vehicle-animation" tile="cannon_corpse.png" size="64" />
+	
+	<!-- troops --> 
+	<animation id="paratrooper" model="paratrooper-animation" tile="paratrooper.png" />
+	<animation id="gay-paratrooper" model="paratrooper-animation" tile="gay_paratrooper.png" />
+	<animation id="kamikaze" model="kamikaze-animation" tile="kamikaze.png" />
+	<animation id="machinegunner" model="machinegunner-animation" tile="machinegunner.png" />
+	<animation id="nukeman" model="trooper-animation" tile="nukeman.png" />
+	<animation id="dead-machinegunner" model="dead-man-animation" tile="machinegunner_dead.png" />
+	<animation id="dead-machinegunner-static" model="dead-man-animation-static" tile="machinegunner_dead.png" />
+
+	<animation id="dead-nukeman" model="dead-man-animation" tile="machinegunner_dead.png" />
+	<animation id="dead-machinegunner-in-watchtower" model="dead-man-animation" tile="machinegunner_dead.png" />
+	<animation id="dead-thrower-in-watchtower" model="dead-man-animation" tile="thrower_dead.png" />
+
+	<!-- helmets -->	
+	<animation id="red-machinegunner-helmet" model="machinegunner-helmet" tile="helmet_red.png" />
+	<animation id="green-machinegunner-helmet" model="machinegunner-helmet" tile="helmet_green.png" />
+	<animation id="yellow-machinegunner-helmet" model="machinegunner-helmet" tile="helmet_yellow.png" />
+	<animation id="blue-machinegunner-helmet" model="machinegunner-helmet" tile="helmet_blue.png" />
+	<animation id="red-thrower-helmet" model="thrower-helmet" tile="helmet_red.png" />
+	<animation id="green-thrower-helmet" model="thrower-helmet" tile="helmet_green.png" />
+	<animation id="yellow-thrower-helmet" model="thrower-helmet" tile="helmet_yellow.png" />
+	<animation id="blue-thrower-helmet" model="thrower-helmet" tile="helmet_blue.png" />
+	
+
+	<!-- road signs -->
+
+	<animation id="road-sign01" model="destructable-object-animation" tile="road_sign01.png" size="32" />
+	<animation id="road-sign02" model="destructable-object-animation" tile="road_sign02.png" size="32" />
+	<animation id="road-sign03" model="destructable-object-animation" tile="road_sign03.png" size="32" />
+	<animation id="road-sign04" model="destructable-object-animation" tile="road_sign04.png" size="32" />
+	<animation id="road-sign05" model="destructable-object-animation" tile="road_sign05.png" size="32" />
+	<animation id="road-sign06" model="destructable-object-animation" tile="road_sign06.png" size="32" />
+	<animation id="road-sign07" model="destructable-object-animation" tile="road_sign07.png" size="32" />
+	<animation id="road-sign08" model="destructable-object-animation" tile="road_sign08.png" size="32" />
+	<animation id="road-sign09" model="destructable-object-animation" tile="road_sign09.png" size="32" />
+	<animation id="road-sign10" model="destructable-object-animation" tile="road_sign10.png" size="32" />
+	<animation id="road-sign11" model="destructable-object-animation" tile="road_sign11.png" size="32" />
+
+	<animation id="submarine" model="yellow-submarine-animation" tile="submarine.png" tile_width="192" tile_height="128" />
+
+	<animation id="boat" model="boat-animation" tile="boat.png" size="128" />
+	<animation id="dead-boat" model="dead-boat-animation" tile="boat_crash.png" size="128" />
+	<animation id="guided-missiles-on-boat" tile="boat_missile.png" model="missiles-on-boat-animation" size="128" />
+
+	<animation id="spaceport-baykonur" model="spaceport-baykonur-animation" tile="baykonur.png" tile_width="192" tile_height="256" />
+	
+	<animation id="zombie" model="zombie-animation" tile="zombak_vasya.png" size="64" />
+	<animation id="dead-zombie" model="dead-zombie-animation" tile="zombak_vasya_dead.png" size="64" />
+
+	<animation id="thrower" model="trooper-animation" tile="thrower.png" />
+	<animation id="thrower-missile" model="single-tile" tile="thrower_missile.png" />
+	<animation id="dead-thrower" model="dead-man-animation" tile="thrower_dead.png" />
+	<animation id="dead-thrower-static" model="dead-man-animation-static" tile="thrower_dead.png" />
+	<animation id="waypoint-16" model="single-tile" tile="waypoint16x16.png" />
+
+	<animation id="teleport" model="teleport-animation" tile="teleport.png" />
+	<animation id="cow" model="cow-animation" tile="cow.png" />
+	<animation id="dead-cow" model="dead-man-animation" tile="cow_dead.png" />
+	<animation id="dead-cow-static" model="dead-man-animation" tile="cow_dead.png" />
+	
+	<animation id="sandworm-head" model="sandworm-head-animation" tile="sandworm.png" size="128" />
+	<animation id="sandworm" model="sandworm-body-animation" tile="sandworm_body.png" />
+
+	<animation id="buggy" model="buggy-animation" tile="buggy.png" size="64" />
+	<animation id="buggy-gun" model="buggy-gun-animation" tile="buggy_gun.png" size="64" />
+	<animation id="dead-buggy" model="dead-vehicle-animation" tile="buggy_crash.png" size="64" />
+
+	<animation id="turrel" model="buggy-gun-animation" tile="buggy_gun.png" size="64" />
+
+	<animation id="buggy-bullet-right" tile="buggy_bullet1.png" model="bullet-animation"/>
+	<animation id="buggy-bullet-left" tile="buggy_bullet2.png" model="bullet-animation"/>
+	<animation id="buggy-air-bullet-right" tile="buggy_air_bullet1.png" model="bullet-animation"/>
+	<animation id="buggy-air-bullet-left" tile="buggy_air_bullet2.png" model="bullet-animation"/>
+	
+	<animation id="target" tile="target.png" model="target-animation" size="64" />
+	<animation id="target-arrows" tile="arrows.png" model="target-arrows-animation" size="96" />
+	<animation id="slime" tile="slime.png" model="slime-animation" size="64" />
+	<animation id="slime-acid" tile="slime_bullet.png" model="bullet-animation" size="64" />
+	<animation id="dead-slime" tile="slime_dead.png" model="dead-slime-animation" size="128" />
+	
+	<animation id="ctf-base-red" tile="base_red.png" model="ctf-base-animation" size="128" />
+	<animation id="ctf-base-green" tile="base_green.png" model="ctf-base-animation" size="128" />
+	<animation id="ctf-base-yellow" tile="base_yellow.png" model="ctf-base-animation" size="128" />
+	<animation id="ctf-base-blue" tile="base_blue.png" model="ctf-base-animation" size="128" />
+
+	<animation id="ctf-flag-red" tile="flag_red.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-green" tile="flag_green.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-blue" tile="flag_blue.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-yellow" tile="flag_yellow.png" model="single-tile" size="64" />
+
+	<animation id="ctf-flag-red-outline" tile="flag_blue_outline.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-green-outline" tile="flag_blue_outline.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-blue-outline" tile="flag_blue_outline.png" model="single-tile" size="64" />
+	<animation id="ctf-flag-yellow-outline" tile="flag_blue_outline.png" model="single-tile" size="64" />
+	
+	<!-- OBJECTS -->
+
+	<object class="damage-digits" speed="60" ttl="1" z="999" />
+	
+	<alias name="static-target" class="single-pose(no-directions)" />
+	<alias name="pond" class="single-pose" />
+	<alias name="tank-bullet" class="bullet(auto-aim)" />
+	<alias name="helicopter-bullet" class="bullet" />
+	<alias name="buggy-bullet" class="bullet(auto-aim)" />
+	<alias name="spawn-shield" class="single-pose(once)(no-directions)" />
+	<alias name="gate" class="destructable-object" />
+	<alias name="bus-stop" class="destructable-object(with-fire)" />
+	<alias name="stall" class="destructable-object(with-fire)(make-pierceable)" />
+	<alias name="tent" class="destructable-object(make-pierceable)" />
+	<alias name="umbrella" class="destructable-object(make-pierceable)" />
+	<alias name="van" class="destructable-object(make-pierceable)" />
+	<alias name="biotoilet" class="destructable-object(make-pierceable)" />
+	<alias name="lodge" class="destructable-object(with-fire)(make-pierceable)" />
+	<alias name="stack" class="destructable-object(with-fire)(make-pierceable)" />
+	<alias name="road-sign" class="destructable-object" />
+	<alias name="oil-barrels" class="explosive" />
+ 	<alias name="train-smoke" class="single-pose(once)" />
+ 	<alias name="bomberman-explosion" class="cannon-explosion" />
+ 	<alias name="bomberman-mine" class="regular-mine(bomberman)" />
+ 	<alias name="nuke-mine" class="regular-mine(bomberman)(nuke)" />
+ 	<alias name="helicorpse" class="corpse(with-fire)(do-damage)" />
+
+	<alias name="ziehharmonikaspieler" class="civilian" />
+	
+	<object class="watchtower-with-machinegunner" mass="1000" hp="20" z="200" impassability="1" />
+	<object class="watchtower-with-thrower" mass="1000" hp="20" z="200" impassability="1" />
+	<object class="watchtower-top" z="205" impassability="0" />
+
+	<object class="barrack-with-machinegunners" mass="1000" hp="200" z="200" impassability="1" />
+	<object class="barrack-with-throwers" mass="1000" hp="200" z="200" impassability="1" />
+	<object class="barrack-with-kamikazes" mass="1000" hp="200" z="200" impassability="1" />
+
+	<object parent="barrack-with-machinegunners" class="tent-with-machinegunners" speed="400" hp="80" />
+	<object parent="barrack-with-throwers" class="tent-with-throwers" speed="200" hp="80" />
+	<object parent="barrack-with-kamikazes" class="tent-with-kamikazes" speed="600" hp="80" />
+	
+	<object class="cannon" mass="1000" hp="50" z="200" impassability="1" />
+
+	<object class="tank" speed="360" mass="500" hp="80" z="0" />
+	<object class="static-tank" parent="tank" z="0" />
+	<object class="launcher" speed="450" mass="400" hp="50" z="0" />
+	<object class="static-launcher" parent="launcher" z="0" />
+	<object class="shilka" speed="400" mass="400" hp="60" z="0" />
+	<object class="static-shilka" parent="shilka" z="0" />
+	<object class="shilka-turret" parent="shilka" z="1" />
+	<object class="mortar" speed="90" mass="400" hp="100" z="0" />
+	<object class="static-mortar" parent="mortar" />
+
+	<object class="bullet" speed="1000" mass="2" ttl="0.5818" hp="10" z="210" />
+	<object class="tank-bullet" parent="bullet" hp="15" />
+	<object class="ricochet-bullet" speed="1000" mass="2" ttl="1.5" hp="10" z="210" />
+	<object class="dispersion-bullet" speed="900" mass="2" ttl="0.4" hp="10" z="210" />
+	<object class="machinegunner-bullet" speed="1000" mass="2" ttl="0.5818" hp="2" z="210" />
+	<object class="vehicle-machinegunner-bullet" parent="machinegunner-bullet" hp="10" />
+	<object class="dirt-bullet" speed="550" ttl="0.5" hp="0" z="-10" />
+	<object class="cannon-bullet" speed="550" ttl="1" hp="0" z="-10" />
+	<object class="shilka-bullet" speed="1100" piercing="true" ttl="0.5333" hp="10" z="210" />
+	<object class="mortar-bullet" speed="550" ttl="0.7" hp="0" z="210" />
+	<object class="grenade" speed="550" ttl="0.5" hp="0" z="210" />
+	<object class="helicopter-bullet" speed="1100" ttl="0.5333" hp="10" z="-10" />
+	<object class="buggy-bullet" speed="1100" ttl="0.5333" hp="10" z="210" />
+	<object class="slime-acid" speed="500" ttl="0.9" hp="10" z="-10" />
+
+	<object class="guided-missile" speed="400" mass="100" ttl="5" hp="15" z="250" />
+	<object class="thrower-missile" speed="400" mass="30" ttl="2.5" hp="5" z="250" />
+	<object class="smoke-missile" speed="450" mass="100" ttl="1" hp="0" z="250" />
+	<object class="dumb-missile" speed="550" mass="100" ttl="10" hp="40" z="250" />
+	<object class="nuke-missile" speed="135" mass="100" ttl="3" hp="1000" z="250" />
+	<object class="boomerang-missile" speed="450" mass="100" hp="15" z="250" />
+	<object class="stun-missile" speed="550" mass="100" ttl="5" hp="0" z="250" />
+	<object class="ballistic-missile" speed="900" mass="100" hp="-1" z="-1" impassability="0"/>
+	<object class="ballistic-missile-target" speed="100" z="-5" impassability="0" />
+	<object class="static-target" parent="ballistic-missile-target" />
+
+	<!-- <object class="missile-launch" impassability="0" z="260" /> -->
+
+	<object class="regular-mine" hp="40" z="-30" />
+	<object class="armed-mine" parent="regular-mine" />
+	<object class="nuke-mine" parent="regular-mine" impassability="0" />
+	<object class="bomberman-mine" parent="regular-mine" pierceable="false" impassability="1" />
+	
+	<object class="bomb" hp="1" impassability="-1" speed="100" />
+
+	<object class="choo-choo-train" speed="20" mass="5" hp="100" z="0" impassability="1" />
+	<object class="choo-choo-wagon" parent="choo-choo-train"/>
+	<object class="train-smoke" z="101" />
+
+	<object class="corpse" hp="-1" ttl="10" fadeout_time="1" z="-5" impassability="0" />
+	<object class="impassable-corpse" parent="corpse" impassability="1" />
+	<object class="helicorpse" parent="corpse" impassability="-1" />
+	<object class="broken-object" impassability="1" pierceable="true" hp="-1" />
+	
+	<object class="explosion" hp="5" z="580"/>
+	<object class="static-smoke-cloud" impassability="-1" hp="1000" z="580"/>
+	<object class="smoke-cloud" parent="static-smoke-cloud" ttl="30" fadeout_time="1"/>
+	<object class="nuke-explosion" hp="1000" mass="10000" impassability="-1" z="900"/>
+	<object class="cannon-explosion" hp="30" impassability="-1" z="900"/>
+	<object class="mortar-explosion" hp="30" impassability="-1" z="900"/>
+	<object class="grenade-explosion" hp="10" impassability="-1" z="900"/>
+	<object class="kamikaze-explosion" hp="10" impassability="-1" z="900"/>
+	<object class="bomberman-explosion" hp="100" impassability="-1" z="900"/>
+	
+	<object class="static-dirt" impassability="-1" z="-20" />
+	<object class="dirt" parent="static-dirt" ttl="50" fadeout_time="1" />
+	<object class="pond" hp="-1" pierceable="true" impassability="1" z="150" />
+	<object class="gate" hp="20" impassability="1" z="150" />
+	<object class="bus-stop" hp="40" impassability="1" z="150" />
+	<object class="stall" hp="15" impassability="1" z="150" />
+	<object class="tent" hp="10" impassability="1" z="150" />
+	<object class="umbrella" hp="10" impassability="1" z="150" />
+	<object class="van" hp="20" impassability="1" z="150" />
+	<object class="biotoilet" hp="5" impassability="1" z="150" />
+	<object class="lodge" hp="30" impassability="1" z="150" />
+	<object class="spawn-shield" hp="1000" impassability="1" z="150" />
+	<object class="traffic-lights" hp="15" z="150" />
+	<object class="stack" hp="5" z="150" impassability="1" />
+	<object class="explosive" hp="10" impassability="1" z="150" />
+	<object class="oil-barrels" parent="explosive" />
+	<object class="road-sign" hp="10" impassability="1" z="150" />
+	<object class="fire" z="-15" impassability="0" pierceable="true" />
+	<object class="static-corpse" impassability="0" pierceable="true" z="-18" />
+	<object class="impassable-static-corpse" impassability="1" pierceable="true" z="-18" hp="-1" />
+	
+	<object class="missiles-on-tank" z="10" />
+	<object class="missiles-on-launcher" z="10" />
+	<object class="alt-missiles-on-launcher" z="5" />
+	<object class="machinegunner-on-launcher" z="10" />
+	<object class="thrower-on-launcher" z="10" />
+
+	<object class="helicopter" hp="200" impassability="-1" speed="400" mass="2000" z="810" />
+	<object class="helicopter-with-kamikazes" parent="helicopter" />
+	<object class="raider-helicopter" parent="helicopter" />
+	<object class="static-helicopter" parent="helicopter" />
+	<object class="submarine" hp="-1" impassability="1" />
+	<object class="boat" hp="100" impassability="-1" speed="50" mass="200" />
+	<object class="paratrooper-kamikaze" hp="25" impassability="1" z="810" />
+	<object class="kamikaze" hp="5" speed="70" mass="80" z="0" />
+
+	<object class="machinegunner" hp="10" speed="100" mass="85" z="-2" />
+	<object class="machinegunner-player" parent="machinegunner" />
+	<object class="thrower" parent="machinegunner" />
+	<object class="helmet" z="-1" />
+	<object class="machinegunner-in-watchtower" impassability="0" parent="machinegunner" z="205" />
+	<object class="thrower-in-watchtower" impassability="0" parent="thrower" z="205" />
+
+	<object class="civilian" hp="20" speed="40" mass="75" z="-1" />
+	<object class="ziehharmonikaspieler" hp="30" speed="80" mass="80" z="-1" />
+
+	<object class="car" hp="20" speed="200" mass="500" />
+	<object class="static-gta-car" parent="car" />
+	<object class="static-car" parent="car" />
+	<object class="outline" impassability="0" />
+	<object class="random-tooltip" z="995" />
+	<object class="spaceport-baykonur" hp="200" z="0"/> 
+
+	<object class="zombie" hp="40" speed="50" mass="85" z="-1" />	
+	<object class="slime" hp="40" speed="35" mass="100" z="-1" />
+	
+	<object class="cow" hp="40" speed="80" mass="120" z="-1" />	
+	<object class="sandworm" speed="150" mass="10" z="-1" impassability="0" />
+	<object class="sandworm-head" speed="0" mass="10" z="-1" impassability="-1" hp="500" />
+	<object class="buggy" hp="40" mass="300" speed="400" z="0" />
+	<object class="static-buggy" parent="buggy" />
+	<object class="teleport" z="-5" />
+	<object class="ctf-base" z="-35" />
+	<object class="ctf-flag" z="11" />
+	
+	<!-- items -->
+	<object class="base-item" z="180" impassability="-1" />
+
+	<object parent="base-item" class="heal" hp="20" />
+	<object parent="base-item" class="megaheal" hp="1000" />
+
+	<object parent="base-item" class="guided-missiles-item" />
+	<object parent="base-item" class="dumb-missiles-item" />
+	<object parent="base-item" class="nuke-missiles-item" />
+	<object parent="base-item" class="smoke-missiles-item" />
+	<object parent="base-item" class="mines-item" />
+	<object parent="base-item" class="dirt-bullets-item" />
+	<object parent="base-item" class="dispersion-bullets-item" />
+	<object parent="base-item" class="ricochet-bullets-item" />
+	<object parent="base-item" class="machinegunner-item" />
+	<object parent="base-item" class="boomerang-missiles-item" />
+	<object parent="base-item" class="stun-missiles-item" />
+	<object parent="base-item" class="thrower-item" />
+</resources>
