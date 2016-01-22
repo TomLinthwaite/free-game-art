@@ -1,5 +1,6 @@
-Author: David Baumgart
-License: CC-BY-SA
+Author: David Baumgart (http://htpp//jnamobile.com)
+License: CC-BY
+Origin: http://opengameart.org/content/turfwars-pixel-city-tile-set
 
 A long time ago I commissioned some pixel art for a project of mine called TurfWars. It has since become a 3D game so I thought I'd make the tile set available.
 
