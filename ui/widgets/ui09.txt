@@ -1,0 +1,11 @@
+author: Wyrmheart "Rodrigo"
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/rpg-game-ui
+
+Hello everyone!,
+
+I've been working on this GUI for hobby and I want you to use it!, it's inspired by Blizzards game, Diablo. Hope you guys like it and feel free you use it in anyway :).
+
+The font used is a free font.
+
+Cheers from Argentina!

@@ -1,0 +1,12 @@
+author: usr_share
+license: GPL3
+origin: http://opengameart.org/content/micropolis-snes-tiles
+
+(Note: "Micropolis" is a name for the GPL3ed version of SimCity released by Don Hopkins. The license used includes an exception, under which the user doesn't get the rights to use the original trademark.)
+
+This image includes an 8x8-based set of tiles for a Micropolis-like game in a style similar to the SNES version of the original game. All (or most) objects/buildings available in Micropolis are covered.
+
+Compared to the original game (in any versions), this set (as well as Micropolis itself) doesn't have any of the "present" buildings included. The animations are also missing at the moment.
+
+Attribution Instructions: 
+Tile set by usr_share, based on the assets from Micropolis.

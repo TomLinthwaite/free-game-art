@@ -1,0 +1,10 @@
+Author: usr_share
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/an-8-bit-beat-em-up-character-sprite-sheet
+
+Just a little sprite sheet that was laying around on my hard drive. It was supposed to be used somewhere, but it didn't*.
+
+*Except that the "standing" sprite is on my avatar now.
+
+Attribution Instructions: 
+Attribution is not required, but would be nice. The preferred form would be "/usr/share" or (for this sheet) the alias "Saikyo Software".

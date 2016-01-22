@@ -1,0 +1,12 @@
+Author: usr_share, doudoulolita
+License: CC-BY-SA, GPL3, GPL2
+Origin: http://opengameart.org/content/8-bit-puzzle-game-sprite-set-sorlo
+
+Based upon this vector character (http://opengameart.org/content/sorlo-a-funny-sorcerer), here is a sprite set for an 8-bit puzzle game based around creating and removing blocks to get all the keys and exit the level.
+
+The sprite sheet is complete, though it is very basic and may require some extra sprites. (it also includes some hints on animating them.)
+
+(Note to doudoulolita and redshrike: it would be very nice if any of you would tell me if it's possible to change the license to CC-BY (as in the Ultimate Smash Friends character sprite sheet). )
+
+Attribution Instructions: 
+Sprite set by /usr/share, based on a character by doudoulolita.

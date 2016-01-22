@@ -1,0 +1,7 @@
+author: usr_share
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/8-bit-side-scroller-castle-tiles
+
+Uploaded here is a set of 8-bit graphics for an obviously-inspired castle and its surroundings, as well as a few sprites.
+
+Whenever possible, palettes are indicated.
