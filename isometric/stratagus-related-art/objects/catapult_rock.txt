@@ -1,0 +1,3 @@
+Authors: b_o
+License: GPL2
+Origin: https://github.com/Andrettin/Wyrmsun

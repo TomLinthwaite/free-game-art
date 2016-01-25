@@ -1,0 +1,5 @@
+Authors: Daniel Cook, Nikita Sadkov
+License: CC-BY
+Origin: https://github.com/saniv/free-game-art
+
+edited out of sprite by Daniel Cook
