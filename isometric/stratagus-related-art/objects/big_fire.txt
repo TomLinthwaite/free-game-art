@@ -1,0 +1,5 @@
+Authors: Nikita Sadkov, Martin Jelinek
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-art
+
+Edited out of public domain fire animation by Martin Jelinek (http://opengameart.org/content/fire-fx-burning-fire-animation)
