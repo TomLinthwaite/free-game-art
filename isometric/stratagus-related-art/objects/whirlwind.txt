@@ -1,0 +1,5 @@
+Authors: Battle for Wesnoth Authors, Nikita Sadkov
+License:  GPL2
+Origin: https://www.wesnoth.org/
+
+edited desert-wind animation from Wesnoth
