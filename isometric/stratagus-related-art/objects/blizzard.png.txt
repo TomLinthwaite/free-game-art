@@ -1,0 +1,3 @@
+Author: Chris Hopp
+License: GPL2
+Origin: http://www.nongnu.org/aleona/
