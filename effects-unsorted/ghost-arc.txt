@@ -1,0 +1,6 @@
+author: LetargicDev
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/ghost-animated
+
+Copyright/Attribution Notice: 
+If you really want to ..... LazyDev or Viktor Gorbulin.

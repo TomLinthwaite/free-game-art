@@ -1,0 +1,3 @@
+author: call me
+license: CC-BY-3.0
+origin: http://opengameart.org/content/letargicdev-ghost-2nd-attack

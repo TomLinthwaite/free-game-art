@@ -1,0 +1,5 @@
+Authors: Nikita Sadkov, Enlight
+License: GPL2
+Origin: https://github.com/saniv/free-game-art
+
+The smoke is based of in_god sprite from Seven Kingdoms: Ancient Adversaries by Enlight.
