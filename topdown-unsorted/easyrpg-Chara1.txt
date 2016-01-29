@@ -1,0 +1,3 @@
+Author: Marina Navarro Travesset (http://muerteatartajo.blogspot.com/)
+License: CC-BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Origin: https://github.com/EasyRPG/TestGame

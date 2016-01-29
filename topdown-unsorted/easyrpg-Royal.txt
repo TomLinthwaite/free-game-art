@@ -1,0 +1,3 @@
+Author: andwhyisit
+License: CC-BY-SA 3.0
+Origin: https://github.com/EasyRPG/TestGame

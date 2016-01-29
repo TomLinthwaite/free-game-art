@@ -1,0 +1,3 @@
+Author: MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0]	http://http://opengameart.org/
+License: CC-BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Origin: https://github.com/EasyRPG/TestGame
