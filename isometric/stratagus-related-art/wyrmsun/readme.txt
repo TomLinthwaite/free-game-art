@@ -3,4 +3,4 @@ Origin: http://opengameart.org/users/andrettin
 
 various art shared by Andrettin at OGA
 
-all CC-BY-SA (i.e. credit respective author)
+all CC-BY-SA (i.e. credit respective author), besides KPJ icons, which are public domain

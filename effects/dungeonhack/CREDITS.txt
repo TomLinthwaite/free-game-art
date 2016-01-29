@@ -1,0 +1,80 @@
+-- DungeonHack 0.10 Team --
+
+-- Art --
+Aare "ajuss" Juss
+
+-- Management --
+Brendan                             schpoorky@gmail.com
+
+-- Programming --
+Chad "Interrupt" Cuddigan
+Markus "Archwyrm" Martin            archwyrm@users.sourceforge.net
+Sylvain "Garvek" T.                 garvek@gmail.com
+Warspawn
+
+
+-- Miscellaneous Contributions --
+
+Arctus (sexy barrel!)
+Chris "kcat" (OpenAL and ALURE implementation, patches)
+del_diablo (documentation)
+echo (testing)
+Explorer (testing)
+Francisco "theotherhiveking" Javier (testing)
+Gustav "Phlogios" Pihl Bohlin (not-quite-included models)
+Matt "ratmice" Rice (patches)
+nphillips (testing)
+lamaslany (testing)
+perilisk (patches)
+PowerC80 (numerous models)
+qubudup (wiki theme)
+Robert Hood (music)
+Roshathra (worldgen, testing)
+Tegan (general coding and GUI work)
+zingbat (code)
+
+Nils "Broodsugar" Pihl Bohlin (future lore) and team:
+Misha (and concept art)
+Sam "Iburnaga" Patton
+Vespasian
+
+Thanks also to all our community members who have contributed in one
+way or another over the life of the project.
+
+
+-- Special Thanks --
+SourceForge.net for project hosting
+UESP.net for former hosting
+
+Interkarma and everyone over at the Daggerfall Workshop (dfworkshop.net)
+
+The Lowpoly Coop (lowpolycoop.com), DH uses models from their Tavern
+and Armoury packs.
+
+Thermite 3D (http://www.thermite3d.org) for CMake files which automate
+finding a number of OGRE dependencies. Many of our CMake files have
+been based off of these.
+
+Freegamer, the man and the site (http://freegamer.blogspot.com). Both
+do great things for the FOSS gaming community.
+
+OpenMW (http://openmw.sf.net) for intercooperation and moral
+support. The project shares many of the same goals with DH, so is worth
+checking out!
+
+The Daggerwind Scrolls (http://daggerwind.sf.net) for moral
+support. Another similar project worth checking out if you run Mac OS X.
+
+To all the authors of the wonderful FOSS libraries that we are using:
+OGRE 3D
+Python
+Bullet Physics
+MyGUI
+OpenAL (Soft) and ALURE
+Open Input System
+OggVorbis
+CMake
+SWIG
+BtOgre
+Paged Geometry Plugin
+

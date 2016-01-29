@@ -1,4 +1,4 @@
-Author: Nooskewl Games (http://www.nooskewl.com/)
+Author: Trent Gamblin 'Nooskewl Games' (http://www.nooskewl.com/)
 License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/main-art-from-monster-rpg-2
 
