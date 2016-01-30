@@ -1,4 +1,4 @@
-Author: Mikael 'Soluna Software' (http://www.solunasoftware.com)
+Author: Mikael Thomsen 'Soluna Software' (http://www.solunasoftware.com)
 License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/explosion-effects-and-more
         http://opengameart.org/content/lots-of-game-effects

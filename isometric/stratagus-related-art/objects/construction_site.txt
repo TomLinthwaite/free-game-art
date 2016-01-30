@@ -1,0 +1,3 @@
+Authors: Joao Victor G. Costa 'Jinn'
+License: GPL2
+Origin: https://github.com/Andrettin/Wyrmsun

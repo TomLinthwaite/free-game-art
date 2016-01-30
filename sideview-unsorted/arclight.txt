@@ -1,0 +1,15 @@
+Author: Jove from Narcissistic Studios (http://narcissisticstudios.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/hq-complete-sprite-set-for-a-light-based-enemy
+
+Extremely high quality sprite set for a light-based enemy we call an arclight were purchased from Jove at Narcissistic Studios.  Jove also did the logo for the game as well as other enemy sprites and tiles.
+
+Animations included (277 files in the .zip):
+Spawn
+Idle
+Damage
+Death
+Attack
+Separate projectile
+
+This will be used in our upcoming game: Conscientia.
