@@ -1,0 +1,5 @@
+author: Deerman
+license: GPL3
+origin: http://opengameart.org/content/assassin-character-on-horse
+
+Pixel art assassin character riding a horse 
