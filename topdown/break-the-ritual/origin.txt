@@ -1,0 +1,3 @@
+Author: Gokhan Solak
+License: 3-clause BSD
+Origin: https://github.com/ppbbalcer/gamejam_2016
