@@ -1,0 +1,7 @@
+Author: Michael Borrego 'Borrego6165'
+License: CC-BY-SA
+Origin: http://opengameart.org/content/simple-iso-city-work-in-progress
+
+I am currently working on a low resolution set of tiles for a city builder. Although I have not finished it yet, I want to update this as I go along with creating the new tiles.
+
+Feedback is welcome! Please note that I do not consider myself an artist, and that I am actually a programmer who just thought they'd save budget making their own graphics.

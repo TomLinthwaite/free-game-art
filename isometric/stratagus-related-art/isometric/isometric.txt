@@ -1,0 +1,5 @@
+Authors: Nikita Sadkov
+License: CC-BY-SA, GPL2, GPL3
+Origin: https://github.com/saniv/free-game-art
+
+

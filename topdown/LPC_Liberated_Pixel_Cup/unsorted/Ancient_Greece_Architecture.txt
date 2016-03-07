@@ -1,0 +1,18 @@
+author: Wolthera van Hövell tot Westerflier 'TheraHedwig'
+license: CC-BY-SA 3.0, GPL3
+origin: http://opengameart.org/content/lpc-compatible-ancient-greek-architecture
+
+I am a Krita dev who has had one too many questions from people why their tablet doesn't work, and thus needs a break. I have decided to dedicate this break into making pixel art graphics, and figured that if I made them LPC compatible it'd be really helpful for people. Similarly, I figured that if I spent my time on getting historically documented architectural styles pixelled, I'd leave all of the fun stuff(namely crazy dungeon graphics) free for people while taking up some of the more complicated things(Roofs)
+
+So this sheet contains some Ancient Greek architecture, so Doric, Ionic, Corinthian. I tried to be somewhat accurate, and looked up photos and pictures. There's also tached roofs, adobe brickwork, a ton of pottery, stylobate, altars, tables, chairs, mosaiques. Used some odd techniques for things, as is visible in the kra file(which I had to zip up, there's also a md file with notes on how to use Krita for pixelart).
+
+There's also plenty things missing, like statues, which are primarily missing because I couldn't decide on a style, similarly, you can't make a Greek Theatre. As well, historically, all the plaster should be painted colorfully, but I figured it'd be best to first get the basics done.
+
+There might be some lighting issues as I have a tendency to have my light source a little bit more from the left side than usual. I might get back to these later to fix them a little.
+
+Some of the tiles in the assembled preview are from the LPC base pack to show the tileset's compatibility with it, but the atlas contains none of the LPC graphics, it just shares the palette here and there.
+
+This is my first submission(not a contest submission, I can read dates, thank you ;) ), so I hope I did this right...
+
+Copyright/Attribution Notice: 
+Attribute to Wolthera van Hövell tot Westerflier,

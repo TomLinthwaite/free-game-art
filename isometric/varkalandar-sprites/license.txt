@@ -1,4 +1,4 @@
-author: Hansjörg Malthaner 'Varkalandar'
+author: Hansjörg Malthaner 'Varkalandar' (http://opengameart.org/users/varkalandar)
 license: CC-BY-SA 3.0, GPL2
 origin: http://opengameart.org/content/misc-sci-fi-tiles-isometric-64-and-128-pixel-raster
         http://opengameart.org/content/simple-lineart-undersea-creature-tile-set
@@ -10,6 +10,10 @@ origin: http://opengameart.org/content/misc-sci-fi-tiles-isometric-64-and-128-pi
         http://opengameart.org/content/tigress-high-speed-train
         http://opengameart.org/content/some-cactuses
         http://opengameart.org/content/strange-maybe-carnivorous-plant-thing
+        http://opengameart.org/content/isometric-houses-64px-raster
+        http://opengameart.org/content/symphonium-sci-fi-industrial-plant
+        http://opengameart.org/content/power-tower-povray-scene-file
+        http://opengameart.org/content/townhall-povray-scene-file
 
 A small set of sci-fi related tiles from old projects of mine.
 
