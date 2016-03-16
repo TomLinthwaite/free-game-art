@@ -1,0 +1,14 @@
+origin: http://opengameart.org/content/asteroid-explosions-rocket-mine-and-laser
+
+Licensed under   Creative Commons Attribution-Share Alike 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+You can reach my via email: veers (ät) gmx (döt) ch
+
+Please use the following texts for attribution:
+
+Text:
+Includes graphics from JS WARS by Jonas Wagner - http://29a.ch/
+
+HTML:
+Includes graphics from <a href="http://29a.ch/">JS WARS</a> by <a href="http://29a.ch/">Jonas Wagner</a>

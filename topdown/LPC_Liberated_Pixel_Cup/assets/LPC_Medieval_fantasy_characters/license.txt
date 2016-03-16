@@ -1,0 +1,16 @@
+author: Johannes Sjolund 'wulax'
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+My entry for the Liberated Pixel cup. See the README for more information and animated gif examples.
+
+Contains various sprites listed in the tags, most of it modular and interchangable.
+
+The archive expansion_pack contains some more sprites made after the contest was over.
+
+Version 0.04 of the expansion pack contains:
+- Shield, longsword and rapier for slash animation.
+- Longer spear for thrust.
+- Bow animations for skeleton.
+- Missing quiver png for bow animation.
+- Combat dummy death.

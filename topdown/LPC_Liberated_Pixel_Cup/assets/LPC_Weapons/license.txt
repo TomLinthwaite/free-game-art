@@ -1,0 +1,12 @@
+author: Daniel Eddeland 'daneeklu'
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident
+
+Some extra weapons in LPC style, based on wulax's LPC submission: http://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+The weapons include: a recurve bow, a longbow/greatbow, a spear and a trident. The weapons should work with wulax's male LPC animations.
+
+Thanks to wulax for making the base animations and weapons (these weapons are edits of his). Also thanks to gr3yh47 for helping me with the spears and giving some ideas for weapons.
+
+UPDATE: Added a mace and a sabre, both using the LPC slash animation. Both have 128x128 frames instead of 64x64 frames though.
+

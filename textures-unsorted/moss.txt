@@ -1,5 +1,0 @@
-author:feudalwars
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/isometric-25d-medieval-blacksmith
-
-comes from the PSD file

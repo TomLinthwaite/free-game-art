@@ -1,5 +1,0 @@
-author: gamjutsu
-license: CC-BY
-origin: http://opengameart.org/content/stone-wall-with-cracks
-
-Seamless stone wall with cracks and fake ambient occlusion. Dimensions 1024x1024.

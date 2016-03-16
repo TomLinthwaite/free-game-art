@@ -1,0 +1,4 @@
+author: Johannes Sjolund (j.sjolund@gmail.com, Freenode: wulax)
+license: `CC-BY-SA`, GPL3
+origin: http://opengameart.org/lpc-art-entries
+        http://opengameart.org/content/lpc-medieval-fantasy-character-sprites

@@ -1,0 +1,18 @@
+author: Daniel Eddeland 'daneeklu'
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/extended-lpc-magic-pack
+
+Update: Added some icons, and right-facing turtle shell and snake bite for convencience (in separate files, rather than inside the archive).
+
+This pack includes updated versions of my old magic animations, as well as some new ones. The old magic animations were included in my LPC submission:
+
+http://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+Includes: Tornado, snakebite, fire lion, water and ice tentacles, ice shield and turtle shell, and lightning claw. The animated preview shows pretty much what to expect.
+
+Most animations are 128x128 pixels per frame, with 16 frames per animation. However the spikes are 64x64, and include less frames.
+
+Some of the animations may be a little big for some applications. In that case it might be wise to scale them to 50%, using nearest-neighbour scaling (no filter).
+
+Attribution Instructions: 
+Attribute creator as Daniel Eddeland. Please include a link to opengameart.org as well (preferably to the submission for this art package) if you use the art.
