@@ -1,0 +1,7 @@
+author: MerlinX420
+license: GPL2
+origin: http://opengameart.org/content/woodland-inn-2-d-tileset
+
+This is a .1 version of a tile set I am doing for The Mana World. The final layout might change so I wouldn't get to crazy mapping with it if you want to update it when I release the final version. This is in a workable state and wanted to post this in hopes of getting some feedback. This set is GPL 2.0. Wood Texture is based off Irukard's Wood and the wall texture is from Ivan.
+
+This set was inspired by the work of Daniel Cook also listed here on Opengameart.org and many other RPG Inn's.

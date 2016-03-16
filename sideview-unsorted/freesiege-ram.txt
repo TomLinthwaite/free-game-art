@@ -1,0 +1,10 @@
+author: Richard James
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/sprites-for-animated-battering-ram
+
+http://forum.freegamedev.net/viewtopic.php?f=22&t=597&sid=2ea2bd06fba4bb33675bb52e50bf9498&start=150#p12483
+
+This was draw for the game FreeSiege:
+
+https://github.com/MCMic/freesiege/downloads
+

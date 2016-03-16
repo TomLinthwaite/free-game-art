@@ -1,0 +1,10 @@
+author: Skorpio
+license: CC-BY-SA
+source: http://opengameart.org/content/tower-4-damaged-versions
+
+
+I got permission to share under this license in an email.
+
+See http://forum.freegamedev.net/viewtopic.php?f=22&t=597&start=75#p6401
+
+and http://forum.freegamedev.net/viewtopic.php?f=22&t=597&start=75#p6425
