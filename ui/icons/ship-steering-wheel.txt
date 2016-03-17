@@ -1,0 +1,12 @@
+author: hackcraft.de
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/ship-steering-helm-vectorsprite
+
+A ship's steering wheel (helm) in .svg vector format plus 32x32 px tile.
+
+Nothing big so I don't even build a zip with credits file.
+
+Just get it for free: public domain or CC0 as you wish.
+
+However you may credit hackcraft.de and opengameart.org as you please.
+

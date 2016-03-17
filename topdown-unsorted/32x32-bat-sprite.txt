@@ -1,0 +1,5 @@
+author: bagzie
+license: OGA-BY
+source: http://opengameart.org/content/bat-sprite
+
+A simple pixel art bat sprite sheet.

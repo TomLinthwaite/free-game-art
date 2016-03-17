@@ -1,0 +1,3 @@
+author: helpcomputer (http://unclechristmas.tumblr.com/)
+license: CC-BY 3.0, GPL2, GPL3
+source: http://opengameart.org/content/sms-shmup

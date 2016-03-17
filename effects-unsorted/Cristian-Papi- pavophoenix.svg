@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.48.0 r9654" sodipodi:docname="PavoPhoenix.svg" width="1014" height="1071" inkscape:export-filename="C:\kriss\sidstuff\img\svg\wings\PavoPhoenix.png" inkscape:export-xdpi="150" inkscape:export-ydpi="150" style="display:inline">
+  <defs id="defs4">
+    <g id="gFlame" transform="translate(350,128)">
+      <path style="fill:url(#RGFire2);fill-opacity:1" id="flameUp" d="m 12,0 c 0,0 -24,0 -24,0 0,-6.63 5.37,-12 12,-12 6.63,0 12,5.37 12,12 z" inkscape:connector-curvature="0" />
+      <use xlink:href="#flameUp" height="1052" width="744.1" y="0" x="0" id="flameDn" transform="scale(1,-3)" />
+    </g>
+    <g id="gFeatherFire" transform="matrix(0.6384,0,0,0.6384,-287.5,-78.59)">
+      <path sodipodi:nodetypes="csssccccccc" id="penna0001" d="m 471.8,163.4 c 20.7,-4.5 36.1,5.3 37.4,23.5 0,1.1 -7.7,2.2 -7.6,3.3 0.1,1 7.9,2 8,3 10.2,136.8 53.1,313.8 31.3,332.6 -23.2,11 -74.7,-176.6 -87.1,-277.2 1.6,-1.2 4.5,-3 4.5,-3 0,0 -3.3,-1.8 -5.3,-4.2 -1.4,-16.2 -1.6,-32.4 0,-41 2.6,-14.3 4.7,-33.4 18.8,-37 l 0,0 z" style="fill:url(#RGFireSolid)" inkscape:connector-curvature="0" />
+      <path sodipodi:nodetypes="cccc" id="gambo" d="m 464.2,129.2 c 0,0 53.1,338.2 75.6,397.5 -20.7,-77.1 -58.2,-321.3 -72,-399.6 -1.7,-9.2 -3.6,2.1 -3.6,2.1 z" style="fill:#ffcc00;fill-opacity:0.5" inkscape:connector-curvature="0" />
+    </g>
+    <g style="display:inline" id="gCrest" transform="translate(-60.94,-164)">
+      <path style="fill:#ff4400;fill-opacity:1;stroke:none" d="m 531.6,53.23 c -2.7,-11.03 27.1,-5.87 33.1,-16.66 2.6,-4.73 -4.8,-11.96 -1.4,-16.19 1.5,-1.84 5.3,-2.58 7,-0.94 4.3,4.22 1.7,13.2 -1.9,18.07 -7.9,10.73 -30.8,6.85 -36.8,15.72 z" id="path7893" inkscape:connector-curvature="0" transform="matrix(2.655,0,0,2.655,-1350,123.5)" sodipodi:nodetypes="cccccc" />
+      <use transform="matrix(-0.7412,-1.772,0.5131,-0.7898,346.8,920.8)" height="1" width="1" id="use5207-1-3-8" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+    </g>
+    <linearGradient id="LGFireSolid">
+      <stop id="stopfire10" offset="0" style="stop-color:#ffFF88;stop-opacity:1" />
+      <stop id="stopfire20" offset="0.4" style="stop-color:#FFFF88;stop-opacity:1" />
+      <stop id="stopfire30" offset="0.6" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop id="stopfire40" offset="0.8" style="stop-color:#ff4400;stop-opacity:1;" />
+      <stop id="stopfire50" offset="1" style="stop-color:#ff0000;stop-opacity:0;" />
+      <!-- stop id="stopfire50" offset="1" style="stop-color:#000000;stop-opacity:0;" /-->
+    </linearGradient>
+    <radialGradient inkscape:collect="always" xlink:href="#LGFireSolid" id="RGFireSolid" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.9829,0.1842,-2,-10.67,1495,3105)" cx="464.2" cy="287.3" fx="464.2" fy="287.3" r="37.77" />
+    <radialGradient inkscape:collect="always" xlink:href="#LGFireSolid" id="RGFire2" gradientUnits="userSpaceOnUse" gradientTransform="scale(0.5,0.5)" cx="0" cy="0" fx="0" fy="0" r="24" />
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPathFire00">
+      <path style="fill:#ff8800;fill-opacity:1;stroke:none" d="m 346.6,155.1 c -2.8,-5 -3.9,-6.2 -4.9,-11.3 -0.4,-2.6 -0.6,-5.3 0,-9.5 1.8,3.9 2.1,5.6 3.5,7.2 1.1,1.3 2,0.8 2.9,1.9 -1.5,4.9 -1,10.5 -1.5,11.7 z" id="pathFire01" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPathFire01">
+      <path style="fill:#ffcc00;fill-opacity:1;stroke:none" d="m 338.5,123.7 c 0.2,8.5 0.9,7.9 1.6,18.5 1.4,6.6 3.9,10.9 10.2,18.5 -1.1,-8.7 -2.4,-13.6 -2.6,-20.8 -0.2,-7.3 4.6,-12.7 2.4,-22.5 -3.2,-0.6 -9.1,2.4 -11.6,6.3 z" id="pathFire02" inkscape:connector-curvature="0" sodipodi:nodetypes="ccczcc" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPathFire02">
+      <path style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline" d="m 361.7,118.6 c -2.1,16.4 -3,30 -8.9,37.1 -5.9,-10.2 -14.4,-21.7 -10.6,-30.9 3.1,-7.4 10.4,-6.4 19.5,-6.2 z" id="path4685-7-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPathFire03">
+      <path style="fill:#ffcc00;fill-opacity:1;stroke:none" d="m 338.5,123.7 c 0.2,8.5 0.9,7.9 1.6,18.5 1.4,6.6 3.9,10.9 10.2,18.5 -1.1,-8.7 -2.4,-13.6 -2.6,-20.8 -0.2,-7.3 4.6,-12.7 2.4,-22.5 -3.2,-0.6 -9.1,2.4 -11.6,6.3 z" id="pathFire03" inkscape:connector-curvature="0" sodipodi:nodetypes="ccczcc" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#000000" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="0.3127" inkscape:cx="514.1" inkscape:cy="666.9" inkscape:document-units="cm" inkscape:current-layer="g6497" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1280" inkscape:window-height="740" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" />
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Livello 1" inkscape:groupmode="layer" id="layer1" style="display:inline" transform="translate(-34.62,-293.9)">
+    <g id="g3282">
+      <g transform="matrix(0.3576,-0.0604,0.0415,0.4127,467.9,326.9)" id="gGreatWing">
+        <g id="gWingC" transform="matrix(0.9974,0,0,0.9974,117.3,42.93)">
+          <use height="1052" width="744.1" id="use3869-2" transform="matrix(1.174,0.0156,-0.0845,1.096,713.4,355.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use64" transform="matrix(1.527,0.1544,-0.0804,1.043,736.7,340.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP01" transform="matrix(1.334,-0.0887,0.0544,1.083,762,348.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP02" transform="matrix(1.227,-0.2737,0.2639,1.145,761.8,338.8)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP03" transform="matrix(1.162,-0.3414,0.324,1.144,793.5,339.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP04" transform="matrix(1.153,-0.3853,0.3474,1.145,830.1,338.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP05" transform="matrix(1.168,-0.4195,0.372,1.146,869.7,342.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP07" transform="matrix(1.105,-0.5914,0.4959,1.097,910.4,355)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP10" transform="matrix(0.9306,-1.052,1.225,0.7994,998.8,382.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP11" transform="matrix(0.7523,-0.8577,1.591,0.5629,997.6,369.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP09" transform="matrix(0.9738,-0.9222,0.9738,0.9222,969.1,377.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP08" transform="matrix(0.9205,-0.8272,0.7724,0.9858,957.8,382.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-6" transform="matrix(1.01,-0.1089,-0.1335,0.7224,695.7,350.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3857-61" transform="matrix(0.9962,-0.1186,-0.1012,0.5773,731.7,383.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859-8" transform="matrix(1.006,-0.0525,-0.1453,0.5698,773.9,378.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3861-4-1" transform="matrix(0.9935,-0.0278,-0.1256,0.5087,711,335.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3861-4" transform="matrix(0.9991,-0.0618,-0.1262,0.577,805.9,378)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3863-9-98" transform="matrix(0.9784,-0.0779,-0.0794,0.5088,737.2,330.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863-9" transform="matrix(0.9868,-0.0866,-0.0946,0.5646,838.9,377.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3865-6-9" transform="matrix(0.9763,-0.0519,-0.086,0.4976,773.5,337.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-6" transform="matrix(0.979,-0.0925,-0.0791,0.5664,872.1,378.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3867-37" transform="matrix(0.9457,-0.1759,0.0025,0.5671,892.5,376.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3869-8" transform="matrix(0.9246,-0.2087,0.0382,0.542,928.7,379.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RP11-8" transform="matrix(0.6042,1.073,1.79,-0.0304,873.2,328.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1" width="1" id="use3865-6-1" transform="matrix(0.323,-0.8161,0.4408,0.3765,1019,370.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3863-9-9" transform="matrix(0.6094,-0.661,0.327,0.5125,992.7,359.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3867-6" transform="matrix(0.5195,0.902,0.4782,-0.0825,991.9,346.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3861-4-8" transform="matrix(0.8796,-0.3834,0.1314,0.5542,954.2,364.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3867-37-5" transform="matrix(0.8253,-0.3844,0.1217,0.4109,973.8,357.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859-00-5-6" transform="matrix(0.7669,-0.4293,0.0973,0.2982,992.1,343.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1" width="1" id="use3865-6-142" transform="matrix(0.9624,-0.1417,-0.0484,0.4307,943.3,348.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3863-9-5" transform="matrix(0.9895,-0.0697,-0.1085,0.4587,913,345.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3867-37-89" transform="matrix(0.9721,-0.0347,-0.0866,0.4881,809.7,348.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3869-8-1" transform="matrix(0.9671,0.0666,-0.1283,0.4683,845.9,342.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1" width="1" id="use3861-4-3" transform="matrix(0.9979,-0.0637,-0.1259,0.4738,877.5,343.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859-00-72" transform="matrix(0.9711,0.1157,-0.1571,0.2598,893.8,335.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00" transform="matrix(0.9712,0.1158,-0.157,0.2598,822.6,332.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859-00-89" transform="matrix(0.9711,0.1157,-0.1571,0.2598,858.3,333.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2" transform="matrix(0.9711,0.1157,-0.1571,0.2598,690.4,337.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-7" transform="matrix(0.9711,0.1157,-0.1571,0.2598,791,329.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-1" transform="matrix(-0.8261,0.354,0.2482,0.1164,880.6,325.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-46" transform="matrix(-0.8966,0.236,0.2265,0.1456,852.9,323.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-4" transform="matrix(-0.8966,0.236,0.2265,0.1456,820.9,322.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-76" transform="matrix(0.9711,0.1157,-0.1571,0.2598,932.5,335)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-5" transform="matrix(0.9711,0.1157,-0.1571,0.2598,968.1,337)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-1" transform="matrix(0.9711,0.1157,-0.1571,0.2598,757.8,330.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-8" transform="matrix(0.9711,0.1157,-0.1571,0.2598,725,331.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5" transform="matrix(0.9239,0.3204,-0.2132,0.1252,714.5,324.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-8" transform="matrix(-0.8966,0.236,0.2265,0.1456,750.3,325.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-6" transform="matrix(-0.81,0.3759,0.2517,0.1103,915.3,327.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-7" transform="matrix(-0.7986,0.3906,0.254,0.1062,952.9,329.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-0" transform="matrix(-0.7914,0.3996,0.2553,0.1036,990.8,331.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-28" transform="matrix(0.5572,0.6662,0.2749,-0.1262,948.2,329.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-6" transform="matrix(0.639,0.6173,0.2528,-0.1524,902.2,329.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-0" transform="matrix(0.639,0.6173,0.2528,-0.1524,867,328.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-3" transform="matrix(0.639,0.6173,0.2528,-0.1524,834.9,326.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-5" transform="matrix(0.639,0.6173,0.2528,-0.1524,804.9,325.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3859-00-2-5-5" transform="matrix(-0.8966,0.236,0.2265,0.1456,788.2,322.1)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-2" transform="matrix(0.639,0.6173,0.2528,-0.1524,768.3,324.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6" transform="matrix(0.6799,0.5873,0.2394,-0.1659,734,326)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-4-1-1-6-1" transform="matrix(0.7003,0.6765,0.2771,-0.167,684.7,323.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use4322-0-2-3-0-8-7" width="1" height="1" transform="matrix(-0.6399,-1.771,1.856,-0.2846,671.2,985.8)" />
+        </g>
+        <g id="gWingB" transform="translate(87.2,18.16)">
+          <use height="1052" width="744.1" id="RS05" transform="matrix(1.198,0.0083,-0.0842,1.121,640,382.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RS01-8" transform="matrix(-1.217,0.0907,0.4484,1.165,694,370.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RS01-1" transform="matrix(1.341,0.234,-0.3692,1.121,461.7,372.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RS01" transform="matrix(1.236,0.167,-0.2829,1.141,492.6,367.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-84" transform="matrix(-1.123,-0.1982,0.0551,0.4723,518.7,458.8)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RS02" transform="matrix(1.23,0.0944,-0.1869,1.148,515.8,364.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-1" transform="matrix(-1.129,-0.1679,0.0323,0.6126,560,437.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RS03" transform="matrix(1.25,0.0742,-0.1659,1.165,550.7,369.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-0" transform="matrix(-1.129,-0.1133,0.0984,0.5837,588.8,441.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-3-3-8" transform="matrix(-1.122,0.0169,0.1888,0.6313,664.4,423.1)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-3-3" transform="matrix(-1.108,0.0486,0.238,0.596,700.1,409.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RS04" transform="matrix(1.228,0.0337,-0.1148,1.148,593.7,374)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use inkscape:transform-center-y="19.11" inkscape:transform-center-x="-17.97" height="1052" width="744.1" id="use3855-3-3-3" transform="matrix(-1.129,-0.0583,0.1311,0.6201,624.6,431.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3867-9-8" transform="matrix(1.079,0.1724,-0.0635,0.6471,678.3,335.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3857-8" transform="matrix(-1.098,0.1475,0.2501,0.6305,631.4,361.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3861-2" transform="matrix(-1.084,0.1265,0.2074,0.6407,592,369.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863-7" transform="matrix(-1.076,0.1174,0.1865,0.6548,558.7,359.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-7" transform="matrix(-1.068,0.1064,0.1659,0.6594,525.5,357)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-84-3" transform="matrix(-1.131,-0.1652,6.819e-4,0.7047,494.8,397.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3867-9" transform="matrix(0.9908,0.4372,-0.3082,0.5788,492.3,355.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3" transform="matrix(-1.088,0.1761,0.304,0.6347,663.7,353.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859-5" transform="matrix(-1.156,-0.0435,0.2341,0.4628,613.8,338.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3861-0" transform="matrix(-1.026,0.0083,0.1633,0.5047,578.3,337.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863-2" transform="matrix(-1.016,0.0117,0.1523,0.4916,546.2,341.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-86" transform="matrix(-0.9983,0.0608,0.1706,0.46,507.8,352)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-50-8-1-1" transform="matrix(1.046,0.0034,-0.2457,0.3465,652,352.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-50-8-1-1-3" transform="matrix(1.005,-0.0887,-0.1594,0.3403,680.9,354.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3863-13-7-9" transform="matrix(1.061,0.4274,-0.2519,0.1695,700.1,338.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-5" transform="matrix(0.5434,0.8964,0.2392,-0.2771,662.8,357.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3863-13-7" transform="matrix(-1.146,-0.0653,0.1433,0.2935,686.9,339.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-9" transform="matrix(0.5387,0.9166,0.2412,-0.2858,625,357)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8" transform="matrix(-1.098,-0.0554,0.1581,0.2885,648.9,336.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-1" transform="matrix(0.5419,0.9031,0.2399,-0.28,584.5,356.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-3" transform="matrix(-1.098,-0.0555,0.1582,0.2886,607.7,335.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-27" transform="matrix(0.5702,0.7822,0.2276,-0.2276,549.2,350.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-4" transform="matrix(-1.101,-0.0439,0.1548,0.3031,569.5,334.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-2" transform="matrix(0.5702,0.7822,0.2276,-0.2276,507.8,349.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-37" transform="matrix(1.09,0.2047,-0.1923,0.2736,506.3,333)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8" transform="matrix(0.5703,0.7822,0.2276,-0.2275,472.5,350.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-86-5" transform="matrix(-1.172,-0.0496,0.1765,0.4795,481.9,347.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-37-2" transform="matrix(1.09,0.2047,-0.1923,0.2736,477,339.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use4322-0-2-3-0-8" width="1" height="1" transform="matrix(-0.0549,-2.083,1.985,-0.0866,221.8,1090)" />
+        </g>
+        <g id="gWingA" transform="translate(61.68,14.61)">
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-1.198,-0.3574,0.1018,1.247,462.1,383.2)" id="RT08" width="744.1" height="1052" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-2" transform="matrix(-1.046,-0.1362,0.0334,0.6349,468.5,426.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3869-3-1-1" transform="matrix(1.144,0.221,-0.2962,0.5684,470.2,336.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RT01" transform="matrix(1.25,0.2571,-0.5852,1.158,228.8,342.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RT03" transform="matrix(1.356,0.22,-0.524,1.211,257.6,342.8)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5-3" transform="matrix(-1.128,-0.1354,0.0634,0.6384,286,441.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5-0-4" transform="matrix(-1.128,-0.1354,0.0634,0.6384,242.3,423.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RT04" transform="matrix(1.576,0.2702,-0.5271,1.2,294.7,351.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5-0-7" transform="matrix(-1.128,-0.1354,0.0634,0.6384,291.1,426.1)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="RT05" transform="matrix(1.38,0.182,-0.4707,1.193,334.3,366.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RT06" transform="matrix(1.234,0.1286,-0.4257,1.203,377.3,367.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="RT07" transform="matrix(1.43,0.1493,-0.4145,1.175,408.4,380.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-8" transform="matrix(-1.131,-0.0804,0.0947,0.6694,416.3,424.2)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-9" transform="matrix(1.033,0.231,-0.2754,0.6266,425.2,377.8)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3857-88" transform="matrix(-1.093,-0.0363,0.2035,0.5236,454.3,343.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5" transform="matrix(-1.128,-0.1355,0.0635,0.6385,372.9,425)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3857-2" transform="matrix(-1.104,-0.14,0.0883,0.7121,399.8,364.2)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5-0" transform="matrix(-1.128,-0.1354,0.0634,0.6384,331.5,437.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-5" transform="matrix(-1.087,-0.1063,0.1008,0.6929,356.1,371.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863-43" transform="matrix(-1.078,-0.073,0.122,0.683,314.6,364.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3865-1" transform="matrix(-1.072,-0.0826,0.0818,0.722,277.8,333.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3855-3-3-8-5-0-1" transform="matrix(-1.128,-0.1354,0.0634,0.6384,203.8,411.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3867-23" transform="matrix(1.018,0.3221,-0.3115,0.5868,215.9,348)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3869-3" transform="matrix(0.9714,0.416,-0.3885,0.6338,196.3,307.8)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3857" transform="matrix(-1.093,-0.1203,0.1532,0.5128,419,346.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3859" transform="matrix(-1.085,-0.1229,0.1284,0.5243,380.9,335.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3861" transform="matrix(-1.076,-0.1307,0.1083,0.5168,340.8,336.8)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863" transform="matrix(-1.15,-0.1577,0.1042,0.5128,264.6,329.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use height="1052" width="744.1" id="use3863-13-7-9-7" transform="matrix(1.054,0.6802,-0.3286,0.1505,482.2,337.3)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-5-6" transform="matrix(0.3442,1.128,0.3456,-0.2765,435.3,353.5)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3863-13-7-1" transform="matrix(-1.253,-0.2786,0.0744,0.3631,462.1,335.1)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-9-6" transform="matrix(0.3332,1.15,0.3504,-0.2863,393.5,345.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-0" transform="matrix(-1.203,-0.2587,0.0922,0.3602,420.8,325)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-1-3" transform="matrix(0.3405,1.136,0.3472,-0.2798,348.6,337.8)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-3-1" transform="matrix(-1.203,-0.2587,0.0922,0.3602,380.4,317.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-27-0" transform="matrix(0.4069,1.001,0.3184,-0.2216,311.4,324.7)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-58" transform="matrix(-1.076,-0.1307,0.1083,0.5167,303.8,333.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-4-4" transform="matrix(-1.209,-0.2458,0.0842,0.3763,345.2,311.8)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-2-3" transform="matrix(0.4069,1.001,0.3184,-0.2216,265.5,316.4)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-37-1" transform="matrix(1.178,0.5746,-0.3543,0.238,282.7,299.6)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3863-6" transform="matrix(1.068,0.4408,-0.3643,0.3865,214.7,321.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3865-3-35-6-96-8-58" transform="matrix(0.4069,1.001,0.3184,-0.2216,226,311)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-37-2-9" transform="matrix(1.003,0.6529,-0.3794,0.2004,245.2,303.1)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use height="1052" width="744.1" id="use3861-6-8-37-2-9-8" transform="matrix(1.003,0.6528,-0.3794,0.2004,213.9,295.9)" xlink:href="#gFeatherFire" y="0" x="0" style="display:inline" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use4322-0-2-3-0-8-4" width="1" height="1" transform="matrix(0.6391,-2.826,2.238,0.208,-313.2,1273)" />
+        </g>
+      </g>
+      <g id="gTail" transform="matrix(0.8993,0,0,0.8993,46.82,404.4)">
+        <use height="1" width="1" transform="matrix(-0.867,0.5148,-0.6537,-0.9388,527.3,641.2)" id="use36521-90-1-4" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(-1.079,0.2476,-0.3683,-1.201,450.2,731.8)" id="use36521-90-4-0-8-8" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.867,0.5149,0.6537,-0.9388,589.4,639)" id="use36521-90-1" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(1.079,0.2476,0.3683,-1.201,666.4,729.6)" id="use36521-90-4-0-8" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use style="display:inline" height="1052" width="744.1" id="RT01-6-3-9" transform="matrix(1.014,-0.1505,-0.1526,2.378,546.2,464.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-1.403,0.0089,0.36,1.974,584,378.9)" id="RT01-6-1-3-4" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(1.403,0.0381,-0.401,1.966,541.7,375.9)" id="RT01-6-1-3" width="744.1" height="1052" style="display:inline" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-2" transform="matrix(-0.9062,0.4212,0.5839,0.6967,564.8,312.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-1.386,0.2153,0.646,1.899,552.3,223.1)" id="RT01-6-8-4" width="744.1" height="1052" style="display:inline" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-3-1" transform="matrix(0.9366,0.3486,-0.5273,0.7405,529.3,340.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(1.394,0.1607,-0.5715,1.924,552.8,219.6)" id="RT01-6-1" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.9928,0.1854,-0.4964,1.143,545.1,300.1)" id="RT01-6" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.9525,0.3361,0.7091,1.259,529.7,251.4)" id="RT01-6-8" width="744.1" height="1052" style="display:inline" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0" transform="matrix(-0.8522,-0.522,-0.2574,0.8719,546.6,297.3)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use height="1" width="1" transform="matrix(0.2338,0.6831,0.792,-0.2087,375.7,435)" id="use36521-90-0" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.0036,0.6481,0.6668,-0.0029,413.6,353.6)" id="use36521-76-1" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(-0.1842,0.5268,0.542,0.1857,467.8,292.5)" id="use36521-7-5" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.4733,0.6355,0.7578,-0.4837,375.7,519.9)" id="use36521-90-4-1" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(-0.2421,0.6802,-0.7894,-0.2183,744.3,438)" id="use36521-90" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(-0.0115,0.648,-0.6667,-0.011,707.4,356.2)" id="use36521-76" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.1928,0.5237,-0.5389,0.1946,652.8,293.9)" id="use36521-7" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-4" transform="matrix(-0.7762,-0.6273,-0.1095,0.5791,566.3,231.6)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="RT01-6-3-3-6" transform="matrix(0.8641,0.2552,-0.3892,0.6563,563.2,205.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-3" xlink:href="#gFeatherFire" y="0" x="0" transform="matrix(-0.8946,0.4454,0.6025,0.6808,573.4,265.9)" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-4-6" transform="matrix(0.7047,-0.7066,0.1705,0.5639,536,226.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="fill:#ff2a2a;display:inline" height="1052" width="744.1" id="RT01-6-7-0-4-9-02" transform="matrix(0.6354,-0.6729,0.0595,0.6269,547.2,253)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use height="1" width="1" id="use4322-0-2-3-0-8-4-8" xlink:href="#gFlame" y="0" x="0" style="display:inline" transform="matrix(1.621,0,0,1.875,-15.62,-26.36)" />
+        <use height="1" width="1" transform="matrix(-0.481,0.6297,-0.7518,-0.4929,743.3,522.9)" id="use36521-90-4" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use style="display:inline" height="1052" width="744.1" id="RT01-6-3-3" transform="matrix(0.84,-0.0013,-0.1636,0.9417,548.6,203)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use height="1" width="1" transform="matrix(1.079,0.2476,0.3683,-1.201,666.4,736.2)" id="use36521-90-4-0" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <g style="display:inline" id="g6497" transform="translate(413.3,-169.7)">
+          <use style="display:inline" height="1052" width="744.1" id="RT01-6-8-4-6-2" transform="matrix(1.39,-2.132,-0.0768,2.111,66.62,499.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(1.638,-0.0563,-0.2804,1.483,127.4,681.8)" id="RT01-6-3-9-8" width="744.1" height="1052" style="display:inline" />
+          <use style="display:inline" height="1052" width="744.1" id="RT01-6-8-4-6" transform="matrix(-1.39,-2.132,0.0768,2.111,219.6,499.5)" xlink:href="#gFeatherFire" y="0" x="0" />
+          <use transform="matrix(-0.9875,0.2045,0.1632,1.479,168,447.7)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-9-5" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(0.9953,0.1284,-0.0965,1.325,162,484.2)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-9" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(0.9981,0.0671,-0.0612,1.095,168,475.6)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-17" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(-0.9293,0.3694,0.3694,0.9293,178.2,433)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-6" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(0.997,-0.0828,0.055,0.75,157.6,429.5)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-0" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(-0.7419,0.6706,0.4738,0.5243,162.3,399.9)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-0-2" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.6564,-0.6524,0.0396,0.6285,129.4,384.7)" id="RT01-6-7-0-4-9-02-7" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(1.192,0.2254,-0.197,1.63,123.9,483.1)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-9-5-9" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(-0.9953,0.1422,0.0965,1.468,132.8,486.1)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-9-3" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(-0.9981,0.0743,0.0612,1.213,122.1,479.6)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-8" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(0.9293,0.4092,-0.3694,1.029,106.3,442.7)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-6-1" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use transform="matrix(-0.997,-0.0917,-0.055,0.8308,126.9,434.5)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-0-0" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.7047,-0.7065,0.1705,0.5639,123.7,374.3)" id="RT01-6-7-0-4-6-3" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-1.436,0.0808,0.3188,0.9979,148.5,378.6)" id="RT01-6-3-2" width="744.1" height="1052" style="display:inline" />
+          <use transform="matrix(0.7419,0.7429,-0.4738,0.5808,122.2,401.7)" x="0" y="0" xlink:href="#gFeatherFire" id="RT01-6-7-0-3-0-2-3" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.7047,-0.7065,-0.1705,0.5639,160.8,374.3)" id="RT01-6-7-0-4-6-3-3" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.6564,-0.6524,0.0396,0.6285,133.3,382.4)" id="RT01-6-7-0-4-9-02-7-8-0" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.6564,-0.6524,-0.0396,0.6285,155.1,384.7)" id="RT01-6-7-0-4-9-02-7-8" width="744.1" height="1052" style="fill:#ff2a2a;display:inline" />
+          <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(1.341,-9.71e-4,-0.2612,0.7034,133.5,335.8)" id="RT01-6-3-3-60" width="744.1" height="1052" style="display:inline" />
+        </g>
+      </g>
+      <use inkscape:export-ydpi="150" inkscape:export-xdpi="150" inkscape:export-filename="C:\kriss\sidstuff\img\svg\wings\FinalPhoenix.png" x="0" y="0" xlink:href="#gGreatWing" id="gGreatWing02" width="744.1" height="1052" transform="matrix(-0.9997,0.0239,0.0239,0.9997,1072,-13.86)" />
+      <g transform="matrix(0.8993,0,0,0.8993,54.01,336)" id="gBody">
+        <use transform="matrix(3.962,-1.11,0.5663,6.124,-920,-257.6)" style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use4322-0-2-3-0-8-4-0" width="1" height="1" />
+        <g transform="translate(160,0)" id="g6615">
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2799,0.1173,0.316,381.3,245.6)" id="use3861-6-8-4-4-4-3-6-0-6-7" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2799,-0.1173,0.316,363.5,220.4)" id="use3861-6-8-4-4-4-3-2-4-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2607,-0.1173,0.2942,352.9,189.1)" id="use3861-6-8-4-4-4-3-2-0-7" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2799,0.1173,0.316,398.3,245.6)" id="use3861-6-8-4-4-4-3-6-0-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2799,-0.1173,0.316,380.5,220.4)" id="use3861-6-8-4-4-4-3-2-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2799,0.1173,0.316,406.7,220.5)" id="use3861-6-8-4-4-4-3-9-3-5" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2607,0.1173,0.2942,415.3,189.1)" id="use3861-6-8-4-4-4-3-6-0-8" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2607,-0.1173,0.2942,369.9,189.1)" id="use3861-6-8-4-4-4-3-2-0" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2607,0.1173,0.2942,396.1,189.1)" id="use3861-6-8-4-4-4-3-9-3-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2203,0.1173,0.2487,423.7,157.9)" id="use3861-6-8-4-4-4-3-6-0-1-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5061,0.2417,0.1312,0.1799,423.8,125.6)" id="use3861-6-8-4-4-4-3-6-0-9-9" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2203,-0.1173,0.2487,344.8,157.9)" id="use3861-6-8-4-4-4-3-6-0-1-4-9" width="744.1" height="1052" />
+          <g transform="matrix(1.245,0.2064,-0.2001,0.9633,-261,-94.15)" id="g8413-1-4" style="display:inline">
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5196,0.0955,0.1281,0.1364,522.9,206.6)" id="use3865-3-35-6-96-8-5-6-9-1-3" width="744.1" height="1052" />
+            <use transform="matrix(-0.6285,-0.456,0.1311,-0.8273,721.7,522.4)" height="1" width="1" id="use4322-0-2-3-0-8-4-1-4-1" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+            <g transform="matrix(0.8512,0.7187,-0.4372,0.8058,186,-313.4)" id="gCla">
+              <g transform="matrix(0.8578,-0.3832,0.2333,0.882,22.91,226.1)" id="g10731">
+                <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use10733" width="1" height="1" transform="matrix(-0.1838,-0.282,-0.2722,0.2136,610.5,330.4)" />
+                <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use10735" width="1" height="1" transform="matrix(0.033,-0.4681,0.4458,0.0538,424.9,419.1)" />
+                <use style="display:inline" x="0" y="0" xlink:href="#gFlame" id="use10737" width="1" height="1" transform="matrix(-0.1159,0.8735,-0.4091,0.0596,582,-46.81)" clip-path="url(#clipPathFire03)" />
+              </g>
+              <g id="gSinglePaw" transform="translate(9.775,0.6357)">
+                <use transform="matrix(-0.1838,-0.282,-0.2722,0.2136,610.5,330.4)" height="1" width="1" id="use4322-0-2-3-0-8-4-1-4-1-1" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+                <use transform="matrix(0.033,-0.4681,0.4458,0.0538,424.9,419.1)" height="1" width="1" id="use4322-0-2-3-0-8-4-1-4-1-1-8" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+                <use clip-path="url(#clipPathFire03)" transform="matrix(-0.1159,0.8735,-0.4091,0.0596,582,-46.81)" height="1" width="1" id="use5207-1-3-2-8" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+              </g>
+              <use height="744.1" width="1052" transform="matrix(-0.6888,-0.4079,-0.2812,0.8531,953.6,249.4)" id="use10739" xlink:href="#gSinglePaw" y="0" x="0" />
+              <use x="0" y="0" xlink:href="#gSinglePaw" id="use7481" transform="matrix(0.9001,0.3969,-0.2414,0.8751,115.3,-175.5)" width="1052" height="744.1" />
+              <use transform="matrix(-0.3449,0.1275,0.1527,0.2839,620.3,170.7)" height="1" width="1" id="use4322-0-2-3-0-8-4-1-4-1-9-1" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+              <use transform="matrix(-0.0579,0.6043,0.2739,0.0589,503.3,43.69)" height="1" width="1" id="use4322-0-2-3-0-8-4-1-4-1-9" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+            </g>
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5286,0.0872,-0.1351,0.1438,520,205)" id="use3865-3-35-6-96-8-9-6-4-3-0" width="744.1" height="1052" />
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.0904,0.1321,0.1423,523.5,198.1)" id="use3865-3-35-6-96-8-1-3-6-5-5" width="744.1" height="1052" />
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4591,0.1205,-0.105,0.1293,516.8,198.4)" id="use3865-3-35-6-96-8-27-0-9-7-4" width="744.1" height="1052" />
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4351,0.2143,0.1192,0.1068,525.1,186.3)" id="use3865-3-35-6-96-8-2-3-3-0-6-3-9" width="744.1" height="1052" />
+            <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4137,0.294,-0.1322,0.0801,523.3,182.1)" id="use3865-3-35-6-96-8-58-6-1-0-5-3" width="744.1" height="1052" />
+          </g>
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.2203,-0.1173,0.2487,359.3,160.2)" id="use3861-6-8-4-4-4-3-2-52" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2203,0.1173,0.2487,385.5,160.2)" id="use3861-6-8-4-4-4-3-9-3-8" width="744.1" height="1052" />
+          <use height="744.1" width="1052" transform="matrix(-1,0,0,1,762.4,-6.672)" id="use11757" xlink:href="#g8413-1-4" y="0" x="0" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.2203,0.1173,0.2487,404.6,160.2)" id="use3861-6-8-4-4-4-3-6-0-1" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.1736,0.1173,0.1958,396.1,142.7)" id="use3861-6-8-4-4-4-3-9-3-7" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.1736,-0.1173,0.1958,369.9,142.6)" id="use3861-6-8-4-4-4-3-2-2" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5061,0.2417,-0.1312,0.1799,344.7,135.6)" id="use3861-6-8-4-4-4-3-6-0-9-9-8" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.1736,-0.1173,0.1958,350.8,140.4)" id="use3861-6-8-4-4-4-3-2-2-5" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.1736,0.1173,0.1958,415.3,142.7)" id="use3861-6-8-4-4-4-3-6-0-9" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5187,0.1587,-0.1096,0.179,345.9,121.9)" id="use3861-6-8-4-4-4-3-6-0-2-4-7" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5551,0.1587,-0.1173,0.179,361.3,117.9)" id="use3861-6-8-4-4-4-3-2-5" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.1587,0.1173,0.179,385.5,117.9)" id="use3861-6-8-4-4-4-3-9-3-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5551,0.1587,0.1173,0.179,404.6,117.9)" id="use3861-6-8-4-4-4-3-6-0-2" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4206,0.1877,-0.1339,0.1033,345.7,122.6)" id="use3861-6-8-4-4-4-3-2-6-2-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5221,0.1118,-0.1103,0.1261,350.8,108.7)" id="use3861-6-8-4-4-4-3-2" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.1118,0.1103,0.1261,375.4,108.7)" id="use3861-6-8-4-4-4-3-9-3" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.1118,0.1103,0.1261,393.4,108.7)" id="use3861-6-8-4-4-4-3-6-0" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5187,0.1587,0.1096,0.179,422.7,117.9)" id="use3861-6-8-4-4-4-3-6-0-2-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4206,0.2181,0.1339,0.12,419,100.5)" id="use3861-6-8-4-4-4-3-2-6-2-6-4" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.1118,0.1103,0.1261,413.4,108.7)" id="use3861-6-8-4-4-4-3-2-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.3971,0.1698,-0.1345,0.0779,349.4,99.22)" id="use3861-6-8-4-4-9-5" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5221,0.1114,-0.1103,0.1256,362.8,94.63)" id="use3861-6-8-4-4-4-3" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4432,0.2122,-0.1501,0.0974,348.8,100.7)" id="use3861-6-8-4-4-9-5-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.1114,0.1103,0.1256,387.4,94.76)" id="use3861-6-8-4-4-4-3-9" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4432,0.2122,0.1501,0.0974,411.9,90.62)" id="use3861-6-8-4-4-9-5-6-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5221,0.1412,0.1103,0.1592,407.4,84.39)" id="use3861-6-8-4-4-4-3-6" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.3054,0.313,0.1702,0.0918,400.1,70.51)" id="use3861-6-8-4-4-3" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.2954,0.3629,-0.1634,0.0617,361.2,78.17)" id="use3861-6-8-4-4-9" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4237,0.1937,-0.1198,0.1282,358.3,79.67)" id="use3861-6-8-4-4-7" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.5273,0.1212,0.1159,0.1462,398.7,78.5)" id="use3861-6-8-4-4-2" width="744.1" height="1052" />
+          <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4594,0.072,-0.0816,0.1559,371.8,79.92)" id="use3861-6-8-4-4-4" width="744.1" height="1052" />
+        </g>
+      </g>
+      <g id="gHead" transform="matrix(0.8993,0,0,0.8993,52.22,274.7)">
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4036,0.0372,0.0607,0.1616,531.1,138.2)" id="use3861-6-8-4-4-4-8-5" width="744.1" height="1052" />
+        <use style="display:inline" height="1052" width="744.1" id="use3865-38-9-8" transform="matrix(-0.4067,-0.0902,-0.0201,0.1735,531.4,130.7)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3859-79-0-2-5" transform="matrix(-0.3178,0.1879,0.1562,0.151,558,110.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.419,0.2016,0.1231,0.1257,556.9,121.7)" id="use3861-6-8-4-4-4-0-2" width="744.1" height="1052" />
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4534,0.103,0.092,0.15,545.1,131.2)" id="use3861-6-8-4-4-4-7-4" width="744.1" height="1052" />
+        <use style="display:inline" height="1052" width="744.1" id="use3865-38-9" transform="matrix(-0.4166,-0.0059,0.0155,0.1739,532.8,106.4)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.3889,0.2549,0.1385,0.1084,556.1,99.99)" id="use3861-6-8-4-4-4-0" width="744.1" height="1052" />
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(-0.4594,0.072,0.0816,0.1559,554,107.9)" id="use3861-6-8-4-4-4-7" width="744.1" height="1052" />
+        <use style="display:inline" x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4428,0.142,-0.1047,0.1414,531.3,115.5)" id="use3861-6-8-4-4-4-8" width="744.1" height="1052" />
+        <use height="1" width="1" transform="matrix(0.2158,-0.2143,0.2143,0.2158,493.9,47.49)" id="use36521-9" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use style="display:inline" height="1052" width="744.1" id="use3859-79-0" transform="matrix(-0.3531,0.1084,0.1166,0.1834,549.8,88.23)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3859-79-0-2" transform="matrix(-0.3342,0.1572,0.1413,0.165,553.9,80.9)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3865-89-0-1-9-8" transform="matrix(0.4135,0.3052,-0.1175,0.1774,529.4,89.83)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3865-89-0-1-9" transform="matrix(0.4009,0.2586,-0.0942,0.1747,540.4,89.91)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3855-50-8-4-7-2" transform="matrix(0.3177,0.318,-0.0997,0.0997,538.2,81.17)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3855-50-8-4-7-8" transform="matrix(-0.165,0.3936,0.1241,0.0316,544.2,71.07)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3855-50-8-4-7" transform="matrix(-0.3099,0.2939,0.1008,0.0789,545.2,77.09)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3855-50-8-4-7-84" transform="matrix(-0.4438,0.1428,0.097,0.0656,543.2,81.83)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3865-38" transform="matrix(-0.4069,0.0655,0.0547,0.1215,530.2,85.54)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3855-50-8-4-7-84-3" transform="matrix(-0.4438,0.1428,0.097,0.0656,530,81.85)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.1824,0.5036,0.095,-0.0808,529.4,71.59)" id="use3855-50-8-4-7-7-9-79" width="744.1" height="1052" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.3441,-0.1098,0.1068,0.3539,516.5,32.66)" id="use36521" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use height="1" width="1" transform="matrix(0.5004,0.0848,-0.082,0.5177,539.7,19.66)" id="use36521-1" xlink:href="#gCrest" y="0" x="0" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.162,0.2724,0.1314,-0.0883,507.8,70.7)" id="use3855-50-8-4-7-7-9-7" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.3567,-0.3693,0.071,0.0979,518.9,86.01)" id="use3855-50-8-4-7-7-7" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.5152,0.3749,0.0596,-0.1396,505.5,78.46)" id="use3855-50-8-4-7-7-7-6" width="744.1" height="1052" style="display:inline" />
+        <path style="fill:#ff3300;fill-opacity:1;stroke:none;display:inline" d="m 516.6,78 c 5.8,-3.1 10.2,-6.1 14.3,-6.1 -1.1,3.8 -1.8,8.7 -5.9,9.8 -3.3,0.9 -5.3,-1.2 -8.4,-3.7 z" id="path4685" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.4028,0.176,0.0052,-0.1161,508.7,77.3)" id="use3855-50-8-4-7-7-9-2" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.3556,0.0061,-0.0655,-0.0725,508.1,81.78)" id="use3855-50-8-4-7-7-9-2-9" width="744.1" height="1052" style="display:inline" />
+        <use x="0" y="0" xlink:href="#gFeatherFire" transform="matrix(0.2722,-0.2187,-0.1028,-0.0309,516.9,93.9)" id="use3855-50-8-4-7-7-9-2-9-1" width="744.1" height="1052" style="display:inline" />
+        <use style="display:inline" height="1052" width="744.1" id="use3857-9-9-0-7-8-7" transform="matrix(0.2637,-0.3721,0.0716,0.1276,507,86.1)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <use style="display:inline" height="1052" width="744.1" id="use3857-9-9-0-7-8" transform="matrix(0.2907,-0.1063,-2.816e-5,0.0949,506.7,83.38)" xlink:href="#gFeatherFire" y="0" x="0" />
+        <g id="g3283" transform="matrix(0.5128,0.4489,-0.6085,0.9017,300.5,-222.7)">
+          <use clip-path="url(#clipPathFire00)" transform="matrix(-0.5511,-1.985,1.093,-0.4931,540.9,845.7)" height="1" width="1" id="use5207-1-3-5" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+          <path sodipodi:nodetypes="cccccc" inkscape:connector-curvature="0" id="path3961-1" d="m 514.5,82.5 c -3.7,8.2 -4.9,11.3 -7.7,13.4 -2.6,2.2 -6.2,4.1 -6.2,4.1 0,0 5.7,-6.8 6.6,-10.3 0.7,-3 0.5,-3.6 0.5,-5.7 1.7,-1 5.2,-1.8 6.8,-1.5 z" style="fill:#ff4400;fill-opacity:1;stroke:none;display:inline" />
+        </g>
+        <use clip-path="url(#clipPathFire01)" transform="matrix(0.5389,1.101,-0.6242,0.2528,402.4,-332.9)" height="1" width="1" id="use5207-1-3-2" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+        <use clip-path="url(#clipPathFire02)" transform="matrix(-0.2909,-0.2425,0.2801,-0.1988,589.2,189.1)" height="1" width="1" id="use5207-1-3-9" xlink:href="#gFlame" y="0" x="0" style="display:inline" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+author: Calinou
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/lightning-animation

@@ -1,0 +1,5 @@
+Author: pudman
+License: Public Domain (CC0)
+Source: http://opengameart.org/content/arkanoid-assets
+
+An asset pack for an Arkanoid (Breakout) game I made for a programmer. It was just for fun so I thought if anyone else wants to use it they can. The animations are in gif format and in sheets, 160x154 for the brick explosion and 110x64 for the ball out.

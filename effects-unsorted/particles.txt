@@ -1,0 +1,13 @@
+author: hc (hackcraft.de)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/particle-effects
+
+An ancient collection of 40 pixel-art'ish particle effects. You can use it most probably for:
+
+rpg magic
+slot machine
+mini- and casual-games
+icons
+Then again they may do well for 3d particle effects. If you have suggestions or use them: Please leave a comment/link.
+
+Donation by hackcraft.de

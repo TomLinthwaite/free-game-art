@@ -1,0 +1,6 @@
+author: Reid Yaro 'Reid'
+license: Public Domain (CC0)
+source: http://opengameart.org/content/frozen-bubble-like-set
+
+
+Last year I worked on a little game project to train my skill with GTK+ (https://gitorious.org/elemental-bubble/), I've done this set a bit rapidly so sorry for the quality of the work... ^^
