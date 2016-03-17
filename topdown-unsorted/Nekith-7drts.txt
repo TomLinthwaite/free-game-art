@@ -1,0 +1,11 @@
+Author: Nekith (http://opengameart.org/users/nekith)
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/ground
+        http://opengameart.org/content/futuristic-used-forts
+        http://opengameart.org/content/flags-0
+
+Quick stuff for my Mini Ludum Dare #44 (7dRTS) entry.
+
+The last bits are lights to "animate" forts if they are building/active.
+
+It's free and all that, so you can use it. You don't even have to tell me.

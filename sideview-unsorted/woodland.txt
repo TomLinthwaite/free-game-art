@@ -1,0 +1,4 @@
+Author: Felipe Alves Muniz 'felipejoys'
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/woodland-platformer-tileset
+        http://opengameart.org/content/purple-cave-platformer-tileset

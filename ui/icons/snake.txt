@@ -1,0 +1,3 @@
+author: Paulius Jurgelevicius
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/icons-and-logos

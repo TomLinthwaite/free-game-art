@@ -1,0 +1,9 @@
+Author: Nekith (http://opengameart.org/users/nekith)
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/platformer-rock-blocks
+
+Quick stuff for Game in Ten Days #31 on Kongregate Forums *http://www.kongregate.com/forums/4-game-programming/topics/330143(.
+
+There a two 32x32 blocks to offer some diversity when displayed in line.
+
+It's free and all that, so you can use it. You don't even have to tell me.

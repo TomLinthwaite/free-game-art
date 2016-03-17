@@ -1,0 +1,10 @@
+author: yolkati (http://yolcati.deviantart.com/)
+license: CC-BY-SA, GPL 3.0, GPL 2.0
+source: http://opengameart.org/content/green-cristal
+
+A green floating magical cristal.
+
+EDIT: Added sheet of frames.
+
+Attribution Instructions: 
+Include a link to this page or to http://yolcati.deviantart.com/

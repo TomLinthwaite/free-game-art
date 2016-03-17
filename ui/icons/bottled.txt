@@ -1,0 +1,16 @@
+author: yolkati (http://yolcati.deviantart.com/)
+license: CC-BY-SA, GPL 3.0, GPL 2.0
+source: http://opengameart.org/content/bottles
+
+I sayd I'd do more, but it will be right now.
+
+ 
+
+The first object in the sprite is bottle's top, the second is the bottle's bottom.
+
+To use it you shall put the bottom, the object (the fairy, the demon or the eye) and the top. dusts and liquids doesn´t use the bottom.
+
+ 
+
+Attribution Instructions: 
+Include a link to this page or to http://yolcati.deviantart.com/

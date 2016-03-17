@@ -1,0 +1,8 @@
+Author: Joe Williamson (http://joecreates.co.uk)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/roguelikerpg-items
+
+A set of 16x16 items for roguelike and rpg games.
+
+Copyright/Attribution Notice: 
+If possible, please link to my twitter (@JoeCreates) when giving credit. Thanks!
