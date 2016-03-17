@@ -1,2 +1,3 @@
-author: David Bordeleau (http://deadalus.cgsociety.org/about/)
-source: http://opengameart.org/content/military-base-and-isometric-building-concept-art
+Author: David Bordeleau (http://deadalus.cgsociety.org/about/)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/military-base-and-isometric-building-concept-art
