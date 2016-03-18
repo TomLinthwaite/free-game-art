@@ -1,0 +1,84 @@
+
+
+                      Adonthell v0.3 - Waste's Edge
+
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    COPYING file for more details.
+
+
+
+Installation:
+=============
+
+See the INSTALL file for details.
+
+Note that this package is designed to run along with the adonthell
+game engine version 0.3.x. Therefore, you need it installed or you'll
+be stuck at configure time. If you don't have it, download it from
+http://adonthell.linuxgames.com/download/.
+
+
+Running Adonthell - Waste's Edge:
+=================================
+
+If the installation process is successfull, you're ready to play.
+You can play by invoking 'adonthell wastesedge' but there is a little
+shell script named 'adonthell-wastesedge' that will do the work for 
+you. See the PLAYING file for more detailed instructions.
+
+
+Release Notes:
+==============
+
+The main purpose of this release is to attract new programmers, 
+artists and writers in order to shorten the time until the next 
+version.  So if you have experience in C++ (and optionally Python), 
+or if you are good at computer graphics or writing we would like to
+hear from you.  Please have a look at our development site 
+  
+  http://adonthell.linuxgames.com/development/join.shtml
+
+for further details.
+
+Adonthell - Waste's Edge -, or v0.3 for short is no complete RPG.
+As the v0.3 implies, the engine is far from being finished, although
+it should be free of severe bugs.  Missing features include combat, 
+items and magic.  But you can interact with NPC's and the game world, 
+and the internals enable us to create a basic plot, so v0.3 is actually
+playable!
+
+You're greatly invited to report us bugs, problems, or anything you
+think we should know. Any feedback is appreciated, so don't hesitate!
+
+
+Contact:
+========
+
+You can reach us in various ways:
+
+Email:         adonthell-project@linuxgames.com
+Message Board: http://www.3dforums.com/?action=forumpage&loc=49&forum_id=158
+Mailing list:  adonthell-general@nongnu.org
+Web site:      http://adonthell.linuxgames.com
+
+
+Reporting Bugs:
+===============
+
+We hope you'll never have to, but if you discover a problem, we
+would like to hear about it. Please use the Development mailing list
+(adonthell-devel@nongnu.org) for that. 
+
+You can subscribe to the mailing lists at
+    http://adonthell.linuxgames.com/contact/mailinglist.shtml
+
+
+Thank you for trying this software.
+- The Adonthell team.
