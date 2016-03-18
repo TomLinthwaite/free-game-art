@@ -3,6 +3,7 @@ license: GPL2
 origin: https://github.com/ksterker/wastesedge
         http://adonthell.nongnu.org/
         https://sourceforge.net/projects/adonthell/
+        http://savannah.nongnu.org/projects/adonthell/
 
 following script was used for dumping graphics
 

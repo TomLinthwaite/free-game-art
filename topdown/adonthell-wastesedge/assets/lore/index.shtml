@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Adonthell Library</TITLE>
+<meta content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<meta http-equiv="Script-Content-Type" content="text/javascript">
+<link rel="stylesheet" type="text/css" href="../website-data/adonthell.css">
+</head>
+<body text="#293044" link="#000000" vlink="#000000">
+
+<!--#include virtual="/website-data/navbar.shtml" -->
+
+    <table class="maintext" border=0 cellpadding=15 cellspacing="0" width="559">
+      <tbody>
+        <tr>
+          <td><!--text begins here-->
+
+<table border=0 cellpadding=0 cellspacing="0" width="100%">
+<tr><td class="bmid">About the Library</td></tr></table>
+
+<p>As we go about designing the world Adonthell will be set in,
+important events and individuals of both long gone and more recent times come
+into being. Together with the more abstract concepts of the world, such as
+geographic, cultural or political aspects, these will be presented here in the
+form of essays, short stories and legends. The idea behind is to give the world
+that extra bit of texture, that comes with the detailed background collected
+here. None of the information given will be required to play the actual game,
+nor will it contain spoilers. However, it might explain why certain characters
+behave in a certain way and, in some cases, it could also help to understand
+what the hell they are talking about. But mainly it's for you to enjoy (and for
+our designers to get things right).</p>
+
+<table border=0 cellpadding=0 cellspacing="0" width="100%">
+<tr><td class="bmid">Contents</td></tr></table>
+
+<p>
+<ul>
+  <li><span class="blk"><a href="adonthell.shtml">Prologue</a> - by Kai Sterker, <i>illustrated by Isa</i></span><br>
+  An overview of the events that precede -- and culminate into -- the actual game.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="races.shtml">Regarding races of the Adonthell world</a> - by Nezumi, <i>illustrated by Isa</i></span><br>
+  An introduction to the different &quot;intelligent&quot; races native to Adonthell, describing their appearance, lifestyle and aspects of their society.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="humanorigins.shtml">The Origins of the World and Her Races According to Men</a> - by Andrew Phillips</span><br>
+  How the Mighty Ones created the world and its inhabitants.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="marring.shtml">The Marring of the World, as told by Men</a> - by Andrew Phillips</span><br>
+  How Prince Dark tries to destroy the Mighty Ones' creation.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="dwfor.shtml">On the Origins of the Dwarves</a> - by Andrew Phillips</span><br>
+  The Dwarven creation myth.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="alenvar.shtml">Of Alenvar - an excerpt of the Miloran Cycle</a> - by Kai Sterker</span><br>
+  An excerpt of an old Elven legend, dealing with the life of Alenvar, the great and yet controversial hero.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="uzdunkal.shtml">The Formation of Clan Gemcraft</a>  - by Andrew Phillips</span><br>
+  An article for everyone interested in dwarven history, genealogy and geography.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="erinsford.shtml">Regarding the Magick Riot of Erinsford</a> - by Andrew Phillips</span><br>
+  The history of Erinsford, a human settlement in the southern wildlands, recorded by Cirades Rymon.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="fountainfalling.shtml">Fountain Falling</a> - by Andrew Phillips</span><br>
+  A lament for the Green and Red Sisters who died in the Magick Riots.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="wastesedge.shtml">Of Waste's Edge</a> - by Kai Sterker</span><br>
+  A treatise on the small settlement the v0.3 demo is named after and takes place at.<br>&nbsp;</li>
+
+  <li><span class="blk"><a href="dragonandfang.shtml">Dragon and Fang</a> - by Andrew Phillips</span><br>
+  An excerpt from the diary of Andare, a ranger in the Waste's Edge region.<br>&nbsp;</li>
+</ul> </p>
+
+<p>
+You'll find a compilation of above writings for offline reading in the 
+<a href="../download/index.shtml">download</a> section.
+</p>
+
+<!--#include virtual="/website-data/copyright.shtml" -->
+
+<!--and ends here-->
+</td></tr></tbody></table>
+
+<!--#include virtual="/website-data/footer.shtml" -->
+
+</body></html>
+

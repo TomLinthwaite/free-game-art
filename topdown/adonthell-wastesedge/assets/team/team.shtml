@@ -1,0 +1,321 @@
+<!DOCTYPE HTML PUBliC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Adonthell Development: The Team</title>
+<meta content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<meta http-equiv="Script-Content-Type" content="text/javascript">
+<link rel="stylesheet" type="text/css" href="../website-data/adonthell.css">
+<body text="#293044" link="#000000" vlink="#000000">
+
+<!--#include virtual="/website-data/navbar.shtml" -->
+
+    <table class="maintext" border=0 cellpadding=15 cellspacing="0" width="559">
+      <tbody>
+        <tr>
+          <td><!--text begins here-->
+
+<p>Here you will find some informations about the people currnetly working on
+this project (in alphabetical order).</p>
+
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid">Gallery</td></tr></table>
+
+<table border="0" cellpadding="0" cellspacing="8" width="100%">
+  <tr>
+    <td rowspan="2">
+      <img src="alex.jpg" width="125" height="150" alt="[Alex]"></td>
+    <td colspan="2" height="75">
+      <a href="#alex">Alexandre Courbot</a><br>
+      Programmer</td>
+  </tr>
+  
+  <tr>
+    <td align="right">
+      <a href="#andrew">Andrew Phillips</a><br>
+      Writer</td>
+    <td rowspan="2"><img src="none.png" width="125" height="150" alt="[]"></td>
+  </tr>
+    
+  <tr>
+    <td rowspan="2">
+      <img src="ben.jpg" width="125" height="150" alt="[Ben]"></td>
+    <td height="75">
+      <a href="#ben">Benjamin Walther-Franks</a><br>
+      Graphic Artist</td>
+  </tr>
+  
+  <tr>
+    <td align="right">
+      <a href="#cirrus">James Nash</a><br>
+      Graphic Artist</td>
+    <td rowspan="2">
+      <img src="james.jpg" width="125" height="150" alt="[James]"></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">
+      <img src="joel.jpg" width="125" height="150" alt="[Joel]"></td>
+    <td height="75">
+      <a href="#joel">Joel Vennin</a><br>
+      Programmer</td>
+  </tr>
+  
+  <tr>
+    <td align="right">
+      <a href="#jt">Joseph Toscano</a><br>
+      Musician</td>
+    <td rowspan="2">
+      <img src="jt.jpg" width="125" height="150" alt="[JT]"></td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">
+      <img src="none.png" width="125" height="150" alt="[]"></td>
+    <td height="75">
+      <a href="#josh">Josh Glover</a><br>
+      Writer</td>
+  </tr>
+  
+  <tr>
+    <td align="right">
+      <a href="#kai">Kai Sterker</a><br>
+      Programmer</td>
+    <td rowspan="2">
+      <img src="kai.jpg" width="125" height="150" alt="[Kai]"></td>
+  </tr>
+   
+  <tr>
+    <td rowspan="2">
+      <img src="none.png" width="125" height="150" alt="[]"></td>
+    <td height="75">
+      <a href="#nezumi">Mike Nieforth</a><br>
+      Writer</td>
+  </tr>
+
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+</table>
+
+<br>
+
+<!-- Alex -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="alex">Alexandre Courbot (gnurou)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Studies computer science at Lille university, France.</li>
+  
+<li><b>Personal note:</b> Started the Genescroll project before joining Kai's Adonthell project as programmer. Working on the map engine.</li>
+
+  <li><b>Vision of the future:</b>
+  <ul type="circle">
+    <li>More developers join Adonthell, making it the best RPG ever</li>
+    <li>During the same time, Free Software becomes more and more present in the
+computing and games industry</li>
+    <li>Finally, everybody can have software for free that runs on cheap
+machines</li>
+    <li>Penguins take over the world</li>
+  </ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Alexandre+Courbot">diary</a>, <a href="http://www.gnurou.org">website</a>
+</ul>
+
+<!-- Andrew -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="andrew">Andrew Phillips</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Computer Science Major, Hardin-Simmons University, Abilene, Texas, USA.</li>
+
+  <li><b>Personal note:</b> I found Adonthell while looking for open-source/free software role-playing games. I stuck with it because of those that I found, few impressed me. Adonthell is on the short list of worthwhile free software CRPGs.</li>
+
+  <li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>I fill Adonthell with good writing and good stories</li>
+  <li>Adonthell succeeds in all respects: art, engine, story</li>
+  <li>CRPGers have the chance to play a good game without having to think 
+about whether buying games will support the loss of their rights</li>
+  <li>Adonthell has competition, forcing us to get better and giving gamers 
+even  more options</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Andrew+Phillips">diary</a>, <a href="http://endor.hsutx.edu/~cptlogic/">website</a>
+  </li>
+</ul>
+
+<!-- Ben -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="ben">Benjamin Walther-Franks</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Studies Digital Media at the University and
+Art School in Bremen, Germany</li>
+
+  <li><b>Personal note:</b> Got to know Adonthell through James and have been fascinated by it ever since. Did (nearly) all the character animation for version 0.3, and will probably be stuck with the job for the future ...<br>
+Doing some other graphics too, including the website layout.</li>
+
+  <li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>More people do graphix for Adonthell --> less work for me</li>
+  <li>I actually get to do some programming for Adonthell, once I learn how to.
+--> probably more work for the others ...</li>
+  <li>A lot more people join Adonthell, and we actually get stuff done -->
+:)</li>
+  <li>We finish the complete Adonthell game, and it´s the best game
+ever made --> possibility rating: 100% and rising</li>
+  <li>Peace and freedom reign the world, and they lived happily ever after -->
+uh ... I wake up from dreaming.</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=big_ben">diary</a></li>
+</ul>
+
+<!-- Cirrus -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="cirrus">James Nash (cirrus)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Main Graphics geezer on the Adonthell project, studies computer science at Warwick university, UK.</li>
+  
+  
+  <li><b>Personal note:</b> Got involved with Alex's Genescroll doing graphics, came to Adonthell through the Genescroll/Adonthell merge, never looked back :)</li>
+
+  <li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>The world of Adonthell inspires new quests, books, pictures, comics,
+fanclubs ...</li>
+  <li>Adonthell gets a multiplayer version, there is an online world
+inhabited by clever NPCs and real players - a huge new community is
+born!</li>
+  <li>Millions of windope users migrate to Linux (or other *nixes) to play
+Adonthell, M$ goes broke!</li>
+  <li>The Adonthell Team gets world famous and rich beyond their wildest
+dreams thanks to sponsors, donations and merchandise (the game stays free!)</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=cirrus">diary</a>, <a href="http://event-horizon.kicks-ass.net/">website</a></li>
+</ul>
+
+<!-- Joel -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="joel">Joel Vennin (jol)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Studies Computer Science at Valenciennes university, France</li>
+
+  <li><b>Personal note:</b> During my studies, I've meet Alexandre, who &quot;suggested&quot; that I joined the Adonthell project. So I'm working on the GUI system.</li>
+
+  <li><b>Vision of the Future:</b>
+<ul type="circle">
+  <li>More developpers join the project, allowing us to release more often
+and to add incredible new features</li>
+  <li>Hopefully, Adonthell will become the reference for free RPG's</li>
+  <li>Free men choose Free Software</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Joel+Vennin">diary</a></li>
+</ul>
+
+<!-- JT -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="jt">Joseph Toscano (JT)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Freelance videogame music composer.</li>
+
+  <li><b>Personal note:</b> I was browsing Freshmeat for an RPG to write music for, and the very first item on the game list was Adonthell. The rest, of course is history.</li>
+
+  <li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>Adonthell will hopefully be hailed for having rather good music. If so,
+then I'll know my job was well done. &gt;D</li>
+  <li>Adonthell will become an immensly popular tribute to Linux and how
+high-quality games can be made on platforms other than WINDOW~1.</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Joseph+Toscano">diary</a>, <a href="http://www.zhaymusic.com">website</a></li>
+</ul>
+
+<!-- Josh -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="josh">Josh Glover</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Studies Computer Science at The College of William and Mary in Virginia, USA.</li>
+  
+  <li><b>Personal note:</b> Got involved with Adonthell when searching for an RPG engine to base my own RPG project on. Decided to hang that project up for a year or so to work on Adonthell.</li>
+
+  <li><b>Vision of the Future:</b>
+<ul type="circle">
+  <li>Adonthell is made into a great RPG with the help of
+gamers, coders, graphic designers, and musicians across the
+globe.</li>
+  <li>An Adonthell Japanese translation is begun and kept up
+with the main plotline.</li>
+  <li>I learn more from my fellow team members.</li>
+  <li>&lt;STANDARD CliCHE&gt; World domination! &lt;/STANDARD
+ CliCHE&gt;</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Josh+Glover">diary</a>, <a href="http://www.jmglov.net/">website</a></li>
+</ul>
+
+<!-- Kai -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="kai">Kai Sterker (kaiman)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Studies computer science at W&uuml;rzburg University,
+Germany</li>
+
+  <li><b>Personal note:</b> Founded the Adonthell project because back then there were no good commercial RPG's available. Today there are plenty, but I'm too involved with Adonthell to find much time to play them ;).</li>
+  
+  <li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>Adonthell has become the new standard for computer role playing
+games and is absolutly free</li>
+  <li>After publication of the tools used for creating Adonthell, more
+astonishing, free role playing games emerge</li>
+  <li>Thus encouraged, similar projects for other software are
+established</li>
+  <li>The need for commercial software no longer exists, since everything
+is available for free</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=Kai+Sterker">diary</a></li>
+</ul>
+
+<!-- Nezumi -->
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr><td class="bmid"><a name="nezumi">Mike Nieforth (nezumi)</a></td></tr></table>
+
+<ul>
+  <li><b>Background:</b> Legal assistant in Halifax, Nova Scotia, Canada</li>
+
+  <li><b>Personal note:</b> Having seen Adonthell mentioned at the Linux Game Tome, was so impressed with what Kai and the others are trying to do that I was inspired to help with plot and characters.</li>
+
+<li><b>Vision of the future:</b>
+<ul type="circle">
+  <li>Adonthell will become known as a truly good game, one which other
+ games will have to live up to</li>
+  <li>Adonthell gets Slashdotted</li>
+  <li>Adonthell surpasses Final Fantasy in popularity</li>
+  <li>The Adonthell Team goes down in history as the greats of the game
+ world</li>
+  <li>Everyone becomes rich and famous, but nobody has to sell out</li>
+</ul></li>
+
+  <li><b>Links:</b> <a href="/development/diary.shtml?developer=nezumi">diary</a>, <a href="http://www.kekkai.org/nezumi/">website</a></li>
+</ul>
+
+<div align="center"><a href="index.shtml">Back to Development</a></div>
+
+<!--#include virtual="/website-data/copyright.shtml" -->
+
+<!--and ends here-->
+</td></tr></tbody></table>
+
+<!--#include virtual="/website-data/footer.shtml" -->
+
+</body></html>
+
+
