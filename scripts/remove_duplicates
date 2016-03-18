@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#cant use md5 because bash doesnt support associative arrays
+for file in **; do
+  [[ -f "$file" ]] || continue
+
+  cksm="0x$(crc32 "$file")"
+  if ((arr["$cksm"]++)); then
+    echo "rm $file"
+  fi
+done
