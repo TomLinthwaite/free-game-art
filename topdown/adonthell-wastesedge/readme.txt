@@ -5,6 +5,12 @@ origin: https://github.com/ksterker/wastesedge
         https://sourceforge.net/projects/adonthell/
         http://savannah.nongnu.org/projects/adonthell/
 
+
+"There's a script in v0.4 that can extract the graphics and
+save them as PNGs (test/convert_graphics.py). However, I think it does
+not yet recognize the character format." --Kai Sterker (http://adonthell-artwork.nongnu.narkive.com/Lc1goUzu/jelom-rasgar-sprite-test)
+
+
 following script was used for dumping graphics
 
 //first folder should be processed with following commands
