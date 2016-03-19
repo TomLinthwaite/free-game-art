@@ -2,6 +2,8 @@ Open source community, being socialist-minded, is known to react dismissively at
 
 - Wesnoth: wanderer.ogg is a variation on Betrayal at Krondor main theme
 
+- Pingus: data/images/special/pacman -- graphics from Namco's game
+
 - Fish Fillets: soundtrack from X-Files (TV series). Graphics and sounds from Warcraft 2.
 
 - Stendhal: steals sounds from warcraft 2 (arrow-1.ogg) and half of its graphics come from enterbrain's RPGMaker (for example, sandy_rocks.png, oak_tree.png, maple_tree.png, locust_tree.png, pine_tree.png, snow_on_pine.png, ship.png, object/ship.png, tan_tent.png). Also pacman.png
