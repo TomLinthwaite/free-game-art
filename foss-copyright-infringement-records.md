@@ -6,7 +6,7 @@ Open source community, being socialist-minded, is known to react dismissively at
 
 - Stendhal: steals sounds from warcraft 2 (arrow-1.ogg) and half of its graphics come from enterbrain's RPGMaker (for example, sandy_rocks.png, oak_tree.png, maple_tree.png, locust_tree.png, pine_tree.png, snow_on_pine.png, ship.png, object/ship.png, tan_tent.png). Also pacman.png
 
-- Crossfire known to infringe on sprites from Starcraft (archon sprite) and Dark Legions (demon, greater demon, likely found at http://www.galaraf.net/ANIGIFS/demons/index.htm) and Final Fantasy VI (giant worm - http://crossfire.real-time.com/spoiler/monsters/monsters_e_to_h.html). Rat comes from some non-free source too (i.e. http://www.animatedimages.org/img-animated-rat-image-0011-111229.htm)
+- Crossfire is known to infringe on sprites from Starcraft (archon sprite) and Dark Legions (demon, greater demon, likely found at http://www.galaraf.net/ANIGIFS/demons/index.htm) and Final Fantasy VI (giant worm - http://crossfire.real-time.com/spoiler/monsters/monsters_e_to_h.html). Bear comes from (http://www.galaraf.net/ANIGIFS/bears/index.htm) and rat (http://www.animatedimages.org/img-animated-rat-image-0011-111229.htm) come from some non-free sources too.
 
 - Daimonin: used beholder and a few other sprites from SSI Gold Box games
 
