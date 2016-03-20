@@ -1,0 +1,4 @@
+Author: Daniel Heck and Contributors
+License: GPL2
+Origin: https://sourceforge.net/projects/enigma-game/
+        http://www.nongnu.org/enigma/

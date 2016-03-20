@@ -1,0 +1,6 @@
+Author: S.C.O.U.R.G.E. Developers
+License: GPL2
+Origin: https://sourceforge.net/projects/scourge/
+        http://scourge.sourceforge.net/main.html
+
+S.C.O.U.R.G.E. is a cross platform, open source rogue-like game in the fine tradition of NetHack and Moria. It sports a graphical front-end, similar to glHack or the Falcon's eye. The design of the 3D UI is an attempt at the best of both worlds from old to new: It lets you rotate the view, zoom in/out, view special effects, etc with the feeling of the old-school isometric games like Exult or Woodward.

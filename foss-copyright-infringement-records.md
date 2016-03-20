@@ -14,4 +14,6 @@ Open source community, being socialist-minded, is known to react dismissively at
 
 - Egoboo: Most of Egoboo's sound samples are stolen I.e. from Baldur's Gate (https://raw.githubusercontent.com/egoboo/egoboo-assets/master/basicdat/stealth.ogg), from the soundtrack to Indiana Jones movie (https://github.com/egoboo/egoboo-assets/blob/master/modules/archaeologist.mod/objects/bouldertrap.obj/sound2.wav). A lot of others Egoboo sounds appear to be coming from Sound Ideas.
 
+S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of movies (i.e. Alien, Blade, etc..) and games like Id Software's Doom 
+
 - Runesword 2: later releases infringe on graphics from Age of empires and Majesty
