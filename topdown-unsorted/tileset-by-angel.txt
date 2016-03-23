@@ -1,0 +1,3 @@
+author: Miguel Angel Bolanos Flores 'Angel'
+license: OGA-BY
+source: http://opengameart.org/content/interior-tilesets-and-some-other-stuff

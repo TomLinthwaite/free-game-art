@@ -3,6 +3,7 @@ License: CC-BY-SA 4.0
 Origin: http://limbusdev.org/fwm-assets.html
         http://opengameart.org/content/16x16-tileset-and-monsters-from-the-friendswithmonsters-project
         http://opengameart.org/content/37-rpg-monster-sprites-from-friendswithmonsters
+        http://opengameart.org/content/indian-temple-16x16-compatible-with-friendswithmonsters-tilesets
 
 "Copyright 2016 by Georg Eckert
 

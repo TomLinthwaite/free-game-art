@@ -1,0 +1,11 @@
+Map Icons Developers & Contributors
+-----------------------------------
+
+In no particular order, and probably incompletely listed:
+
+Bryce Harrington (bryce) <bryce (a) neptune.net> bwh
+Hans Haggstrom (zzorn) <zzorn (a) iki.fi> hh
+Miguel Guzman (Aglanor) <miguelg (a) tid.es> mg
+
+If you contribute something to the library, please add your real name,
+cvs username, contact address, and the initials you used for new files above.
