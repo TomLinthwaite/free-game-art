@@ -1,5 +1,9 @@
 Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole" for pointing these issues. And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community.
 
+Open source developers rarely check the source of the content. For example, several open source games appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
+
+- OpenLieroX: this one tries to set a record on the games it steals from: share/gamedir/Castlevania share/gamedir/Carnage Beta1.1 share/gamedir/Doom share/gamedir/C&C V1.2B
+
 - Wesnoth: wanderer.ogg is a variation on Betrayal at Krondor main theme
 
 - Pingus: data/images/special/pacman -- graphics from Namco's game
