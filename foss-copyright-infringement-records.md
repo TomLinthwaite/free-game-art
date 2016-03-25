@@ -4,10 +4,11 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
-- Gnome steals assets from Apple OSX, Windows 7, Windows 8 and Metal Gear Solid:
+- Gnome steals assets from Apple OSX, Microsoft Windows, Super Mario and Metal Gear Solid:
   http://gnome-look.org/content/show.php/Mavericks?content=174324
   http://gnome-look.org/content/show.php/Windows+7+sound+scheme+?content=158018
   http://gnome-look.org/content/show.php/Windows+8+sounds?content=164828
+  http://gnome-look.org/content/show.php/Super+Mario+bros?content=141676
   http://gnome-look.org/content/show.php/Metal_Gear_Solid_v.1?content=156964
 
 - Wesnoth: wanderer.ogg is a variation on Betrayal at Krondor main theme
