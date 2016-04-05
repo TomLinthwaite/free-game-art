@@ -1,0 +1,19 @@
+author: Franco Giachetti (LudicArts.com)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/handpainted-platform-tileset
+
+For Adventure games, platformers, RPG and more.
+
+Tileset for make videogames, hight resolution: 256×256 pixels.
+This pack include:
+-15 terrain tiles
+-25 items and objects
+-PNG transparent format
+-Tiles size: 256×256 px
+-1 background
+-Spritesheet included
+
+See more game assets at: http://www.ludicarts.com
+
+Copyright/Attribution Notice: 
+http://www.ludicarts.com/free-volcano-platform-tileset/

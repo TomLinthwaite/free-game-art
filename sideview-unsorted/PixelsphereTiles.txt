@@ -1,0 +1,10 @@
+Author: Alex Smith 'cynicmusic' (cynicmusic.com pixelsphere.org)
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/pixelsphere-32x32-tileset-grass-trees
+
+Tileset from my upcoming game pixelsphere -- pixelsphere.org
+
+32x32 sidescroller tiles with some grass, trees and wall tiles
+
+Copyright/Attribution Notice: 
+cynicmusic.com
