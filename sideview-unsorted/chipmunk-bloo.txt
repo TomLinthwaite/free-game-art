@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/platform-tileset-0
+
+A platform tileset inspired from various Android games. Needs a revision for correcting some mistakes.
+
+Copyright/Attribution Notice: 
+Give credit if used.

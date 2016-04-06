@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/megaman-metroid-kid
+
+A sprite mix from Megaman and Metroid
+
+Copyright/Attribution Notice: 
+Give credit if used.

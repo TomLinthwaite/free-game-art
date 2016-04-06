@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/cave-tiles-sprites
+
+Inspired by Cave Story. 16 colors.
+
+Copyright/Attribution Notice: 
+Give credit if used.

@@ -1,0 +1,20 @@
+author: domsson
+license: Public Domain (CC0)
+source: http://opengameart.org/content/simple-pixel-gui-programmer-art
+
+Some simple pixel art GUI elements:
+
+Frame (ridge) with gray background
+Inset (at the same time button frame) black
+Default, active and disabled buttons in red, green and blue
+4 Icons for Buttons: Up/Down Arrows, CW/CCW Arrows
+Letters A-Z, Number 0-9 for use on the default gray background
+Screw heads
+Preview image is at 2x scale.
+Frame and inset are sliced up for use as 9-patch.
+Buttons can easily be sliced up in the same way.
+Drawn with DawnBringer's famous 32 color palette.
+They are programmer art quality level, I guess.
+Everything comes as tidy GIMP files.
+
+I would highly appreciate if you let me know where you are using these, but you don't need to.

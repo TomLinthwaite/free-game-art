@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/hostile-planet
+
+Another 16 color set. Sprite sheet not uploaded.
+
+Copyright/Attribution Notice: 
+Give credit if used.

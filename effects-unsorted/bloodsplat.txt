@@ -1,4 +1,4 @@
-Author: PWL
+Author: PWL (http://caphi.net/)
 License: CC-BY-SA
 Source: http://opengameart.org/content/blood-splat-animations
 
