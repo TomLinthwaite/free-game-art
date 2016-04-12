@@ -1,0 +1,4 @@
+Author: Kyra Contributors
+License: GPL2
+Origin: https://sourceforge.net/projects/kyra/
+        http://www.grinninglizard.com/kyra/
