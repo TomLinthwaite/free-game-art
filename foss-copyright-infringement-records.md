@@ -28,3 +28,5 @@ Open source developers rarely check the source of the assets. For example, sever
 S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of movies (i.e. Alien, Blade, etc..) and games like Id Software's Doom 
 
 - Runesword 2: later releases infringe on graphics from Age of empires and Majesty
+
+- 8 Kingdoms (https://sourceforge.net/projects/kralovstvi/): sounds from Warcraft 2

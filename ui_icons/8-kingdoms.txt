@@ -1,0 +1,8 @@
+author: 8kingdoms contributors
+license: GPL2
+origin: https://sourceforge.net/projects/kralovstvi/
+
+8 Kingdoms is a 3D turn-based fantasy strategic game in which
+players become kings, build their empires and conquer enemy kingdoms.
+
+See doc/authors.html for authors.
