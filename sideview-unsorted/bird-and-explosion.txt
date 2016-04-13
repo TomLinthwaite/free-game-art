@@ -1,0 +1,6 @@
+author: Sili Game Std. (http://siligame.com/)
+license: CC-BY
+origin: http://opengameart.org/content/bird-and-explosion
+
+Copyright/Attribution Notice: 
+Add a short comment the game you use the game art. No need to credit but it is appreciated (http://siligame.com)

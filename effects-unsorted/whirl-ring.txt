@@ -1,0 +1,10 @@
+author: n4pgamer (http://sashoo.org/forum/viewforum.php?f=22)
+license: Public Domain (CC0)
+source: http://opengameart.org/content/brush-ring
+
+Brush stroked rings. I created these to select things in games.
+
+White so you can color-transform the textures.
+
+Copyright/Attribution Notice: 
+You're free to do whatever you want! But it'd be cool if you mention me.
