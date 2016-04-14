@@ -1,0 +1,9 @@
+Author: Der_Wisch
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/ghoul-hand
+
+Found this old icon I made back when I was modding warcraft 3.
+
+Should be some kind of ghoulish hand.
+
+First version has a bigger outline and Looks more cartoonish, second version has a thinner outline.
