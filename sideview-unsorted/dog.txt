@@ -1,0 +1,18 @@
+Author: Shepardskin (https://twitter.com/Shepardskin), Angel Miguel Flores 'Hellkipz'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/husky-sprites
+
+Modified some of the art by Shepardskin, changed the colours to make him a husky istead of a German Shephert
+
+http://opengameart.org/content/german-shepherd-0
+
+added 3 new animations,
+
+- Sitting Iddle (with tail wagging)
+
+- Action of sitting (invert to make the husky stand up)
+
+- Standing Illde (with tail wagging)
+
+Copyright/Attribution Notice: 
+No need to credit me under any circumstance, but if you want to you can credit Shepardskin or give a link to his twitter: https://twitter.com/Shepardskin
