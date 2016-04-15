@@ -1,0 +1,34 @@
+Author: Clint Bellanger,Blarumyrran, crowline, Justin Nichol
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/armor-icons-by-equipment-slot
+
+Here's a solid base set of armor icons divided into five equipment slots:
+- Head
+- Chest
+- Hands (up to elbow)
+- Legs
+- Feet (up to knee)
+
+In five flavors:
+- Clothes
+- Robes
+- Leather
+- Chainmail
+- Plate
+
+Each icon is 64x64 pixels.
+
+This is a collaboration between four artists:
+
+Clint Bellanger created the original models and raw renders for the others to paint over
+Blarumyrran created the Leather Chest and Plate Chest
+crowline (CrowLineStudio) created the Cloth set
+Justin Nichol created the rest of the Robes, Leather, Chain, Plate sets
+All have agreed to release these CC0 (Public Domain) to match the license originally chosen by Blarumyrran for the previous icons.
+
+Created for Flare. The style is intended to be basically compatible with Wesnoth.
+
+Extension of the OSARE weapon icons submission.
+
+Attribution Instructions: 
+Not required, but you may choose to credit the collaborators listed in the Description.
