@@ -1,0 +1,9 @@
+Author: Clint Bellanger
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/oriental-roof-tiles
+
+Found this in my email archive dated March 2005.  I was thinking about a ninja vs. samurai sidescroller.
+
+This would be for base tile size 32x32 (approximately anyway).
+
+For the Friday Challenge "Finally Finished".

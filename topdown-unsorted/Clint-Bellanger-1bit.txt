@@ -1,0 +1,14 @@
+author: Bert-o-Naught
+license: CC-BY
+source: http://opengameart.org/content/tileset-1bit-color
+
+Here's a fantasy-RPG set of 64 tiles using 1bit color (black/white only).  For the Minimalist challenge.
+
+Feel free to steal this game idea.
+
+Imagine an adventure/rpg game where the villain has stolen 7 bits from the kingdom and only 1 bit remains safe. The hero has to go retrieve the other 7 bits.
+
+The game starts with 1 bit color graphics (black/white only).
+When the first bit is saved, the game enters 2 bit color graphics (cga style).
+At 4 bits the game goes 16 color (ega style).
+Then all 8 bits are retrieved before the finale (256 color vga style).

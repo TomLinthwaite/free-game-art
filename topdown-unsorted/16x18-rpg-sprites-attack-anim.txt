@@ -1,0 +1,18 @@
+author: Clint Bellanger, Charles Gabriel 'Antifarea' (http://antifarea.deviantart.com/)
+license: CC-BY
+source: http://opengameart.org/content/twelve-16x18-rpg-sprites-plus-base
+
+I added a base "attack" pose for Antifarea's RPG sprites:
+
+http://opengameart.org/content/twelve-16x18-rpg-sprites-plus-base
+
+(CC-BY, credit to Antifarea and OpenGameArt.org)
+
+I put the attack hand at the edge of the character's 16x18 frame so it should be very simple to add new weapon sprites.
+
+(edit)
+
+Added a "Weapon Template" file, for people designing weapons for this animation.  Note: I suggest turning on your grid and setting the grid size to 8x9.  For most weapons you should be able to just draw it once and rotate it for the other positions.
+
+Copyright/Attribution Notice: 
+Art by Charles Gabriel and Clint Bellanger, for OpenGameArt.org (http://opengameart.org)

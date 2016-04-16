@@ -1,0 +1,12 @@
+author: Charles Gabriel 'Antifarea' (http://antifarea.deviantart.com/)
+license: CC-BY
+source: http://opengameart.org/content/twelve-16x18-rpg-sprites-plus-base
+
+This is a set of character sprites, commissioned by OpenGameArt.org and created by Antifarea.  They are intended to work with the 16x16 town tileset, as seen here:
+
+http://opengameart.org/content/town-tiles
+
+If you use this art, you must include a link back to OpenGameArt.org in your attribution (as well as attributing the author, Antifarea).  If you make modifications to it, we would appreciate if you contribute those modifications back to OGA, but that is not required.
+
+Copyright/Attribution Notice: 
+Art by Charles Gabriel. Commissioned by OpenGameArt.org (http://opengameart.org)

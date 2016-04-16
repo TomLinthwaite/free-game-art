@@ -1,0 +1,14 @@
+Author: Leeor Dicker 'leeor_net'
+License: Public Domain
+Source: http://opengameart.org/content/flare-effect
+
+One of the most annoying problems I've always had when looking for useable flare type textures is that I've never found one with a proper alpha channel attached that didn't also have dark or light edges around it.
+
+This is a basic flare effect that I put together as an experiment in creating this type of effect from scratch. Scaled down it looks pretty good and will probably find use as it is in a current game project I'm working on. The black background in the preview is just for preview -- the image itself has no background.
+
+I'm including both a scaled down PNG file and the source PhotoShop file.
+
+As a note, the texture is presented as a simple white flare. Using OpenGL this can be very easily recolored. Use the PhotoShop file if you want to recolor different parts of the flare for various effects.
+
+Attribution Instructions: 
+Do what you want with this. If you find it useful and you have the time, drop me a line!

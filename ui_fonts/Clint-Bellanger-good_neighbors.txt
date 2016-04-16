@@ -2,6 +2,8 @@ author: Clint Bellanger
 license: CC0 (Public Domain)
 source: http://opengameart.org/content/good-neighbors-pixel-font
 
+A happy little pixel bitmap font.
+
 This font is designed to handle crisp pixel art scaling (nearest neighbor, aka no interpolation) and still be legible.
 
 Where would this matter? I'm making pixel art games with approximately NES resolutions (240p). I have those games scale up to the browser/display size, keeping solid pixels (no blurring).

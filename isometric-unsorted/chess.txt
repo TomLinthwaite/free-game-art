@@ -1,0 +1,32 @@
+Author: Clint Bellanger
+License: CC-BY
+Origin: http://opengameart.org/content/creepy-cake-land
+
+This is a Chess Set meant to fit in similar specs to the original Nintendo GameBoy: 4 color monochrome and 160x144 pixel resolution. It's all the art you need for an extremely simple Chess game in one kit.
+
+I include two versions of the Knights and Bishops for games that want to use specific facing.
+
+Here I used the palette #333333, #666666, #999999, #cccccc. It should be easy to recolor to other palettes.
+
+I'm not making a game for GBJam, but I wanted to make this art and share it with the community. If you use this to make a chess game please link it below!
+
+---
+
+Technical notes:
+
+I wanted to see Chess fit into an interesting perspective on this tiny screen. Orthographic or Isometric would make it hard to distinguish between tall pieces. I experimented until I found this unusual dimetric grid shape that is a specific fit for this screen size. The pieces stagger in a way that lets us read the piece in each position.
+
+When styling the pieces I put more highlights on the head than the base -- so that the distinguishing part of each piece has the most visual detail/noise.
+
+The strong outline was necessary to distinguish between pieces. With only four colors to work with and the board being medium colors, I had to stick with mostly white/black on the pieces.
+
+I exaggerated the proportions for the identifying features of each piece, to whatever size was necessary to read those elements at this pixel size, e.g. the cross on the king's crown.
+
+The shading style I used on the black pieces made them seem thinner, so I also made them slightly taller.
+
+The final pieces are 11x30 pixels and the board is 154x91. I managed to find a grid that fit the requirements and took up nearly all of the 160px available width!
+
+I worked on this 16 hours total, from original idea to posting it here. About 4 hours of that was figuring out the grid, 8 hours drawing the pieces, and 4 hours polishing the style.
+
+Copyright/Attribution Notice: 
+Please attribute me by name -- example, say something like "Chess art by Clint Bellanger" in the credits of your work. Optionally you can include a link to this page on OpenGameArt, or to my website at http://clintbellanger.net

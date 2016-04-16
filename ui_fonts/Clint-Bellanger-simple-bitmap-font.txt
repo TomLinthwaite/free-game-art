@@ -1,0 +1,17 @@
+author: Clint Bellanger
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/bitmap-font
+
+Very simple raster font.  8pt (max size 8x12 pixels).  Low printable ASCII (32 through 127 ... technically 126) represented.
+
+Here it's a white font with black outline.  I'll be using it in a game with variable color backgrounds so the outline helps.
+
+In the preview I use "-1px kerning" so that the black outline of adjacent characters overlap.
+
+The .zip includes a definition file that shows the pixel width of each character.  Also includes the .xcf file.
+
+To get the top and left corner of each character, the formula would be something similar to this:
+
+top = (ascii - 32) / 16 * 12;
+
+left = (ascii - 32) % 16 * 8;
