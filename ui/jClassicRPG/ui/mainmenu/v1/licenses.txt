@@ -1,0 +1,3 @@
+These images (mainMenu*, menu-logo.png) were created by Tranberry@freegamer (Oskar Lindqvist) for jcrpg in 2008.02
+Free GNU GPL licensed by the author Tranberry@freegamer (Oskar Lindqvist).
+Check GNU GPL license v3 or later in the repository or the released files of jcrpg.
