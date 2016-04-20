@@ -1,0 +1,9 @@
+Author: Robert Brooks (http://www.gamedeveloperstudio.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/animated-tank
+
+It took me a while to get the tracks for these tanks animating smoothly, But it worked out well in the end I think. There are more styles and types, in higher definition too, on my website,  www.gamedeveloperstudio.com.  If you find this asset useful and you feel like supporting me you can grab the rest on the site. 
+
+ 
+
+I hope you like it! the folder should have all you need to incorperate the asset quickly into your games. including spritesheets, keyframes and atlas maps. I even seperated the track animation into a different sequence for those who want to control each turret. 

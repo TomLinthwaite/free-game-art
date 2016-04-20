@@ -1,0 +1,9 @@
+Author: Robert Brooks (http://www.gamedeveloperstudio.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/mean-monster
+
+A little monster, from the monster collection on my site. Includes .png spritesheets, vector files, and keyframes all in a high definition. Please let me know if the dimensions are not enough in the comments, next time I will make a arger one.
+
+ 
+
+Thanks for viewing- there's more 2d game assets like this and in this style over at my site www.gamedeveloperstudio.com

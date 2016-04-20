@@ -1,0 +1,6 @@
+Author: Robert Brooks (http://www.gamedeveloperstudio.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/sniper-rifle
+        http://opengameart.org/content/shotgun
+        http://opengameart.org/content/bazooka
+        http://opengameart.org/content/ak-47-icon

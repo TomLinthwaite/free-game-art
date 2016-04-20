@@ -1,0 +1,9 @@
+Author: Robert Brooks (http://www.gamedeveloperstudio.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/2d-boat
+
+2d boat the download includes a the svg and pngs, the boat is easy to modify and change color, I've even  made a little guide to show which objects you should select to change the color. I used inkscape for this and the svg file doesn't open well in Illustrator so there's an Ai file included which opens well. 
+
+For some reason Illustrator doesn't preserve the correct stroke widths on the objects , I'm really liking Illustrator less and less these days, Its so clicky and clucnky, It take five clicks and menus to do what inkscape does in one, Anyone else feel the same?
+
+Anyway i digress, Enjoy!
