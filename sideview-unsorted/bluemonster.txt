@@ -1,9 +1,5 @@
 Author: Robert Brooks (http://www.gamedeveloperstudio.com/)
 License: CC-BY
-Origin: http://opengameart.org/content/mean-monster
+Origin: http://opengameart.org/content/blue-monster
 
-A little monster, from the monster collection on my site. Includes .png spritesheets, vector files, and keyframes all in a high definition. Please let me know if the dimensions are not enough in the comments, next time I will make a arger one.
-
- 
-
-Thanks for viewing- there's more 2d game assets like this and in this style over at my site www.gamedeveloperstudio.com
+Animated blue monster spritesheet. Here's another piece that I had been meaning to finish. The animations are: walk/run, rest animation. not meant to be looped, and a jump animation. You might need to ajust this depending on which engine you use. I've included the original vector so you should have no problem building new spitesheets. As well as the vector I've pre-prepared some spritesheets so you can use them in your game straight away. each frame on the sheet is 512 pixels by 512 pixels
