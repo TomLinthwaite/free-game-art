@@ -1,0 +1,5 @@
+Author: Bart Kelsey (http://opengameart.org/users/bart)
+License: CC-BY
+Origin: http://opengameart.org/content/leaf-spell-animation
+
+Orthographic, rendered in Blender.  Includes .blend file and animation .png images.

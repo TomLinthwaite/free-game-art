@@ -1,0 +1,11 @@
+author: Robotality UG (http://www.robotality.com)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/prototyping-2d-pixelart-tilesets
+
+I made these tile sets for quick and easy prototyping. They both use a different bitwise auto tiling algorithm which were derived from the following tutorials:
+http://www.saltgames.com/2010/a-bitwise-method-for-applying-tilemaps/
+http://www.codeproject.com/Articles/106884/Implementing-Auto-tiling-Functionality-in-a-Tile-M
+Have fun!
+
+Attribution Instructions: 
+If you'd like to credit us (this is not required and completely up to you) please link to our website: http://www.robotality.com

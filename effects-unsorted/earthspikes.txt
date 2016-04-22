@@ -1,0 +1,5 @@
+Author: Bart Kelsey (http://opengameart.org/users/bart)
+License: CC-BY
+Origin: http://opengameart.org/content/earthspike-spell-animation
+
+An "earth spikes" spell animation, made in Blender 2.5 alpha 2.  Blend file included.
