@@ -1,0 +1,33 @@
+author: rubberduck
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/more-isometric-parts
+
+this is the second part of isometric graphics.
+
+my first version was
+
+http://opengameart.org/content/10-free-isometric-graphics-from-3d-models
+
+it contains now textures (i forgot it in the first version), blend-file and 61 isometric graphics, so i added the parts from version 1 (stones + mushrooms)
+
+it has now better shadows (transparency)
+
+i used these cc0 submissions: (thanks to all who subbmitted these art under cc0)
+
+http://opengameart.org/content/rocks-0 by yughues
+
+http://opengameart.org/content/stone-coffin by yughues
+
+http://opengameart.org/content/chest-blizzard-style by yughues
+
+http://opengameart.org/content/watchtower-wood by atze
+
+http://opengameart.org/content/wood-boxes by groemk
+
+http://opengameart.org/content/horse-drawn-carriage by Lotnik
+
+http://opengameart.org/content/cementery-gate by zerberros
+
+http://opengameart.org/content/plants vy STKRudy85
+
+and this free texture: http://opengameart.org/content/stone-brick-wall-golgotha-stone1512jpg (submitted by bart), used for the gate
