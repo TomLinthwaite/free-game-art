@@ -1,0 +1,46 @@
+Description
+===========
+
+  This package contains "high quality" versions for some sound-tracks
+of standard sound-track set (heroes-sound-tracks).
+
+  Because this package does not supply a new version for all
+sound-tracks in the game, you will have to INSTALL THE TWO SOUND-TRACK
+PACKAGES, i.e., both heroes-sound-tracks and heroes-hq-sound-tracks.
+(order does not matter).
+
+
+License
+=======
+
+   These files are distributed under the terms of the GNU General
+Public License.  See the file `COPYING' for details.
+
+
+Latest version
+==============
+
+  New versions of this packages will be available at SourceForge.
+See the home page of Heroes:  http://heroes.sourceforge.net/
+
+
+Installation
+============
+
+  This package use autoconf and automake.  See the file `INSTALL' for
+generic instructions.  To have these sound-tracks integrated in Heroes,
+use the same --prefix and --datadir options when configuring both
+packages.
+
+  This package is supported by Heroes 0.21 or greater.
+
+
+Bug reports, feed-back
+======================
+
+ Use one of these two mailing lists:
+   heroes-bugs@lists.sourceforge.net
+   heroes-discuss@lists.sourceforge.net
+
+ See the http://heroes.sourceforge.net/lists.html for archives and
+ subscription informations.  You do NOT need to subscribe to post.
