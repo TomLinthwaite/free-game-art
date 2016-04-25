@@ -1,0 +1,8 @@
+author: jcrown41 (www.crownjoseph.com)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/powerup-animated-orb
+
+The Sprite does not have a white border. While converting it to a gif it somehow got the strange pixalated white border.
+
+Copyright/Attribution Notice: 
+Attribution is Not Required. If you however feel like crediting, simply credit www.crownjoseph.com
