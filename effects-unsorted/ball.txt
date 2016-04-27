@@ -1,0 +1,20 @@
+author: Sili Game Std. (http://siligame.com)
+license: CC-BY
+origin: http://opengameart.org/content/ball-animation-include-vector-file
+
+We've created new game arts for a new one basing on the old game named as Blowing Bubble which contain very short and simple game play of the new one. The ball animation is no longer using for the game. See if it's useful. 
+
++ iOS : https://itunes.apple.com/app/id1076335251
++ Android : https://play.google.com/store/apps/details?id=com.siligame.blowingbubble
+
+Ball animation includes 5 frames.
+
+The zip file includes : 
++ The preview sheet 
++ 5 frames: ball animation  
++ 1 vector file contain all frames, each in a layer.Copyright/Attribution Notice: 
+
+ 
+
+Copyright/Attribution Notice: 
+Add a short comment the game you use the game art here. No need to credit but it is appreciated (http://siligame.com)
