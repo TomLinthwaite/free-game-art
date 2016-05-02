@@ -2,6 +2,13 @@ Open source community, being socialist-minded, is known to react dismissively at
 
 Open source developers rarely check the source of the assets. For example, several open source games (like ZeroK-RTS) appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
 
+
+- opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art re-licensed from non-free licenses.
+    http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
+    http://opengameart.org/content/balloons-and-balls (without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain)
+
+for example, crown in  was relicensed from  ". so using it as Public Domain is a copytright infringement.
+
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
 - Gnome steals assets from Apple OSX, Microsoft Windows, Super Mario and Metal Gear Solid:

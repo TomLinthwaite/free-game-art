@@ -9,3 +9,6 @@ to get all png files under the current folder, prefixed with path
 
 to strip physical pixel aspect ratio from a png:
   pngcrush -rem pHYs -ow image.png
+
+rotate video (use -vfilters "rotate=90" to rotate at right angle):
+  ffmpeg -i input.mp4 -vf "rotate=-30*PI/180" rotated.mp4
