@@ -5,7 +5,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art re-licensed from non-free licenses.
     http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
-    http://opengameart.org/content/balloons-and-balls (without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain)
+    http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
 
 for example, crown in  was relicensed from  ". so using it as Public Domain is a copytright infringement.
 
