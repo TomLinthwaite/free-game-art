@@ -1,0 +1,7 @@
+author: Nem_
+license: CC-BY-SA
+source: http://opengameart.org/content/chess-pieces-1
+
+Simple chess pieces, the jumper is yet not as it should be.
+
+Anyway, here's the full set as it is now, with the chessboard.
