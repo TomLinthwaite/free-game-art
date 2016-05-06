@@ -1,5 +1,5 @@
 author: Roman Iljin 'Ashiroxzer' (http://ashirox.deviantart.com/)
-license: CC-BY-SA 3.0
+license: CC-BY-SA 3.0, GPL3
 source: http://opengameart.org/content/dungeon-tbs
         https://code.google.com/p/dungeon-dobrochan-game/ 
 
