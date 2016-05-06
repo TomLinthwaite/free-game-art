@@ -1,0 +1,9 @@
+Author: usr_share
+License: CC-BY, CC-BY-SA, GPL3, GPL2
+Origin: http://opengameart.org/content/db16-rpg-character-sprites-v2
+
+Here is a set of 16x24 character sprites, all using DawnBringer's 16 color palette.
+
+The sprites are layered (in gif frames) for easier modification and creation of new characters.
+
+With the exclusion of the Sara character (rightmost), this set is also available as public domain / CC0.
