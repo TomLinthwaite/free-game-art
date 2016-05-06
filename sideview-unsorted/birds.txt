@@ -1,0 +1,11 @@
+author: makujin-lawan.rhcloud.com
+license: Public Domain (CC0)
+source: http://opengameart.org/content/birds-spritesheet
+
+Spritesheet of birds used in my little android game called Spot The Lost Birds:
+https://play.google.com/store/apps/details?id=com.marklawan.spotthelostbirds
+
+This is my first game and asset ever XD
+
+Copyright/Attribution Notice: 
+Attribution to makujin-lawan.rhcloud.com but it is not mandatory

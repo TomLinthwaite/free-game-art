@@ -1,6 +1,7 @@
-Author: Michael Williams 'BizmasterStudios' (https://www.facebook.com/Bizmaster-Studios-1650885408491734/)
+Author: Michael Williams 'BizmasterStudios' (http://bizmasterstudios.deviantart.com/ https://www.facebook.com/Bizmaster-Studios-1650885408491734/)
 License: Public Domain (CC0)
 Origin: http://opengameart.org/content/rpg-inventory-icons
+        http://opengameart.org/content/gold-cointoken
 
 Just a few inventory icons to use for your project!
 
