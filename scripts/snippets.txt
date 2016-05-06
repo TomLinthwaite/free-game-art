@@ -12,3 +12,7 @@ to strip physical pixel aspect ratio from a png:
 
 rotate video (use -vfilters "rotate=90" to rotate at right angle):
   ffmpeg -i input.mp4 -vf "rotate=-30*PI/180" rotated.mp4
+
+move all .svn folders to the top folder
+
+for i in $(find . -type d -name ".svn" -exec echo "{}" \;); do mv "$i" "$(echo "$i" | sed 's%/%-%g' | sed 's%-\.svn%%g' | sed 's%^\.%svn%')"; done
