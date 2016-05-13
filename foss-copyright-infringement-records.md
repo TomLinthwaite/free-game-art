@@ -37,3 +37,5 @@ S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of m
 - Runesword 2: later releases infringe on graphics from Age of empires and Majesty
 
 - 8 Kingdoms (https://sourceforge.net/projects/kralovstvi/): sounds from Warcraft 2
+
+- TripleA (https://sourceforge.net/projects/triplea/): graphics stolen from other games (i.e. cursor_gauntlet.gif comes from World of Warcraft) Sounds apprantly come from non-free sources and music is stolen from various movies (i.e. game_start_01_start_of_lotr_company_of_the_ring.wav comes from Lord of the Rings by Ralph Bakshi)

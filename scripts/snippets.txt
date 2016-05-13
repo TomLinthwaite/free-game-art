@@ -5,7 +5,7 @@ to prefix 0 to single-digit indices (needed for sheetify):
   for i in *.png; do sename "\([^0-9]\)\([0-9]\)\.png" "0\0\1.png" $i; done
 
 to get all png files under the current folder, prefixed with path
-  for i in $(find . -type f -name "*.png" -exec echo {} \;); do cp "$i" "$(echo "$i" | sed 's%^\./%%' | sed 's%/%_%g')"; done
+  find . -type f -name "*.png" | while read i; do echo cp "$i" "$(echo "$i" | sed 's%^\./%%' | sed 's%/%_%g')"; done
 
 to strip physical pixel aspect ratio from a png:
   pngcrush -rem pHYs -ow image.png
